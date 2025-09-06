@@ -11,7 +11,7 @@ categories:
 
 ## Jejjaṭa
 
-Related to the the problem of Candraṭa, we may note that manuscripts containing the "Candraṭa verse" that ends, "... आलोक्य जैज्जटीं ||" have sometimes been misinterpreted as containing a commentary by Jejjaṭa.  This is the case, for example, with MS Bikaner Anup 4391, that was reported in this way in NCC {% cite ncc -A -l 7: 317 %}.  This led Meulenbeld to assert the existence of a commentary by Jejjaṭa on the basis of this manuscript {% cite meul-hist -l 1B 506 n.360 %}.  In fact, MS Bikaner Anup 4391 is the text of the *Suśrutasaṃhitā*, with the Candraṭa verse in the colophon.   It is likely that this is the same case for MS London IOLR Taylor 1842: this is currently being investigated. 
+Related to the [the problem of Candraṭa](https://sushrutaproject2.github.io/website/blog/2025/the-problem-of-Candrata/), we may note that manuscripts containing the "Candraṭa verse" that ends, "... आलोक्य जैज्जटीं ||" have sometimes been misinterpreted as containing a commentary by Jejjaṭa.  This is the case, for example, with MS Bikaner Anup 4391, that was reported in this way in NCC {% cite ncc -A -l 7: 317 %}.  This led Meulenbeld to assert the existence of a commentary by Jejjaṭa on the basis of this manuscript {% cite meul-hist -l 1B 506 n.360 %}.  In fact, MS Bikaner Anup 4391 is the text of the *Suśrutasaṃhitā*, with the Candraṭa verse in the colophon.   It is likely that this is the same case for MS London IOLR Taylor 1842: this is currently being investigated. 
 
 MSS currently known to have the Candraṭa verse:
 
