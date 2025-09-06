@@ -23,11 +23,11 @@ Eggeling, for example, characterised a manuscript with this statement as follows
 
 Some scholars have suggested that this verse describes an actual commentary or independent work of text-criticism by Candraṭa called the *Suśrutapāṭhaśuddhi* {% cite meul-hist -l 2A: 123 %}.	
 
-We are beginning the work of examining the MSS that apparently transmit Candraṭa's this work, but the suspicion is growing that in fact Candraṭa did not write a *separate work* with this title.  Rather, he produced a *version* of the *Suśrutasaṃhitā* that specifically adherसौश्रुते चंद्रटेनेह ed to the opinions of the commentator Jejjaṭa. The manuscripts we are seeing with the verse cited above are the *Suśrutasaṃhitā*, not some commentary on it. 
+We are beginning the work of examining the MSS that apparently transmit Candraṭa's this work, but the suspicion is growing that in fact Candraṭa did not write a *separate work* with this title.  Rather, he produced a *version* of the *Suśrutasaṃhitā* that specifically adhered to the opinions of the commentator Jejjaṭa. The manuscripts we are seeing with the verse cited above are the *Suśrutasaṃhitā*, not some commentary on it. 
 
 This would cast Candraṭa as a scholar who produced a new version of the whole Suśrutasaṃhitā, one that specifically accepted the readings of the earlier commentator Jejjaṭa. 
 
-The commentator Ḍalhaṇa does not mention Candraṭa's name anywhere in his extensive commentary.   He is elsewhere not shy about citing predecessors, so we deduce that he was not aware of Candraṭa’s work.
+The commentator Ḍalhaṇa does not mention Candraṭa's name anywhere in his extensive commentary.   He is elsewhere not shy about citing predecessors, so we deduce that he was not aware of Candraṭa’s work.  However, he often disagrees with Jejjaṭa, which raises the possibility that he was disagreeing with the text of the SS produced by Candraṭa rather than having the commentary of Jejjaṭa available to him. 
 
 At present, this is a hypothesis, and our project members are discussing the issue and thinking of ways to test the hypothesis. 
 
