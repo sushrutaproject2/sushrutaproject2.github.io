@@ -23,7 +23,7 @@ MSS currently known to have the Candraṭa verse:
 
 There are numerous statements in the secondary literature asserting that commentators cite Jejjaṭa's commentary on the Suśrutasaṃhitā.  For example, the NCC (idem) names Hemādri, Vijayarakṣita, Ṭoḍarānanda, Nāganātha, and Rūpanayana, to  which Meulenbeld adds Ḍalhaṇa, Gayadāsa and Niścalakara  (ibid, v. 1A, p. 385).  Some of these may indeed be concrete evidence for a commentary on the Suśrutasaṃhitā by Jejjaṭa.  They need to be studied individually, especially those of Ḍalhaṇa and Niścalakara.  
 
-D. C. Bhattacharyya {% cite bhat-1947 -l 112, note 1%} noted of Rudrapāraśara's early edition of the *Aṣṭāṅgasaṅgraha* with the commentary *Śaśilekhā* by Indu  {% cite rudr-1924 %}, that,
+D. C. Bhattacharyya {% cite bhat-1947 -l 112, note 1%} noted of Rudrapāraśara's early edition of the *Aṣṭāṅgasaṅgraha* with the commentary *Śaśilekhā* by [Indu](https://panditproject.org/entity/40853/person)  {% cite rudr-1924 %}, that,
 
 > The editor [Rudrapāraśara] had to rely on imperfect and fragmentary Mss. of the Śaśilekhā.  But, ... he filled up a lacuna in the Śaśilekhā with the text of the Nirantarapadī commentary (on Suśruta) by Jarjaṭa (vol. II, p. 298), which seems to be quite accessible to him, though it is a sealed book to the world outside. Many notes from Jarjaṭa [Jejjaṭa] have been printed in vols II and III."
 
