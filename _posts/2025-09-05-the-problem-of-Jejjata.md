@@ -32,11 +32,11 @@ The passage on p. 298 of Rudrapāraśara’s edition reads as follows:
 >द्रोणेऽम्भस इतयारभ्य श्वदंष्ट्रककषायस्येत्यन्तग्रन्थस्य शशिलेखाया अदर्शनात् जर्जटकृता निरन्तरपदी व्याख्या लिख्यते । 
 >द्रोणेऽम्भस इत्यादि । जीवनीयैः जीवन्त्यादिभिर्महाकषायसङ्ग्रहोक्तैर् दशभिः । फल्गुर्गोष्ठोदुम्बरः ॥
 >
->Because the *Śaśilekhā* is unavailable startimg from the passage "द्रोणेऽम्भस" and ending with  the passage "श्वदंष्ट्रककषायस्य," a  commentary Nirantarapadī, composed by Jarjaṭa, is written.
+>Because the *Śaśilekhā* is unavailable starting from the passage "द्रोणेऽम्भस" and ending with  the passage "श्वदंष्ट्रककषायस्य," a  commentary Nirantarapadī, composed by Jarjaṭa, is written.
 >
 > "द्रोणेऽम्भस", etc. With ten life-giving [drugs], beginning with *Jīvantī*, as mentioned in the "Mahākaṣāyasaṅgraha." *Phalgu* means "goṣṭhodumbaraḥ".
 
-Bhattacharyya suggested that it was Rudrapāraśara who had access to Jejjaṭa's *Nirantarapadī* commentary.  This seems to be correct, even though the passage is printed as though it were itself the text of the Śaśilekhā.  It is unlikely that Indu would have referred to his own commentary by name
+Bhattacharyya suggested that it was Rudrapāraśara, in the 1920s, who had access to Jejjaṭa's *Nirantarapadī* commentary on the *Suśrutasaṃhitā*.  This seems to be correct, even though the passage is printed as if it were the text of the *Śaśilekhā*.  It is unlikely that Indu (fl. ca. 1000–1150) would have referred to his own commentary by name
 
 In any case, those passages that I have examined from Indu on the *Aṣṭāṅgasaṅgraha* are from Jejjaṭa on the *Carakasaṃhitā*, not the *Suśrutasaṃhitā*.  Further study is required to clarify and confirm this.
 
