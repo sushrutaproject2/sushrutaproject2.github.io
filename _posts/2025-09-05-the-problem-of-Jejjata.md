@@ -19,6 +19,7 @@ MSS currently known to have the Candraṭa verse:
 *  [MS London IOLR Taylor 1842](https://www.panditproject.org/entity/108178/manuscript)
 *  [MS Kurukṣetra Jawaharlal Nehru Library 19786](https://www.panditproject.org/entity/113349/manuscript), f. 78v
 *  [MS Los Angeles LACMA M.87.271c (ma-44977.tiff)](https://panditproject.org/entity/108634/manuscript)
+*  [MS Kolkata ASB G. 5275](https://panditproject.org/entity/109395/manuscript), part III (according to the catalogue)
 
 ### Testimonia 
 
