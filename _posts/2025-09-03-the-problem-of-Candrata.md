@@ -21,15 +21,15 @@ Eggeling, for example, characterised a manuscript with this statement as follows
 
 >  "Portions of the *Sauśrutīya Āyurvedaśāstra* in Candraṭa's revision of the text made after Jaijjaṭa's (Jaiyyaṭa's) commentary.  Whether the explanatory notes added above and below the text belong to Jaijjaṭa's commentary does not appear" 
 
-Manuscripts containing this verse are being listed in "[The Problem of Jejjaṭa](https://sushrutaproject2.github.io/website/blog/2025/the-problem-of-Jejjata/)."
-
 Some scholars have suggested that this verse describes an actual commentary or independent work of text-criticism by Candraṭa called the *Suśrutapāṭhaśuddhi* {% cite meul-hist -l 2A: 123 %}.	
 
-We are beginning the work of examining the MSS that apparently transmit Candraṭa's this work, but the suspicion is growing that in fact Candraṭa did not write a *separate work* with this title.  Rather, he produced a *version* of the *Suśrutasaṃhitā* that specifically adhered to the opinions of the commentator Jejjaṭa. The manuscripts we are seeing with the verse cited above are the *Suśrutasaṃhitā*, not some commentary on it. 
+The twelfth-century scholar [Niścalakara](https://panditproject.org/entity/108218/person), is renowned for his critical awareness of the work of many medical authors. In his discussion on the treatment of skin diseases, Kuṣṭhacikitsā, 48: 34 {% shar-1993 -l 645 %}, he  appears to distinguish the “version of Candraṭa" (चन्द्रपाठ) from the standard text (सुश्रुतपाठ).  Thus, in twelfth century Bengal there may have been an awareness that Candraṭa had produced a new, different version of the *Suśrutasaṃhitā*.
+
+We are beginning the work of examining the MSS that apparently transmit Candraṭa's this work, but the suspicion is growing that in fact Candraṭa did not write a *separate work* with this title.  Rather, he produced a *version* of the *Suśrutasaṃhitā* that specifically adherसौश्रुते चंद्रटेनेह ed to the opinions of the commentator Jejjaṭa. The manuscripts we are seeing with the verse cited above are the *Suśrutasaṃhitā*, not some commentary on it. 
 
 This would cast Candraṭa as a scholar who produced a new version of the whole Suśrutasaṃhitā, one that specifically accepted the readings of the earlier commentator Jejjaṭa. 
 
-The commentator Ḍalhaṇa does not mention Candraṭa's name anywhere in his extensive commentary.   He is elsewhere not shy about citing predecessors, so we deduce that he was not aware of Candraṭa’s work.  However, he often disagrees with Jejjaṭa, which raises the possibility that he was disagreeing with the text of the SS produced by Candraṭa rather than having the commentary of Jejjaṭa available to him. 
+The commentator Ḍalhaṇa does not mention Candraṭa's name anywhere in his extensive commentary.   He is elsewhere not shy about citing predecessors, so we deduce that he was not aware of Candraṭa’s work.
 
 At present, this is a hypothesis, and our project members are discussing the issue and thinking of ways to test the hypothesis. 
 
