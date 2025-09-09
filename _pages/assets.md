@@ -7,4 +7,6 @@ dropdown: true
 children:
   - title: Bibliography
     permalink: /bibliography/
+  - title: Suśruta Project resources
+    permalink: /sushrutaproject1/
 ---
