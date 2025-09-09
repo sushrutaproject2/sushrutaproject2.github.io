@@ -65,6 +65,13 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/website/bibliography/";
               },
+            },{id: "dropdown-suśruta-project-resources",
+              title: "Suśruta Project resources",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/website/sushrutaproject1/";
+              },
             },{id: "post-the-problem-of-jejjaṭa",
         
           title: "The Problem of Jejjaṭa",
