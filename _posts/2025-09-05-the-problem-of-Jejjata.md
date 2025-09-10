@@ -55,19 +55,15 @@ As we see, the text prints the editor’s footnote to the text with an asterisk 
 the Carakasaṃhitā (चरकपाठः).
  </div>
 </div>
-As suggested by Deepro Chakraborty (personal communication), it is more likely that the passage printed in the book is what Rudrapāraśara saw in the manuscript, i.e., as part of the manuscript of Indu's commentary.  Therefore, the comment would be that of a scribe who produced the manuscript that Rudrapāśara was reading, or a manuscript in its earlier transmission.  It may be possible to check this, if one can find the manuscript from which Rudrapāraśara was working.   
+As suggested by Deepro Chakraborty (personal communication), it is more likely that the passage printed in the book is what Rudrapāraśara saw in his source, namely the *manuscript* of Indu's commentary.  Therefore, the comment would be that of a scribe who produced the manuscript that Rudrapāśara was reading, or an earlier manuscript in its transmission.  It may be possible to check this, if one can find the manuscript from which Rudrapāraśara was working.   
 
-Regarding Bhattacharyya's second assertion, there is nothing in this passage to suggest that Rudrapāraśara had access to a commentary by Jejjaṭa's on the *Suśrutasaṃhitā*  On the contrary, the name *Nirantarapadī* is an abbreviation of the name of Jejjaṭa's commentary on the *Carakasaṃhitā*, i.e., “*Nirantarapadavyākhyā*.”  Further, on p. 300 (above)  there is an explicit reference to the version of the passage under discussion as it appears in the text of the *Carakasaṃhitā* (चरकपाठे).
-
-
-
-
+Regarding Bhattacharyya's second assertion, there is nothing in this passage to suggest that Rudrapāraśara had access to a commentary by Jejjaṭa's on the *Suśrutasaṃhitā*  On the contrary, the name *Nirantarapadī* is an abbreviation of the name of Jejjaṭa's commentary on the *Carakasaṃhitā*, i.e., “*Nirantarapadavyākhyā*” {% cite zysk-2019 sast-1975 %}. Further, on p. 300 (above)  there is an explicit reference to the version of the passage under discussion as it appears in the text of the *Carakasaṃhitā* (चरकपाठे).
 
 A complicating factor is that the 1980 edition of Āṭhavale prints exactly the same passage in the same way {% cite atha-1980 -l 557-558 %}.  The most likely explanation is that Āṭhavale was simply reproducing Rudrapāraśara's edition without thought at this point.  Āṭhavale was fully aware of the earlier edition and frames his own edition as being necessary because Rudrapāraśara's edition had gone out of print.  Only a fresh examination of the manuscripts will clear up this point. 
 
 In any case, those passages that I have examined from Indu on the *Aṣṭāṅgasaṅgraha* are from Jejjaṭa on the *Carakasaṃhitā*, not the *Suśrutasaṃhitā*.  Further study is required to clarify and clarify this.
 
-At the time of writing, the fact that Ḍalhaṇa and others apparently cite Jejjaṭa while writing on the *Suśrutasaṃhitā* makes it likely that there was once a commentary by Jejjaṭa on that text.  However, the commentary is lost and the manuscripts that have been cited as containing parts of the commentary do not do so.
+At the time of writing, the fact that Ḍalhaṇa and others apparently cite Jejjaṭa while writing on the *Suśrutasaṃhitā*, and that Candraṭa said his revisions were made after studying Jejjaṭa, make it likely that there was once a commentary by Jejjaṭa on that text.  However, the commentary is lost and the manuscripts that have been cited as containing parts of the commentary do not do so.
 
 ## References
 
