@@ -31,13 +31,24 @@ D. C. Bhattacharyya {% cite bhat-1947 -l 112, note 1%} stated of Rudrapāraśara
 
 The passage on p. 298 of Rudrapāraśara’s edition reads as follows:
 
+<div class="row">
+<div class="col-sm mt-3 mt-md-0">
 {% include figure.liquid loading="eager" path="assets/img/rudraparasara-v2-page-298.png" title="Rudrapāraśara 1924, v.2, p.298." class="img-fluid rounded z-depth-1" %}
+</div>
+ <div class="col-sm mt-3 mt-md-0">
+ द्रोणेऽम्भस इतयारभ्य श्वदंष्ट्रककषायस्येत्यन्तग्रन्थस्य शशिलेखाया अदर्शनात् जर्जटकृता निरन्तरपदी व्याख्या लिख्यते । 
+द्रोणेऽम्भस इत्यादि । जीवनीयैः जीवन्त्यादिभिर्महाकषायसङ्ग्रहोक्तैर् दशभिः । फल्गुर्गोष्ठोदुम्बरः ॥
 
->द्रोणेऽम्भस इतयारभ्य श्वदंष्ट्रककषायस्येत्यन्तग्रन्थस्य शशिलेखाया अदर्शनात् जर्जटकृता निरन्तरपदी व्याख्या लिख्यते । 
->द्रोणेऽम्भस इत्यादि । जीवनीयैः जीवन्त्यादिभिर्महाकषायसङ्ग्रहोक्तैर् दशभिः । फल्गुर्गोष्ठोदुम्बरः ॥
->
->Because the *Śaśilekhā* is unavailable starting from the passage "द्रोणेऽम्भस" [As.ci.23.40] and ending with  the passage "श्वदंष्ट्रककषायस्य" [As.ci.23.61], a  commentary Nirantarapadī, composed by Jarjaṭa, is written. …
->
+Because the *Śaśilekhā* is unavailable starting from the passage "द्रोणेऽम्भस" [As.ci.23.40] and ending with  the passage "श्वदंष्ट्रककषायस्य" [As.ci.23.61], a  commentary Nirantarapadī, composed by Jarjaṭa, is written. …
+
+</div>
+</div>
+
+द्रोणेऽम्भस इतयारभ्य श्वदंष्ट्रककषायस्येत्यन्तग्रन्थस्य शशिलेखाया अदर्शनात् जर्जटकृता निरन्तरपदी व्याख्या लिख्यते । 
+द्रोणेऽम्भस इत्यादि । जीवनीयैः जीवन्त्यादिभिर्महाकषायसङ्ग्रहोक्तैर् दशभिः । फल्गुर्गोष्ठोदुम्बरः ॥
+
+Because the *Śaśilekhā* is unavailable starting from the passage "द्रोणेऽम्भस" [As.ci.23.40] and ending with  the passage "श्वदंष्ट्रककषायस्य" [As.ci.23.61], a  commentary Nirantarapadī, composed by Jarjaṭa, is written. …
+
 
 This is an interesting passage, but both of Bhattacharyya’s assertions about it are probably wrong.  One has to ask, “whose voice is this commentarial statement?” It is impossible that Indu (fl. ca. 1000–1150) would have referred to his own commentary by name, saying that it was incomplete.  It is also unlikely that it was Rudrapāraśara, in the 1920s.  The passage is printed in the same size and font as the rest of the text of the *Śaśilekhā*.   By contrast, p. 300 shows the typography of a note from Rudrapāraśara himself:
 
