@@ -44,12 +44,6 @@ Because the *Śaśilekhā* is unavailable starting from the passage "द्र�
 </div>
 </div>
 
-द्रोणेऽम्भस इतयारभ्य श्वदंष्ट्रककषायस्येत्यन्तग्रन्थस्य शशिलेखाया अदर्शनात् जर्जटकृता निरन्तरपदी व्याख्या लिख्यते । 
-द्रोणेऽम्भस इत्यादि । जीवनीयैः जीवन्त्यादिभिर्महाकषायसङ्ग्रहोक्तैर् दशभिः । फल्गुर्गोष्ठोदुम्बरः ॥
-
-Because the *Śaśilekhā* is unavailable starting from the passage "द्रोणेऽम्भस" [As.ci.23.40] and ending with  the passage "श्वदंष्ट्रककषायस्य" [As.ci.23.61], a  commentary Nirantarapadī, composed by Jarjaṭa, is written. …
-
-
 This is an interesting passage, but both of Bhattacharyya’s assertions about it are probably wrong.  One has to ask, “whose voice is this commentarial statement?” It is impossible that Indu (fl. ca. 1000–1150) would have referred to his own commentary by name, saying that it was incomplete.  It is also unlikely that it was Rudrapāraśara, in the 1920s.  The passage is printed in the same size and font as the rest of the text of the *Śaśilekhā*.   By contrast, p. 300 shows the typography of a note from Rudrapāraśara himself:
 
 <div class="row">
