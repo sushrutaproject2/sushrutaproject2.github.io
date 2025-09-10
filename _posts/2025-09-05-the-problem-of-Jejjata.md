@@ -52,9 +52,16 @@ Because the *Śaśilekhā* is unavailable starting from the passage "द्र�
 
 This is an interesting passage, but both of Bhattacharyya’s assertions about it are probably wrong.  One has to ask, “whose voice is this commentarial statement?” It is impossible that Indu (fl. ca. 1000–1150) would have referred to his own commentary by name, saying that it was incomplete.  It is also unlikely that it was Rudrapāraśara, in the 1920s.  The passage is printed in the same size and font as the rest of the text of the *Śaśilekhā*.   By contrast, p. 300 shows the typography of a note from Rudrapāraśara himself:
 
+<div class="row">
+<div class="col-sm mt-3 mt-md-0">
 {% include figure.liquid loading="eager" path="assets/img/rudraparasara-v2-page-300.png" title="Rudrapāraśara 1924, v.2, p.300." class="img-fluid rounded z-depth-1" %}
-
-As we see, the text prints the editor’s footnote to the text with an asterisk and a different font (p. 300, with two references to Jarjaṭa).  As suggested by Deepro Chakraborty (personal communication), it is more likely that the passage printed in the book is what Rudrapāraśara saw in the manuscript, i.e., as part of the manuscript of Indu's commentary.  Therefore, the comment would be that of a scribe who produced the manuscript that Rudrapāśara was reading, or a manuscript in its earlier transmission.  It may be possible to check this, if one can find the manuscript from which Rudrapāraśara was working.   
+</div>
+ <div class="col-sm mt-3 mt-md-0">
+As we see, the text prints the editor’s footnote to the text with an asterisk and a different font (p. 300, with two references to Jarjaṭa). Note, too, the reference to 
+the Carakasaṃhitā (चरकपाठः).
+ </div>
+</div>
+As suggested by Deepro Chakraborty (personal communication), it is more likely that the passage printed in the book is what Rudrapāraśara saw in the manuscript, i.e., as part of the manuscript of Indu's commentary.  Therefore, the comment would be that of a scribe who produced the manuscript that Rudrapāśara was reading, or a manuscript in its earlier transmission.  It may be possible to check this, if one can find the manuscript from which Rudrapāraśara was working.   
 
 Regarding Bhattacharyya's second assertion, there is nothing in this passage to suggest that Rudrapāraśara had access to a commentary by Jejjaṭa's on the *Suśrutasaṃhitā*  On the contrary, the name *Nirantarapadī* is an abbreviation of the name of Jejjaṭa's commentary on the *Carakasaṃhitā*, i.e., “*Nirantarapadavyākhyā*.”  Further, on p. 300 (above)  there is an explicit reference to the version of the passage under discussion as it appears in the text of the *Carakasaṃhitā* (चरकपाठे).
 
