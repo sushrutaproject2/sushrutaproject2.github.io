@@ -61,6 +61,8 @@ As suggested by Deepro Chakraborty (personal communication), it is more likely t
 
 Regarding Bhattacharyya's second assertion, there is nothing in this passage to suggest that Rudrapāraśara had access to a commentary by Jejjaṭa's on the *Suśrutasaṃhitā*  On the contrary, the name *Nirantarapadī* is an abbreviation of the name of Jejjaṭa's commentary on the *Carakasaṃhitā*, i.e., “*Nirantarapadavyākhyā*” {% cite zysk-2019 sast-1975 %}. Further, on p. 300 (above)  there is an explicit reference to the version of the passage under discussion as it appears in the text of the *Carakasaṃhitā* (चरकपाठे).
 
+Other passages in the *Śaśilekhā* that require study because they refer to Jejjaṭa include Ni.2.3, Ci.9.50 and 51-52, Utt.30.79 and 80, 38.2-6a {% cite meul-hist -l 1A: 670 %}
+
 While I criticize Bhattacharyya's assertions above, his 1947 paper was nevertheless a landmark contribution to medical history.  He published much valid historical and prosopographical information for the first time through his extremely close reading of the sources. 
 
 A minor complicating factor is that the 1980 edition of the Aṣṭāṅgasaṅgraha edited by Āṭhavale prints exactly the same passage in exactly the same way {% cite atha-1980 -l 557-558 %}.  The most likely explanation is that Āṭhavale was simply reproducing Rudrapāraśara's edition without thought at this point.  (A print example of the scribal mechanism described above!)  Āṭhavale was fully aware of the earlier edition and frames his own edition as being necessary because Rudrapāraśara's edition had gone out of print.  Only a fresh examination of the manuscripts will clear up this point. 
