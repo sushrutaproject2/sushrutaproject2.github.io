@@ -119,7 +119,7 @@ At the time of writing, the fact that Ḍalhaṇa and others apparently cite Jej
 4.34.12-14, 
 5.1.69-71, 
 5.4.9-12, 
-5.6.32 (jējjaṭastu mūṣikakalpānantaraṁ dundubhisvanīyaṁ kalpaṁ paṭhati), 
+5.6.32, 
 5.7.50-52, 
 5.8.5-7, 
 5.8.24, 
@@ -139,7 +139,13 @@ At the time of writing, the fact that Ḍalhaṇa and others apparently cite Jej
 
 ##### 5.6.32 
 
-Ḍalhaṇa says, जेज्जटस्तु मूषिककल्पानन्तरं दुन्दुभिस्वनीयं कल्पं पठति||३२|| “But Jejjaṭa reads the chapter on the sound of drums after the chapter on rats. {% cite shar-1938 -l 582 %}. This is a crux separating the Nepalese version from the vulgate text.  In the Kalpasthāna, the Nepalese version has the chapter on drums *before* the chapter on rats.  The vulgate has these chapters the other way around.  This statement by Ḍalhaṇa supports two conclusions.  First, there existed a text of the *Suśrutasaṃhitā* “as read by Jejjaṭa," which suggests that Jejjaṭa may have written a commentary on the *Suśrutasaṃhitā*.  Second, this version of Jejjaṭa followed the Nepalese version, not the vulgate.
+Ḍalhaṇa said {% cite shar-1938 -l 582 %}: 
+
+> जेज्जटस्तु मूषिककल्पानन्तरं दुन्दुभिस्वनीयं कल्पं पठति ||३२||
+>
+> But Jejjaṭa reads the chapter on the sound of drums after the chapter on rats.
+ 
+This is a crux separating the Nepalese version from the vulgate text.  In the Kalpasthāna, the Nepalese version has the chapter on drums *before* the chapter on rats.  The vulgate has these chapters the other way around.  This statement by Ḍalhaṇa supports two conclusions.  First, there existed a text of the *Suśrutasaṃhitā* “as read by Jejjaṭa," which suggests that Jejjaṭa may have written a commentary on the *Suśrutasaṃhitā*.  Second, this version of Jejjaṭa followed the Nepalese version, not the vulgate.
 
 ## References
 

@@ -30,19 +30,20 @@ The twelfth-century scholar [Niścalakara](https://panditproject.org/entity/1082
 {% include figure.liquid loading="eager" path="assets/img/sharma-1992-page-645.png" title="Sharma 1992, p.645." class="img-fluid rounded z-depth-1" %}
 </div>
  <div class="col-sm mt-3 mt-md-0">
- In his discussion of a recipe for treating skin diseases and ringworm, Kuṣṭhacikitsā, 48: 34 {% cite shar-1993 -l 645 %}, he  appears to have distinguished the “version of Candraṭa" (चन्द्रपाठ) from the standard text (सुश्रुतपाठ).  Niścalakara said that the "version of Candraṭa" read as follows: 
-
+ In his discussion of a recipe for treating skin diseases and ringworm, Kuṣṭhacikitsā, 48: 34 {% cite shar-1993 -l 645 %}, he  appears to have distinguished the “version of Candraṭa" (चन्द्रटपाठ) from the standard text (सुश्रुतपाठ).  Niścalakara said that the "version of Candraṭa" read as follows: 
+<br/>
 लाक्षा कुष्ठं सर्षपाः श्रीनिकेतं रात्रिव्योषं चक्रमर्दस्य बीजम् ।
 कृत्वैकस्थं तक्रपिष्टं प्रलेपो दद्रूषूक्तो मूलकं बीजयुक्तः ||
-</div>
+<br/>
+This corresponds almost exactly with the published vulgate text of the *Suśrutasaṃhitā* on 4.9.12 {% cite susr-1938 -l 443%}. </div>
 </div>
 
-This corresponds almost exactly with the published vulgate text of the *Suśrutasaṃhitā* on 4.9.12 {% cite susr-1938 -l 443%}.  The Nepalese version, however, is somewhat different in phrasing, though more or less identical in meaning:
+The Nepalese version, however, is somewhat different in phrasing, though more or less identical in meaning:
 
 > श्रीवेष्टकुष्ठं कुटजं सर्षपा लाक्षा व्योषं प्रपुनाटस्य बीजं।
 > तक्रेण पिष्टः सहरिद्रलेपो दद्द्रूषूक्तो मूलकाबीजयुक्तः । 
 
-Niścalakara was exercised to point out that this recipe (in either Suśruta version) does not contain विडङ्ग (embelia) (although it is included in the *Cakradatta* version of the recipe).  But he pointed out that in some places in the "version of Suśruta" the plant गुग्गुलु  (Indian bdellium-tree) is read (as it is in the *Cakradatta*).  We do not see Suśruta manuscripts with this reading. He also pointed out that all sources agree about the inclusion of buttermilk in the recipe (although the *Cakradatta* does not mention it), and for this reason it should should be included.  The way that Niścalakara refers to "all sources" (*सर्वत्र*) appears to refer to the two versions of the *Suśrutasaṃhitā* that he is distinguishing, that of Candraṭa and the "version of Suśruta." Thus, in twelfth century Bengal, it seems that Niścalakara was aware of two versions of the Suśrutasaṃhitā and distinguished between them in his interpretation of recipes.
+Niścalakara was exercised to point out that this recipe (in both Suśruta versions) does not contain विडङ्ग (embelia) as does the *Cakradatta* version of this recipe.  But he also pointed out that in some places in the "version of Suśruta" the plant गुग्गुलु  (Indian bdellium-tree) is read (as it is in the *Cakradatta*).  We do not see Suśruta manuscripts with this reading. He also pointed out that all sources agree about the inclusion of buttermilk in the recipe and for this reason it should should be included, even though the *Cakradatta* does not mention it.  The way that Niścalakara refers to "all sources" (*सर्वत्र*) appears to refer to the two versions of the *Suśrutasaṃhitā* that he is distinguishing, that of Candraṭa and the "version of Suśruta." Thus, in twelfth century Bengal, it seems that Niścalakara was aware of two versions of the Suśrutasaṃhitā and distinguished between them in his interpretation of recipes.
 
 We are beginning the work of examining the MSS that apparently transmit Candraṭa's this work, but the suspicion is growing that in fact Candraṭa did not write a *separate work* with this title.  Rather, he produced a *version* of the *Suśrutasaṃhitā* that specifically adhered to the opinions of the commentator Jejjaṭa. The manuscripts we are seeing with the verse cited above are the *Suśrutasaṃhitā*, not some commentary on it. 
 
