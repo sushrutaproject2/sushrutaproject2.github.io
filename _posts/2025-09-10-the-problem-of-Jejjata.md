@@ -137,9 +137,11 @@ At the time of writing, the fact that Ḍalhaṇa and others apparently cite Jej
 6.51.18-20, 
 6.58.51.
 
+These references will be studied individually below.
+
 ##### 5.6.32 
 
-Ḍalhaṇa said {% cite shar-1938 -l 582 %}: 
+Ḍalhaṇa said {% cite susr-1938 -l 582 %}: 
 
 > जेज्जटस्तु मूषिककल्पानन्तरं दुन्दुभिस्वनीयं कल्पं पठति ||३२||
 >
