@@ -23,10 +23,19 @@ Eggeling, for example, characterised a manuscript with this statement as follows
 
 Some scholars have suggested that this verse describes an actual commentary or independent work of text-criticism by Candraṭa called the *Suśrutapāṭhaśuddhi* {% cite meul-hist -l 2A: 123 %}.	
 
-The twelfth-century scholar [Niścalakara](https://panditproject.org/entity/108218/person), is renowned for his critical awareness of the work of many medical authors.  The breadth and accuracy of his citations tells us that he had an excellent personal library.  In his discussion of a recipe for treating skin diseases and ringworm, Kuṣṭhacikitsā, 48: 34 {% cite shar-1993 -l 645 %}, he  appears to have distinguished the “version of Candraṭa" (चन्द्रपाठ) from the standard text (सुश्रुतपाठ).  Niścalakara said that the "version of Candraṭa" read as follows:
+The twelfth-century scholar [Niścalakara](https://panditproject.org/entity/108218/person), is renowned for his critical awareness of the work of many medical authors.  The breadth and accuracy of his citations tells us that he had an excellent personal library. 
 
-> लाक्षा कुष्ठं सर्षपाः श्रीनिकेतं रात्रिव्योषं चक्रमर्दस्य बीजम् ।
-> कृत्वैकस्थं तक्रपिष्टं प्रलेपो दद्रूषूक्तो मूलकं बीजयुक्तः ||
+<div class="row">
+<div class="col-sm mt-3 mt-md-0">
+{% include figure.liquid loading="eager" path="assets/img/sharma-1992-page-645.png" title="Sharma 1992, p.645." class="img-fluid rounded z-depth-1" %}
+</div>
+ <div class="col-sm mt-3 mt-md-0">
+ In his discussion of a recipe for treating skin diseases and ringworm, Kuṣṭhacikitsā, 48: 34 {% cite shar-1993 -l 645 %}, he  appears to have distinguished the “version of Candraṭa" (चन्द्रपाठ) from the standard text (सुश्रुतपाठ).  Niścalakara said that the "version of Candraṭa" read as follows: 
+
+लाक्षा कुष्ठं सर्षपाः श्रीनिकेतं रात्रिव्योषं चक्रमर्दस्य बीजम् ।
+कृत्वैकस्थं तक्रपिष्टं प्रलेपो दद्रूषूक्तो मूलकं बीजयुक्तः ||
+</div>
+</div>
 
 This corresponds almost exactly with the published vulgate text of the *Suśrutasaṃhitā* on 4.9.12 {% cite susr-1938 -l 443%}.  The Nepalese version, however, is somewhat different in phrasing, though more or less identical in meaning:
 
