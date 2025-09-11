@@ -26,7 +26,7 @@ pagination:
   <div class="header-bar">
  <h3>Project blog posts</h3>
  
- <p>To subscribe to these blog posts, add the link https://sushrutaproject2.github.io/website/feed.xml to your RSS feed reader (for example a program like <a href="http://feedly.com">Feedly</a>.</p>
+ <p>To subscribe to these blog posts, add the link <b>https://sushrutaproject2.github.io/website/feed.xml</b> to your RSS feed reader (for example a program like <a href="http://feedly.com">Feedly</a>).</p>
   </div>
   {% endif %}
 
