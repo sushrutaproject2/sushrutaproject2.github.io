@@ -143,7 +143,7 @@ These references will be studied individually below.
 
 Ḍalhaṇa said {% cite susr-1938 -l 582 %}: 
 
-> जेज्जटस्तु मूषिककल्पानन्तरं दुन्दुभिस्वनीयं कल्पं पठति ||३२||
+> जेज्जटस्तु मूषिककल्पानन्तरं दुन्दुभिस्वनीयं कल्पं पठति //३२//
 >
 > But Jejjaṭa reads the chapter on the sound of drums after the chapter on rats.
  
