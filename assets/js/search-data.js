@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/website/sushrutaproject1/";
               },
-            },{id: "post-the-problem-of-jejjaṭa",
+            },{id: "post-ḍalhaṇa-39-s-comments-on-jejjaṭa",
+        
+          title: "Ḍalhaṇa&#39;s comments on Jejjaṭa",
+        
+        description: "What did Ḍalhaṇa say about Jejjaṭa?",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/website/blog/2025/Dalhanas-comments-on-Jejjata/";
+          
+        },
+      },{id: "post-the-problem-of-jejjaṭa",
         
           title: "The Problem of Jejjaṭa",
         
