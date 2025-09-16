@@ -11,7 +11,7 @@ categories:
 
 ## Dalhaṇa's mentions of Jejjaṭa
 
-[Ḍalhaṇa](https://panditproject.org/entity/102241/person) (b. ca. 1175) mentioned Jejjaṭa sixty-one times in his commentary *Nibandhasaṅgraha*.  The passages are as follow, using the numbering of the 1938 edition of the *Suśrutasaṃhitā* {% cite susr-1938 %} and compiled using the [NIIMH website](https://niimh.nic.in/ebooks/esushruta/): 
+[Ḍalhaṇa](https://panditproject.org/entity/102241/person) (b. ca. 1175) mentioned Jejjaṭa sixty-one times in his commentary *[Nibandhasaṅgraha](https://panditproject.org/entity/102240/work)*.  The passages are as follow, using the numbering of the 1938 edition of the *Suśrutasaṃhitā* {% cite susr-1938 %} and compiled using the [NIIMH website](https://niimh.nic.in/ebooks/esushruta/): 
 
 1.1.intro,
 1.1.35, 
