@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blog Posts of the Suśruta Project: 2020-2025
+title: Blog Posts of the Suśruta Project 2020-2025
 author:  Dominik Wujastyk
 date: 2025-09-17 12:00:00
 description:  Blog posts collected and published
