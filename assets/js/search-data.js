@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/website/sushrutaproject1/";
               },
-            },{id: "post-ḍalhaṇa-39-s-comments-on-jejjaṭa",
+            },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/website/blog/2025/2025-09-17-blog-posts-of-previous-project/";
+          
+        },
+      },{id: "post-ḍalhaṇa-39-s-comments-on-jejjaṭa",
         
           title: "Ḍalhaṇa&#39;s comments on Jejjaṭa",
         
