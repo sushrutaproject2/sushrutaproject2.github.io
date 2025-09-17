@@ -72,9 +72,9 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/website/sushrutaproject1/";
               },
-            },{id: "post-blog-posts-of-the-suśruta-project-2020-2025",
+            },{id: "post-the-suśruta-project-blog-posts-2020-2025",
         
-          title: "Blog Posts of the Suśruta Project 2020-2025",
+          title: "The Suśruta Project - Blog Posts 2020-2025",
         
         description: "Blog posts collected and published",
         section: "Posts",
