@@ -1,12 +1,15 @@
 ---
 layout: post
-title: Blog Posts of the Suśruta Project 2020-2025
+title: The Suśruta Project - Blog Posts 2020-2025
 author:  Dominik Wujastyk
 date: 2025-09-17 12:00:00
 description:  Blog posts collected and published
 tags: blog SuśrutaProject
 categories: 
+
 ---
+
+## The Suśruta Project: Blog Posts 2020-2025
 
 The Suśruta Project, 2020-2025 posted numerous research observations as blog posts on its website, http://sushrutaproject.org. 
 These blog posts have now been collected in a single PDF and published at Zenodo:
