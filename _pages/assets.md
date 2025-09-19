@@ -7,8 +7,7 @@ dropdown: true
 children:
   - title: Bibliography
     permalink: /bibliography/
-  - title: Suśruta Project resources
+  - title: Resources from the Suśruta Project
     permalink: /sushrutaproject1/
-    - title: Legacy - Palaeography resources
-      permalink: /palaeography/
+   
 ---
