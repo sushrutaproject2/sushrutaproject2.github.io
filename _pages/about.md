@@ -23,7 +23,7 @@ announcements:
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 4 # leave blank to include all the blog posts
 ---
 
 This project on the history of medicine is based at the [University of Alberta](http://ualberta.ca).  It builds on the discoveries and publications of the original [Suśruta Project](http://sushrutaproject.org) (2020-2024).
