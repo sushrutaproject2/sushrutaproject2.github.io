@@ -58,7 +58,21 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/website/blog/";
           },
-        },{id: "post-the-suśruta-project-blog-posts-2020-2025",
+        },{id: "dropdown-bibliography",
+              title: "Bibliography",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/website/bibliography/";
+              },
+            },{id: "dropdown-resources-from-the-suśruta-project",
+              title: "Resources from the Suśruta Project",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/website/sushrutaproject1/";
+              },
+            },{id: "post-the-suśruta-project-blog-posts-2020-2025",
         
           title: "The Suśruta Project - Blog Posts 2020-2025",
         
