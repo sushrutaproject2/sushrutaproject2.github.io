@@ -20,12 +20,12 @@ The following directly-accessible resources supplement the better-known print ma
 - [Cecil Bendall’s chart](https://archive.org/details/catalogueofbuddh00camb/page/n307/mode/2up) of Nepalese letters from manuscripts of the ninth century upwards.
 - [Cecil Bendall’s *Palaeographical Introduction*](https://archive.org/details/catalogueofbuddh00camb/page/n33/mode/2up)
 - Bidur Bhattarai, *[Dividing Texts: Conventions of Visual Text-Organisation in Nepalese and North Indian Manuscripts](https://www.degruyter.com/document/doi/10.1515/9783110543087/html)* (De Gruyter, 2020). Open access.
-- Einicke, Katrin. 2014. *Korrektur, Differenzierung und Abkürzung in indischen Inschriften und Handschriften.* Harrassowitz Verlag. http://public.ebookcentral.proquest.com/choice/publicfullrecord.aspx?p=1691626.
+- Einicke, Katrin. 2014. *Korrektur, Differenzierung und Abkürzung in indischen Inschriften und Handschriften.* Harrassowitz Verlag. [http://public.ebookcentral.proquest.com/choice/publicfullrecord.aspx?p=1691626](http://public.ebookcentral.proquest.com/choice/publicfullrecord.aspx?p=1691626).
 
 ## Newa script Unicode notes and standards
-* Unicode Consortium. 2020. The Unicode Standard 13.0, NewaRange: 11400–1147F. https://unicode.org/charts/PDF/U11400.pdf.
+* Unicode Consortium. 2020. The Unicode Standard 13.0, NewaRange: 11400–1147F. [https://unicode.org/charts/PDF/U11400.pdf](https://unicode.org/charts/PDF/U11400.pdf).
 
-- Pandey, Anshuman. 2012. *Proposal to Encode the Newar Script in ISO/IEC 10646*. ISO/IEC JTC1/SC2/WG2 N4184L2/12-003R2012-02-29. Michigan, USA. https://www.unicode.org/L2/L2012/12003r-newar.pdf.
+- Pandey, Anshuman. 2012. *Proposal to Encode the Newar Script in ISO/IEC 10646*. ISO/IEC JTC1/SC2/WG2 N4184L2/12-003R2012-02-29. Michigan, USA. [https://www.unicode.org/L2/L2012/12003r-newar.pdf](https://www.unicode.org/L2/L2012/12003r-newar.pdf).
   A particularly useful document with manuscript illustrations and discussion of [paratextual](https://tst.hypotheses.org/category/paratexts) elements like *puṣpikās* and *siddhir astu* symbols. 
 
 ## Software tools
