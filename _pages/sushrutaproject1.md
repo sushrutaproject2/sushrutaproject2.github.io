@@ -13,7 +13,7 @@ The website of the Suśruta Project (2020-2024) offers numerous resources under 
 * The Toolbox
   * prosopography, manuscripts, e-texts, 
   * transcription, collating, editing, 
-  * [palaeography](palaeography.md), 
+  * [palaeography](palaeography-resources.md), 
   * tools and methods, and 
   * plant databases.
 
