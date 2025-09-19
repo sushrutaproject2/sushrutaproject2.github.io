@@ -9,7 +9,6 @@ children:
     permalink: /bibliography/
   - title: Suśruta Project resources
     permalink: /sushrutaproject1/
-  children:
     - title: Legacy - Palaeography resources
       permalink: /palaeography/
 ---
