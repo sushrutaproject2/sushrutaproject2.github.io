@@ -20,10 +20,10 @@ The website of the Suśruta Project (2020-2024) offered numerous resources under
 ## Bibliographies 
 Selected editions, project participants’ publications, further selected research.
 ## The Laboratory
-  * Draft edition, 
-  * draft translation, 
-  * Github, 
-  * working methods
+  * [Draft edition at Saktumiva.org,]({% link _pages/SS1-pages/saktumiva.md  %}) 
+  * [Draft translation](https://github.com/wujastyk/sushrutaproject/blob/main/translation/incremental_SS_Translation.pdf), 
+  * [Github]({% link _pages/SS1-pages/github.md  %}), 
+  * [Working methods]({% link _pages/SS1-pages/working-methods.md  %})
 
 ## Training
   * Digital Humanities, 
