@@ -65,8 +65,8 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/website/bibliography/";
               },
-            },{id: "dropdown-legacy-resources-from-suśruta-project-1-0",
-              title: "Legacy Resources from Suśruta Project 1.0",
+            },{id: "dropdown-resources-from-the-suśruta-project",
+              title: "Resources from the Suśruta Project",
               description: "",
               section: "Dropdown",
               handler: () => {
