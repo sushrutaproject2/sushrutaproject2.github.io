@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /sushrutaproject1/
-title: Suśruta Project resources
+title: Legacy resources from Suśruta Project 1.0
 description: Research resources from the earlier project
 nav: false
 nav_order: 3
@@ -9,7 +9,7 @@ nav_order: 3
 
 <!-- _pages/sushrutaproject1.md -->
 
-The website of the Suśruta Project (2020-2024) offered numerous resources under the following headings:
+The website of the Suśruta Project (2020-2024) collected resources under the following headings:
 
 ## Project Outputs
 
