@@ -10,6 +10,11 @@ nav_order: 3
 <!-- _pages/sushrutaproject1.md -->
 
 The website of the Suśruta Project (2020-2024) offered numerous resources under the following headings:
+
+## Project Outputs
+
+* [Digital and Print publications]({% link _pages/SS1-pages/project-outputs.md  %}).
+
 ## The Toolbox
   * [prosopography, manuscripts, e-texts]({% link _pages/SS1-pages/prosopography.md  %}), 
   * [transcription, collating, editing]({% link _pages/SS1-pages/transcription-collating-editing.md %}), 
