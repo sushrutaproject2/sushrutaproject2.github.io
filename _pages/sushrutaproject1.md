@@ -26,8 +26,8 @@ Selected editions, project participants’ publications, further selected resear
   * [Working methods]({% link _pages/SS1-pages/working-methods.md  %})
 
 ## Training
-  * Digital Humanities, 
-  * Indology and Philology
+  * [Digital Humanities]({% link _pages/SS1-pages/training-digital-humanities.md  %}), 
+  * [Indology and Philology]({% link _pages/SS1-pages/training-indology-and-philology.md  %}).
 
 
 See The Suśruta Project at: [http://sushrutaproject.org](http://sushrutaproject.org) (and archived at [The WaybackMachine](https://web.archive.org/web/20250915210732/https://sushrutaproject.org/)).
