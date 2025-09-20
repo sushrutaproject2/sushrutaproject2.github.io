@@ -9,22 +9,23 @@ nav_order: 3
 
 <!-- _pages/sushrutaproject1.md -->
 
-The website of the Suśruta Project (2020-2024) offers numerous resources under the headings:
-* The Toolbox
+The website of the Suśruta Project (2020-2024) offered numerous resources under the following headings:
+## The Toolbox
   * [prosopography, manuscripts, e-texts]({% link _pages/SS1-pages/prosopography.md  %}), 
-  * transcription, collating, editing, 
+  * [transcription, collating, editing]({% link _pages/SS1-pages/transcription-collating-editing.md %}), 
   * [palaeography]({% link _pages/SS1-pages/palaeography.md %}),
-  * tools and methods, and 
-  * plant databases.
+  * [tools and methods]({% link _pages/SS1-pages/tools-and-methods.md  %}), and 
+  * [plant databases]({% link _pages/SS1-pages/plant-databases.md  %}).
 
-* Bibliographies (selected editions, project participants’ publications, further selected research)
-* The Laboratory
+## Bibliographies 
+Selected editions, project participants’ publications, further selected research.
+## The Laboratory
   * Draft edition, 
   * draft translation, 
   * Github, 
   * working methods
 
-* Training
+## Training
   * Digital Humanities, 
   * Indology and Philology
 
