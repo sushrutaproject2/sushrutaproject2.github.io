@@ -22,5 +22,3 @@ The Suśruta Project's website as a whole has been archived at the following loc
 
 * [https://wayback.archive-it.org/3196/20241107154539/https://sushrutaproject.org/](https://wayback.archive-it.org/3196/20241107154539/https://sushrutaproject.org/) (November 2024)
 * [https://web.archive.org/web/20250915210732/https://sushrutaproject.org/](https://web.archive.org/web/20250915210732/https://sushrutaproject.org/) (September 2025)
-
-x ![image-20250920113014632](/home/dom/.config/Typora/typora-user-images/image-20250920113014632.png)y
