@@ -48,3 +48,5 @@ Emending the text from *ivodakaujasāṃ bhāvānām* to *ivodakaukasāṃ bhāv
 
 
 As is the case with all emendations, there is no way to attain certainty,  except by consulting new manuscript materials. However, one should keep  in mind that in the course of the transmission from the earliest  examples of Suśruta’s to the Nepalese version, scribal errors will  definitely have occurred, which will make minor amendments necessary here and there to reach a satisfactory text.
+
+{% bibliography --cited  --group_by none %}
