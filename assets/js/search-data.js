@@ -138,15 +138,15 @@ ninja.data = [{
             window.location.href = "/website/blog/2025/social-importance-of-variant-readings/";
           
         },
-      },{id: "post-textual-cruxes",
+      },{id: "post-textual-separative-differences",
         
-          title: "Textual cruxes",
+          title: "Textual Separative Differences",
         
-        description: "cruxes",
+        description: "Separative Differences",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/website/blog/2025/cruxes/";
+            window.location.href = "/website/blog/2025/separative-errors/";
           
         },
       },{id: "post-acquiring-manuscript-images",
