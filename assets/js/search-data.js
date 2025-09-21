@@ -74,7 +74,7 @@ ninja.data = [{
               },
             },{id: "post-text-emendation-dwellers-in-the-sea",
         
-          title: "Text emendation - dwellers in the sea",
+          title: "Text Emendation - Dwellers in the Sea",
         
         description: "Thought process about emending",
         section: "Posts",
