@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Textual cruxes
+title: Textual Separative Differences
 author: Dominik Wujastyk
 date: 2025-08-14 15:00:00
-description: cruxes
-tags:  manuscripts
+description: Separative Differences
+tags:  manuscripts Trennfehler
 categories: 
 ---
 
@@ -12,17 +12,17 @@ The project is starting to acquire a significant number of copies of manuscripts
 
 We need to develop techniques for triaging these manuscripts.  That is to say, we are aware of a major cleavage in the history of transmission of the SS, between the Nepalese version and the vulgate.  So when we look at a new manuscript, we want to have a rapid way of detecting whether it belongs to one or other of these transmissions, or to another transmission that is different from either.   
 
-By the term "crux" I mean a *Trennfehler* or separative error, in the sense used in the critical editing of texts.  However, separative features of manuscript need not be errors, but can be innovations or even more simply, differences.  Thus, the expression “separative innovations” is perhaps more appropriate {% cite acer-2023 -l 2 %}.  What we are after are easily identifiable passages in a manuscript of the *Suśrutasaṃhitā* that will identify that manuscripts as belonging to one or other branch of the stemma.  Since we are at present dealing with two branches, the vulgate and the Nepalese Version, “cruxes” are passages that are clearly and definitely included or excluded in one or other version of the text. 
+The term "separative error" is a term of art in textual criticism, also known as a *Trennfehler.  However, separative features of manuscripts need not be errors, but can be innovations or even more simply, differences.  Thus, the expression “separative innovations” is perhaps more appropriate {% cite acer-2023 -l 2 %}.  What we are after in the present context are easily identifiable passages in a manuscript of the *Suśrutasaṃhitā* that will identify that manuscripts as belonging to one or other branch of the stemma.  Since we are at present dealing with two branches, the vulgate and the Nepalese Version, “separative differences” are passages that are clearly and definitely included or excluded in one or other version of the text. 
 
 At first, I thought the absence of the “*yathovāca bhagavān dhanvantariḥ*” phrase would be a marker of the Nepalese version.  But this is not the case.  Manuscripts without this phrase still have vulgate readings.  That suggests that the Dhanvantari phrase was added after the vulgate branch had already separated from the Nepalese transmission.  We need to look more deeply.  
 
 One area for research is the passages called *pratisaṃskartṛsūtras* or “sūtras by revisers” by commentators {% cite meul-hist -l IA 347 %}.  These are passages connected with the comments by Cakrapāṇidatta and – following him – Ḍalhaṇa on the very beginning of the *Suśrutasaṃhitā* in which they discuss the idea of an older text being later expanded.  Cakra and Ḍalhaṇa thought that the use of the perfect tense (Sanskrit *liṭ*) was a marker of such added passages, for example SS 1.1.1–2, 1.2.1–2, etc.   Meulenbeld provided further detail {% cite meul-hist -A -l IIB 444, note 293 %}.
 
-Therefore we want to develop a series of cruxes, that is to say bold, clear diagnostic differences between the Nepalese and the vulgate transmissions.  We want to gather a list of these cruxes covering each sthāna, and perhaps several adhyāyas.  This blog post will gather such passages.
+Therefore we want to develop a series of separative differences, that is to say bold, clear diagnostic differences between the Nepalese and the vulgate transmissions.  We want to gather a list of these Trennfehler covering each sthāna, and perhaps several adhyāyas.  This blog post will gather such passages.
 
-## List of cruxes
+## List of separative differences
 
-Sūtrasthāna, adhyāyas 45 and 46 have many verses in the vulgate that do not appear in the Nepalese version, and vice versa.  Cruxes in other sthānas too are listed below. Some of the more obvious differences are as follow.  This is not an exhaustive list of such differences, just some of the longer, very clear cruxes where large numbers of passages differ.
+Sūtrasthāna, adhyāyas 45 and 46 have many verses in the vulgate that do not appear in the Nepalese version, and vice versa.  Separative differences in other sthānas too are listed below. Some of the more obvious differences are as follow.  This is not an exhaustive list of such differences, just some of the longer, very clear separative differences where large numbers of passages differ.
 
 | vulgate numbering                     | in vulgate | in Nepalese                     | Notes                |
 | ------------------------------------- | ---------- | ------------------------------- | ------------------------------- |
@@ -64,7 +64,7 @@ Sūtrasthāna, adhyāyas 45 and 46 have many verses in the vulgate that do not a
 |                                       |            |                                 |                                 |
 | 2.1.64-68                             | Y          | N                               |                                |
 |                                       |            |                                 |                                 |
-|                                       |            |                                 |                                 |
+| 3.1.4 | N | Y | ivodakojasāṃ (see [blog](https://sushrutaproject2.github.io/website/blog/2025/dwellers-in-the-sea/)) |
 | 3.2.10.add1-add11                     | N          | Y                               |                                |
 | 3.2.30                                |            | MS H has a saut du même au même |  |
 | 3.2.29-31                             | Y          | N                               |                                |
