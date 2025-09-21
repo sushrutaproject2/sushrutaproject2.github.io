@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/website/sushrutaproject1/";
               },
-            },{id: "post-the-suśruta-project-blog-posts-2020-2025",
+            },{id: "post-text-emendation-dwellers-in-the-sea",
+        
+          title: "Text emendation - dwellers in the sea",
+        
+        description: "Thought process about emending",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/website/blog/2025/dwellers-in-the-sea/";
+          
+        },
+      },{id: "post-the-suśruta-project-blog-posts-2020-2025",
         
           title: "The Suśruta Project - Blog Posts 2020-2025",
         
