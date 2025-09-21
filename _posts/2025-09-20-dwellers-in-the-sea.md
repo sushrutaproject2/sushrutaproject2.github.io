@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Text emendation - dwellers in the sea
+title: Text Emendation - Dwellers in the Sea
 author:  Philipp Maas
 date: 2025-09-20 12:00:00
 description:  Thought process about emending
@@ -39,12 +39,12 @@ The passage
 
 would then translate as 
 
-> This is the single abode of the multiple  Selves (“knowers of the field”) like the ocean for aquatic beings.
+> This is the single abode of the multiple Selves (“knowers of the field”) like the ocean for aquatic beings.
 
 Emending the text from *ivodakaujasāṃ bhāvānām* to *ivodakaukasāṃ bhāvānām*  satisfies both requirements of emendations. 
 
 * First, the emendation  resolves the issue of meaning. The *dṛṣṭānta* compares the single *avyakta* in which multiple Selves lead their existences with the single ocean, in  which multiple aquatic animals exist. 
-* Moreover, it is possible to  explain how the textual corruption occurred in the Nepalese version. A  scribe, who did not follow the text or who was unfamiliar with the word  *okas* as a final part of a compound, wrongly corrected what he saw as a  scribal error in his exemplar from -*aukasāṃ* to -*aujasāṃ*. This scenario  is especially probable if one considers the similarity between ja (𑐖) and ka (𑐎) in some Nepalese scripts (see, for example, these characters in the [*Saddharmapuṇḍarīka* ms. dated to 1082](http://www.fanfoyan.com/resour/pale/saddharma.pdf) and the [Mūlamadhyamakakārikā ms. dated to 550-650](https://fanfoyan.com/resour/pale/buddhapalita.pdf)).
+* Moreover, it is possible to  explain how the textual corruption occurred in the Nepalese version. A scribe, who did not follow the text or who was unfamiliar with the word  *okas* as a final part of a compound, wrongly corrected what he saw as a  scribal error in his exemplar from -*aukasāṃ* to -*aujasāṃ*. This scenario  is especially probable if one considers the similarity between ja (𑐖) and ka (𑐎) in some Nepalese scripts (see, for example, these characters in the [*Saddharmapuṇḍarīka* ms. dated to 1082](http://www.fanfoyan.com/resour/pale/saddharma.pdf) and the [Mūlamadhyamakakārikā ms. dated to 550-650](https://fanfoyan.com/resour/pale/buddhapalita.pdf)).
 
 
 As is the case with all emendations, there is no way to attain certainty,  except by consulting new manuscript materials. However, one should keep  in mind that in the course of the transmission from the earliest  examples of Suśruta’s to the Nepalese version, scribal errors will  definitely have occurred, which will make minor amendments necessary here and there to reach a satisfactory text.

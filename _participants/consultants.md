@@ -8,9 +8,7 @@ collection: participants
 
 ## Kengo Harimoto
 
-Kengo Harimoto is Research Associate at the University of Naples “L’Orientale,” Dipartimento Asia, Africa e Mediterraneo, which he joined in 2020, after working at Mahidol University (2015—2020), University of Hamburg (2006–2015), University of Groningen (2002–2006) and Temple University (2000). He studied at the University of Pennsylvania (Ph.D. 1999), Kyushu University (MA 1990) and Nagasaki University (BA 1987). His research interests include: Indian Philosophy, History of Yoga, Buddhist Studies, Purāṇas, manuscripts and inscriptions. He worked on projects on the Skandapurāṇa and Nepalese-German Manuscript Cataloguing Project and was a Collaborator on the first Suśruta Project (2020-2024).
-
-* [ORCID](https://orcid.org/0000-0003-1762-3821)
+Kengo Harimoto ([ORCID](https://orcid.org/0000-0003-1762-3821)) is Research Associate at the University of Naples “L’Orientale,” Dipartimento Asia, Africa e Mediterraneo, which he joined in 2020, after working at Mahidol University (2015—2020), University of Hamburg (2006–2015), University of Groningen (2002–2006) and Temple University (2000). He studied at the University of Pennsylvania (Ph.D. 1999), Kyushu University (MA 1990) and Nagasaki University (BA 1987). His research interests include: Indian Philosophy, History of Yoga, Buddhist Studies, Purāṇas, manuscripts and inscriptions. He worked on projects on the Skandapurāṇa and Nepalese-German Manuscript Cataloguing Project and was a Collaborator on the first Suśruta Project (2020-2024).
 
 ## Andrey Klebanov
 
