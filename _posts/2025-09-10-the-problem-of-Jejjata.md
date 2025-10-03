@@ -65,9 +65,20 @@ Other passages in the *Śaśilekhā* that require study because they refer to Je
 
 While I criticize Bhattacharyya's assertions above, his 1947 paper was nevertheless a landmark contribution to medical history.  He published much valid historical and prosopographical information for the first time through his extremely close reading of the sources. 
 
-A minor complicating factor is that the 1980 edition of the Aṣṭāṅgasaṅgraha edited by Āṭhavale prints exactly the same passage in exactly the same way {% cite atha-1980 -l 557-558 %}.  The most likely explanation is that Āṭhavale was simply reproducing Rudrapāraśara's edition without thought at this point.  (A print example of the scribal mechanism described above!)  Āṭhavale was fully aware of the earlier edition and frames his own edition as being necessary because Rudrapāraśara's edition had gone out of print.  Only a fresh examination of the manuscripts will clear up this point. 
+A minor complicating factor is that the 1980 edition of the *Aṣṭāṅgasaṅgraha* edited by Āṭhavale prints the same passage word-for-word the same as in Rudrapāraśara's edition {% cite atha-1980 -l 557-558 %}.  The most likely explanation is that Āṭhavale was simply reproducing Rudrapāraśara's edition without thought at this point.  (A print example of the scribal mechanism described above!)  Āṭhavale was fully aware of the earlier edition and frames his own edition as being necessary because Rudrapāraśara's edition had gone out of print.  Only a fresh examination of the manuscripts will clear up this point. 
 
 In any case, those passages that I have examined from Indu on the *Aṣṭāṅgasaṅgraha* are from Jejjaṭa on the *Carakasaṃhitā*, not the *Suśrutasaṃhitā*.  Further study is required to clarify and clarify this.
+
+[Later edit:
+
+Prof. Tsutomu Yamashita notes that in his commentary on the *Carakasaṃhitā*, Jejjaṭa several times referred to the *Suśrtasaṃhitā*.  The following passage illustrates such citations:
+
+| Jejjaṭa on Caraka         | Suśruta passage cited |
+| ------------------------- | --------------------- |
+| Cikitsāsthāna 3           | Uttaratantra 39       |
+| Cikitsāsthāna 24.199--205 | Uttaratantra 47.49    |
+
+This, internal evidence from Jejjaṭa's own writing shows that he was certainly aware of the *Suśrutasaṃhitā* and referred to it.  But this does not prove that he wrote a commentary on it. 
 
 At the time of writing, the fact that Ḍalhaṇa and others apparently cite Jejjaṭa while writing on the *Suśrutasaṃhitā*, and that Candraṭa said his revisions to the *Suśrutasaṃhitā* were made after studying Jejjaṭa, make it likely that there was once a commentary by Jejjaṭa on that text.  However, the commentary is lost and the manuscripts that have been cited as containing parts of the commentary do not do so.
 
