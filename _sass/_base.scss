@@ -31,14 +31,20 @@ table {
   th {
     font-size: 1rem;
     padding: 1px 1rem 1px 0;
-      margin: auto;
-  width: 50%;
   }
 
   th {
     font-weight: bold;
   }
 }
+
+// DW make tables centered
+table {
+     margin: auto;
+     width: 50%;
+      padding: 10px;
+       border: 1px solid #AAAAAA;
+  }
 
 a,
 table.table a {
