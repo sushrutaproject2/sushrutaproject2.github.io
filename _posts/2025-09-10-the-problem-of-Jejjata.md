@@ -71,14 +71,15 @@ In any case, those passages that I have examined from Indu on the *Aṣṭāṅg
 
 [Later edit:
 
-Prof. Tsutomu Yamashita notes that in his commentary on the *Carakasaṃhitā*, Jejjaṭa several times referred to the *Suśrtasaṃhitā*.  The following passage illustrates such citations:
-
+Prof. Tsutomu Yamashita noted in an email (2025-09-06) that in his commentary on the *Carakasaṃhitā*, Jejjaṭa several times referred to the *Suśrtasaṃhitā*.  The following passage illustrates such citations:
+<div align="center">
 | Jejjaṭa on Caraka         | Suśruta passage cited |
 | ------------------------- | --------------------- |
 | Cikitsāsthāna 3           | Uttaratantra 39       |
 | Cikitsāsthāna 24.199--205 | Uttaratantra 47.49    |
+</div>
 
-This, internal evidence from Jejjaṭa's own writing shows that he was certainly aware of the *Suśrutasaṃhitā* and referred to it.  But this does not prove that he wrote a commentary on it. 
+This internal evidence from Jejjaṭa's own writing shows that he was certainly aware of the *Suśrutasaṃhitā* and referred to it.  But this does not prove that he wrote a commentary on it. 
 
 At the time of writing, the fact that Ḍalhaṇa and others apparently cite Jejjaṭa while writing on the *Suśrutasaṃhitā*, and that Candraṭa said his revisions to the *Suśrutasaṃhitā* were made after studying Jejjaṭa, make it likely that there was once a commentary by Jejjaṭa on that text.  However, the commentary is lost and the manuscripts that have been cited as containing parts of the commentary do not do so.
 
