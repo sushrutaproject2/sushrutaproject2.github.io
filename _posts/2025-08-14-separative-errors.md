@@ -64,7 +64,7 @@ Sūtrasthāna, adhyāyas 45 and 46 have many verses in the vulgate that do not a
 |                                       |            |                                 |                                 |
 | 2.1.64-68                             | Y          | N                               |                                |
 |                                       |            |                                 |                                 |
-| 3.1.4 | N | Y | ivodakojasāṃ (see [blog](https://sushrutaproject2.github.io/website/blog/2025/dwellers-in-the-sea/)) |
+| 3.1.3 | N | Y | ivodakojasāṃ (see [blog](https://sushrutaproject2.github.io/website/blog/2025/dwellers-in-the-sea/)) |
 | 3.2.10.add1-add11                     | N          | Y                               |                                |
 | 3.2.30                                |            | MS H has a saut du même au même |  |
 | 3.2.29-31                             | Y          | N                               |                                |
