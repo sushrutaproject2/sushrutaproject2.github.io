@@ -27,6 +27,8 @@ Sūtrasthāna, adhyāyas 45 and 46 have many verses in the vulgate that do not a
 | vulgate numbering                     | in vulgate | in Nepalese                     | Notes                |
 | ------------------------------------- | ---------- | ------------------------------- | ------------------------------- |
 |                                       |            |                                 |                                 |
+| 1.10.4 (ity eke ... na samyak phrase) | Y          | N                               |                                |
+|  |  |  | |
 | 1.12.6b | Y | N |  |
 | 1.12.27cd-29ab | Y | N |  |
 | 1.12.35ef | N | Y |  |
@@ -40,7 +42,6 @@ Sūtrasthāna, adhyāyas 45 and 46 have many verses in the vulgate that do not a
 | 1.16.11-14                            | Y          | N                               |                                |
 | 1.16.26.1-19                          | Y          | N                               |                                |
 |                                       |            |                                 |                                 |
-| 1.10.4 (ity eke ... na samyak phrase) | Y          | N                               |                                |
 |                                       |            |                                 |                                 |
 | 1.45.13-16                            | Y          | N                               |                                |
 | after 1.45.40 4 verses                | N          | Y                               |                                |
@@ -73,9 +74,20 @@ Sūtrasthāna, adhyāyas 45 and 46 have many verses in the vulgate that do not a
 | 4.9.18-38                             | Y          | N                               |                                |
 | 4.9.40 | Y | much smaller |  |
 | 4.9.57-63                             | Y          | N                               |                                |
+|4.29.12-13|||not yet clarified|
 |||||
 | 5.1.5cd-6ab (viṣakanyā)               | Y          | N                               |                                |
 | 5.6 and 5.7 chapters are reversed | dundubhi-mūṣikā | mūṣikā-dundubhi |  |
+|  |  |  | |
+| 6.24.24 | Y | N | |
+|6.64.41a-41h|N|Y||
+|6.64.46a-46o|N|Y||
+| 6.65.5                                |asadvādiprayuktānāṃ|asadaprayuktānāñ ca||
+|6.65.9|N|Y|yathā... ekīkaraṇam|
+| 6.65.22                               |Y|N|prasaṅgaḥ ... bhūtacintāyāṃ punar|
+|6.65.41-43|Y|N|verses added in vulgate after 40|
+|||||
+|||||
 
 ## References
 
