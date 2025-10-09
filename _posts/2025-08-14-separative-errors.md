@@ -79,7 +79,28 @@ Sūtrasthāna, adhyāyas 45 and 46 have many verses in the vulgate that do not a
 | 5.1.5cd-6ab (viṣakanyā)               | Y          | N                               |                                |
 | 5.6 and 5.7 chapters are reversed | dundubhi-mūṣikā | mūṣikā-dundubhi |  |
 |  |  |  | |
-| 6.24.24 | Y | N | |
+| 6.2.2-i – 6.2.2-ii | N | Y | |
+| 6.3.3 – 6.3.4 | Y | N | According to Ḍalhaṇa, Pañijkākāra did not read verses but Jejjaṭa did. |
+| 6.5.8 – 6.5.9 | Y | N | According to Ḍalhaṇa, Jejjaṭa reads these verses in the reverse order but Pañjikākāra reads them in this order. |
+| 6.6.12 – 6.6.19 | Y | N |  |
+| 6.9.9 – 6.9.11ab | Y | N |  |
+| 6.13 – 6.14 | Two different chapters | single chapter (6.13) |  |
+| 6.17.72cd – 6.17.81 | Y | N |  |
+| 6.18.31 – 6.18.32 | Y | N |  |
+| 6.18.35cd – 6.18.43 | Y | N |  |
+| 6.18.105 | Y | N |  |
+| 6.19.6 – 6.19.8ab | Y | N |  |
+| 6.21.2 – 6.21.3 | Y | N |  |
+| 6.21.6 – 6.21.7 | Y | N |  |
+| 6.21.22cd – 6.21.27 | Y | N |  |
+| 6.21.29cd – 6.21.34 | Y | N |  |
+| 6.24 | 6.24 | 6.51 | Kāyacikitsā 16 in Nepalese version |
+| 6.24.24 | Y | N |  |
+| 6.25.13–15ab | Y | N | 13ab is different in Nepalese version |
+| 6.38 | 6.38 | 6.58 | Kāyacikitsā 23 in Nepalese version |
+| 6.39.51 – 6.39.56 | Y | N |  |
+| 6.39.219 – 6.39.229ab | Y | N |  |
+| 6.39.233 – 6.39.244 | Y | N |  |
 |6.64.41a-41h|N|Y||
 |6.64.46a-46o|N|Y||
 | 6.65.5                                |asadvādiprayuktānāṃ|asadaprayuktānāñ ca||
