@@ -16,10 +16,11 @@ Related to the [the problem of Candraṭa](https://sushrutaproject2.github.io/we
 MSS currently known to have the so-called Candraṭa verse:
 
 *  [MS Bikaner Anup 4391](https://panditproject.org/entity/108211/manuscript)
-*  [MS London IOLR Taylor 1842](https://www.panditproject.org/entity/108178/manuscript)
+*  [MS London IOLR Taylor 1842](https://www.panditproject.org/entity/108178/manuscript) (Eggeling catalogue 2646)
 *  [MS Kurukṣetra Jawaharlal Nehru Library 19786](https://www.panditproject.org/entity/113349/manuscript), f. 78v
 *  [MS Los Angeles LACMA M.87.271c (ma-44977.tiff)](https://panditproject.org/entity/108634/manuscript)
 *  [MS Kolkata ASB G. 5275](https://panditproject.org/entity/109395/manuscript), part III (according to the catalogue)
+*  [MS Udaipur RORI Udaipur coll. 1806(3)](https://panditproject.org/entity/108192/manuscript) 
 
 ### Testimonia 
 
