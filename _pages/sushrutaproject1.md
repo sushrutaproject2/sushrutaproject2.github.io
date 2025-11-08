@@ -24,7 +24,7 @@ The website of the Suśruta Project (2020-2024) collected resources under the fo
 
 ## Bibliographies 
 Selected editions, project participants’ publications, further selected research.
-  *   [Editions of the Suśrutasaṃhitā]({% link _pages/SS1-pages/selected-editions-of-SSṃd  %}).
+  *   [Editions of the Suśrutasaṃhitā]({% link _pages/SS1-pages/selected-editions-of-SS.md  %}).
 ## The Laboratory
   * [Draft edition at Saktumiva.org,]({% link _pages/SS1-pages/saktumiva.md  %}) 
   * [Draft translation](https://github.com/wujastyk/sushrutaproject/blob/main/translation/incremental_SS_Translation.pdf), 
