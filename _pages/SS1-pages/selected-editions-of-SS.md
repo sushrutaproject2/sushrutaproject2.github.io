@@ -7,6 +7,10 @@ layout: page
 
 (A full bibliography to 2002 is available in Meulenbeld, [HIML IB, p.311-314](https://archive.org/stream/Meulenbeld-HIML/HIML_1B#page/311/mode/2up/search/narendra).)
 
+### 1834
+
+The first translation of any part of the *Suśrutasaṃhitā* into a European language appears to be that of John Tytler, “Translation of two chapters of the First Part of the Soosroota" that was sent in a letter dated January 29, 1834, addressed to Troyer.  Reproduced in S. N. Sen, “Medical and Technical Education,” in *Scientific and Technical Education in India 1781–1900* (New Delhi: INSA, 1991), ch. 4, pp. 160-161.
+
 ### 1835
 
 Gupta, Sri Madhusudana, ed. 1835. *सुश्रुतः।  आयुर्व्वेदः। भगवता धन्वन्तरिणोपदिष्टः। सुश्रुतनामधेयेन तच्छिष्येण  विरचितः। = The Suśruta, or System of Medicine, Taught by Dhanwantari and Composed by Hist Disciple Suśruta . The Suśruta, or System of Medicine, Taught by Dhanwantari, and Composed by His Disciple Suśruta*. 1st ed. 2 vols. Education Press and Baptist Mission Press. http://n2t.net/ark:/13960/t6841qw6x. [Cite](javascript:void(0);) 
