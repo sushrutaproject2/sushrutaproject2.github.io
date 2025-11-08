@@ -30,10 +30,10 @@ The [*Nyāyacandrikā*](https://www.panditproject.org/entity/108025/work) of Gay
 
 ## Electronic texts
 
-- Searchable etext of the [Suśrutasaṃhitā with Ḍalhaṇa’s commentary](https://niimh.res.in/ebooks/esushruta/index.php) at the National Institute of Indian Medical Heritage, Hyderabad;
-- Searchable etext of the [Carakasaṃhitā with Cakrapāṇis commentary](https://niimh.res.in/ebooks/ecaraka/index.php) at the NIIMH;
-- Searchable etext of [several Nighaṇṭus](https://niimh.res.in/ebooks/e-Nighantu/index.php) at the NIIMH;
-- Searchable etext of the [Mādhavanidāna](https://niimh.res.in/ebooks/madhavanidana/index.php) at the NIIMH;
+- Searchable etext of the [Suśrutasaṃhitā with Ḍalhaṇa’s commentary](http://niimh.res.in/ebooks/esushruta/index.php) at the National Institute of Indian Medical Heritage, Hyderabad;
+- Searchable etext of the [Carakasaṃhitā with Cakrapāṇis commentary](http://niimh.res.in/ebooks/ecaraka/index.php) at the NIIMH;
+- Searchable etext of [several Nighaṇṭus](http://niimh.res.in/ebooks/e-Nighantu/index.php) at the NIIMH;
+- Searchable etext of the [Mādhavanidāna](http://niimh.res.in/ebooks/madhavanidana/index.php) at the NIIMH;
 - [eGranthaSamuccaya](http://ccras.res.in/ccras_ebooks/) at the NIIMH (includes the above etexts and several others);
 - Searchable etext of the [Aṣṭāṅgahṛdayasaṃhitā with Aruṇadatta’s commentary](https://vedotpatti.in/samhita/Vag/ehrudayam/?mod=search) at I-AIM (FRLHT);
 - Searchable etext of the [Aṣṭāṅgasaṅgraha with Indu’s commentary](https://vedotpatti.in/samhita/Vag/esangraha/?mod=search) at I-AIM (FRLHT).
