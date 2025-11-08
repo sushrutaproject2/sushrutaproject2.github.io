@@ -31,7 +31,7 @@ The [*Nyāyacandrikā*](https://www.panditproject.org/entity/108025/work) of Gay
 ## Electronic texts
 
 - Searchable etext of the [Suśrutasaṃhitā with Ḍalhaṇa’s commentary](http://niimh.res.in/ebooks/esushruta/index.php) at the National Institute of Indian Medical Heritage, Hyderabad;
-- Searchable etext of the [Carakasaṃhitā with Cakrapāṇis commentary](http://niimh.res.in/ebooks/ecaraka/index.php) at the NIIMH;
+- Searchable etext of the [Carakasaṃhitā with Cakrapāṇi’s commentary](http://niimh.res.in/ebooks/ecaraka/index.php) at the NIIMH;
 - Searchable etext of [several Nighaṇṭus](http://niimh.res.in/ebooks/e-Nighantu/index.php) at the NIIMH;
 - Searchable etext of the [Mādhavanidāna](http://niimh.res.in/ebooks/madhavanidana/index.php) at the NIIMH;
 - [eGranthaSamuccaya](http://ccras.res.in/ccras_ebooks/) at the NIIMH (includes the above etexts and several others);
