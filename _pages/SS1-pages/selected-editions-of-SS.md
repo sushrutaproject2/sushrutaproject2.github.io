@@ -9,7 +9,7 @@ layout: page
 
 ### 1834
 
-The first translation of any part of the *Suśrutasaṃhitā* into a European language appears to be that of John Tytler, “Translation of two chapters of the First Part of the Soosroota" that was sent in a letter dated January 29, 1834, addressed to Troyer.  Reproduced in S. N. Sen, “Medical and Technical Education,” in *Scientific and Technical Education in India 1781–1900* (New Delhi: INSA, 1991), ch. 4, pp. 160-161.
+The first translation of any part of the *Suśrutasaṃhitā* into a European language appears to be that of John Tytler, “Translation of two chapters of the First Part of the Soosroota" that was sent in a letter dated January 29, 1834, addressed to Troyer.  Reproduced in S. N. Sen, “Medical and Technical Education,” in *Scientific and Technical Education in India 1781–1900* (New Delhi: INSA, 1991), ch. 4, pp. 160-161. [DOI](https://doi.org/10.5281/zenodo.17561581).
 
 ### 1835
 
