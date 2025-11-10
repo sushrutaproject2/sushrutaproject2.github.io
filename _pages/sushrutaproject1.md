@@ -24,7 +24,8 @@ The website of the Suśruta Project (2020-2024) collected resources under the fo
 
 ## Bibliographies 
 Selected editions, project participants’ publications, further selected research.
-  *   [Editions of the Suśrutasaṃhitā]({% link _pages/SS1-pages/selected-editions-of-SS.md  %}).
+  *   [Editions of the Suśrutasaṃhitā]({% link _pages/SS1-pages/bibliography-selected-editions-of-SS.md  %}).
+  *   [Related publications by project participants]({% link _pages/SS1-pages/bibliography-selected-publications.md  %}).
 
 
 ## The Laboratory
