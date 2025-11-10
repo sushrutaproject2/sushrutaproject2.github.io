@@ -105,8 +105,6 @@ Strauss, Bettina. 1934. “Das Giftbuch Des Śānāq: Eine Literaturgeschichtlic
 
 Turner, R. L. 1966. *A Comparative Dictionary of the Indo-Aryan Languages*. Oxford University Press. [http://dsal.uchicago.edu/dictionaries/soas/](http://dsal.uchicago.edu/dictionaries/soas/).
 
-  [Download](javascript:void(0);)
-
 Unicode Consortium. 2020. *The Unicode Standard 13.0, NewaRange: 11400–1147F*. [https://unicode.org/charts/PDF/U11400.pdf](https://unicode.org/charts/PDF/U11400.pdf).
 
 Valiathan, M. S. 2007. *The Legacy of Suśruta*. Orient Longman. 
