@@ -26,7 +26,7 @@ latest_posts:
   limit: 4 # leave blank to include all the blog posts
 ---
 
-This project on the history of medicine is based at the [University of Alberta](http://ualberta.ca).  It builds on the discoveries and publications of the original [Suśruta Project](http://sushrutaproject.org) (2020-2024).
+This project on the history of medicine is based at the [University of Alberta](http://ualberta.ca).  It builds on the discoveries and publications of the original [Suśruta Project](http://sushrutaproject.org) (2020-2024; also at [https://sushrutaproject.github.io](https://sushrutaproject1.github.io)).
 
 Funding for this project is generously provided by an Insight Grant from the Canadian SSHRC (no. 435-2025-0604) and runs from 2025-2029.
 
