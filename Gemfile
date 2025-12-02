@@ -23,7 +23,7 @@ group :jekyll_plugins do
     gem 'jemoji'
 
     gem 'classifier-reborn'  # used for content categorization during the build
-    gem "jekyll-pdf" # added by DW from https://github.com/abemedia/jekyll-pdf
+    gem 'jekyll-pdf' # added by DW from https://github.com/abemedia/jekyll-pdf
 end
 
 # Gems for development or external data fetching (outside :jekyll_plugins)
