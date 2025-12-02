@@ -5,8 +5,6 @@ author:  Dominik Wujastyk
 date: 2025-02-25 14:24:00
 description: on the relationship between the Suśrutasaṃhitā and the Carakasaṃhitā
 tags: Caraka Suśruta diagnosis textual_analysis
-categories: 
-pdf: true
 ---
 
 ###  "Entering the road" of medicine
