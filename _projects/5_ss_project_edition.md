@@ -18,3 +18,5 @@ Some chapters are unedited or lightly-edited collations of the manuscript eviden
 4. Cikitsāsthāna [chapters 1--20](https://saktumiva.org/wiki/wujastyk/susrutasamhita/04-su.ci-1-20/provisional-edition_cikitsasthana_01-20), [21--40](https://saktumiva.org/wiki/wujastyk/susrutasamhita/04-su.ci-21-40/provisional-edition_cikitsasthana_21-40) 
 5. [Kalpasthāna](https://saktumiva.org/wiki/wujastyk/susrutasamhita/05-su.ka/provisional-edition_kalpasthana) 
 6. Uttaratantra  [chapters 1-30](https://saktumiva.org/wiki/wujastyk/susrutasamhita/06-su.ut-01-30/provisional-edition_uttaratantra-1-30), [31-44](https://saktumiva.org/wiki/wujastyk/susrutasamhita/06-su.ut-31-44/provisional-edition_uttaratantra-31-44), [45-66](https://saktumiva.org/wiki/wujastyk/susrutasamhita/06-su.ut-45-66/provisional-edition_uttaratantra-45-66) 
+
+*[Update, 2025-12: The edition is being rebuilt using the new Saktumiva 2.0 software.  The alpha release can be viewed [here](https://wujastyk.github.io/Saktumiva2/).]*
