@@ -253,11 +253,12 @@ ul.task-list input[type="checkbox"] {
 }
 
 // Navbar customization
-
+// DW update; background-color was var(--global-bg-color);
+  
 .navbar {
   box-shadow: none;
   border-bottom: 1px solid var(--global-divider-color);
-  background-color: #f39f00; //DW update; was var(--global-bg-color);
+  background-color: #f39f00; 
   opacity: 0.95;
 }
 
