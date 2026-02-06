@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/website/sushrutaproject1/";
               },
-            },{id: "post-text-emendation-dwellers-in-the-sea",
+            },{id: "post-book-review-of-quot-plastic-surgery-quot",
+        
+          title: "Book review of &quot;Plastic Surgery&quot;",
+        
+        description: "A book review in Asian Medicine",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/website/blog/2025/review-of-project-book/";
+          
+        },
+      },{id: "post-text-emendation-dwellers-in-the-sea",
         
           title: "Text Emendation - Dwellers in the Sea",
         
