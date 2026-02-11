@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/website/sushrutaproject1/";
               },
-            },{id: "post-book-review-of-quot-plastic-surgery-quot",
+            },{id: "post-ms-bikaner-anup-4389",
+        
+          title: "Ms Bikaner Anup 4389",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/website/blog/2026/MS-Bikaner-Anup-4389/";
+          
+        },
+      },{id: "post-book-review-of-quot-plastic-surgery-quot",
         
           title: "Book review of &quot;Plastic Surgery&quot;",
         
