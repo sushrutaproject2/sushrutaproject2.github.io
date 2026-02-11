@@ -15,7 +15,7 @@ Given Gayadāsa's importance to the history of *Suśrutasaṃhitā*, the existen
 
 My delight soon turned to anguish when I examined manuscript Bikaner Anup 4389, which is held by the Anup Sanskrit Library in the Lalgarh Palace,  Bikaner. The most obvious problem was the frequent lacunae in the text,  which the scribe represented with a dash for each syllable that was missing. It appears that the manuscript from  which the scribe was copying had already been severely damaged, because  several lines of dashes, sometimes numbering up to ten or twelve, appear on every folio. Each lacuna renders sentences, compounds, and words incomplete.
 
-![MS Bikaner Anup 4389]({{ site.baseurl }}/assets/img/ms-anup-4389-folio.png){: width="90%"}
+![MS Bikaner Anup 4389]({{ site.baseurl }}/assets/img/ms-anup-4389-folio.png){: width="100%"}
 
 Perhaps even more devastating than the lacunae, however, was the  amount of gibberish spread throughout the text. Scholars who work with  handwritten manuscripts of texts that have been poorly transmitted  expect to encounter mistakes, and if these errors are small, they can usually be corrected so that the text can be  understand, if not fully, then at least substantially. For editing  purposes, one typically requires two or more manuscripts to correct a  range of mistakes with some confidence.
 
