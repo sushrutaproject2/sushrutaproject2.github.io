@@ -7,7 +7,7 @@ description: An account of transcribing chapter 2 of Gayadāsa's  commentary on 
 tags: blog SuśrutaProject gayadāsa transcription gibberish
 ---
 
-Gayadāsa's *Nyāyacandrikā* is one of the important early  commentaries on the *Suśrutasaṃhitā* that has largely been lost in the  sands of time.  I say "largely" because only a relatively small portion  is known to have survived: the commentary on one of Suśruta's six books, the *Nidānasthāna*, which was edited and published by Acharya Trivikramji in his 1938 edition of the *Suśrutasaṃhitā*  {% cite susr-1915 susr-1931 susr-1938 %}.
+Gayadāsa's *Nyāyacandrikā* is one of the important early  commentaries on the *Suśrutasaṃhitā* that has largely been lost in the  sands of time.  I say "largely" because only a relatively small portion  is known to have survived: the commentary on one of Suśruta's six books, the *Nidānasthāna*, which was edited and published by Acharya Trivikramji in his 1938 edition of the *Suśrutasaṃhitā*  {% cite susr-1938 %}.
 
 We know that Gayadāsa's commentary was important because it was  frequently cited by Ḍalhaṇa, a twelfth-century author whose commentary  came to define the version of  the *Suśrutasaṃhitā* that was printed and widely disseminated in the twentieth century.  Since Ḍalhaṇa often refers to Gayadāsa's views and records many  variant readings known to this earlier commentator, it is clear that  Gayadāsa played a significant role in the transmission and  interpretation of the *Suśrutasaṃhitā*.
 
@@ -15,7 +15,13 @@ Given Gayadāsa's importance to the history of *Suśrutasaṃhitā*, the existen
 
 My delight soon turned to anguish when I examined manuscript Bikaner Anup 4389, which is held by the Anup Sanskrit Library in the Lalgarh Palace,  Bikaner. The most obvious problem was the frequent lacunae in the text,  which the scribe represented with a dash for each syllable that was missing. It appears that the manuscript from  which the scribe was copying had already been severely damaged, because  several lines of dashes, sometimes numbering up to ten or twelve, appear on every folio. Each lacuna renders sentences, compounds, and words incomplete.
 
-![MS Bikaner Anup 4389](ms-anup-4389-folio.png)
+![MS Bikaner Anup 4389]({{ site.baseurl }}assets/img/ms-anup-4389-folio.png)
+
+
+
+xxx
+
+![ms-anup-4389-folio](../assets/img/ms-anup-4389-folio.png)
 
 Perhaps even more devastating than the lacunae, however, was the  amount of gibberish spread throughout the text. Scholars who work with  handwritten manuscripts of texts that have been poorly transmitted  expect to encounter mistakes, and if these errors are small, they can usually be corrected so that the text can be  understand, if not fully, then at least substantially. For editing  purposes, one typically requires two or more manuscripts to correct a  range of mistakes with some confidence.
 
