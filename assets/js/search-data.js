@@ -74,7 +74,7 @@ ninja.data = [{
               },
             },{id: "post-gayadāsa-39-s-commentary-on-suśruta-39-s-sūtrasthāna-in-manuscript-bikaner-anup-4389",
         
-          title: "Gayadāsa&#39;s Commentary on Suśruta&#39;s *Sūtrasthāna* in Manuscript Bikaner Anup 4389",
+          title: "Gayadāsa&#39;s Commentary on Suśruta&#39;s Sūtrasthāna in Manuscript Bikaner Anup 4389",
         
         description: "An account of transcribing chapter 2 of Gayadāsa&#39;s  commentary on Sūtrasthāna in MS Bikaner Anup 4389 (Anup Sanskrit Library, Bikaner) .",
         section: "Posts",
