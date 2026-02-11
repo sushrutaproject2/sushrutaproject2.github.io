@@ -22,22 +22,18 @@ Perhaps even more devastating than the lacunae, however, was the  amount of gibb
 
 Unfortunately, manuscript Anup 4389 contains mistakes in every sentence, some of which a later hand has attempted to correct. Many letters have  been crossed out and replaced with others written in the margin or above the line. These attempted corrections sometimes render the text even more illegible. When combined with the lacunae,  the gibberish makes much of the manuscript incomprehensible. The  difficulty of reading this manuscript (without another copy for  comparison) is particularly evident in passages that correspond to Ḍalhaṇa's commentary. In such instances, one can be more certain of  what Gayadāsa originally wrote and therefore see the manuscript's  gibberish clearly. For example, 
 
-|               |                                            |
-| ------------- | ------------------------------------------ |
 | **Ḍalhaṇa**:  | krodhaḥ parasyāpakārapūrvakaṃ hṛdayottejaḥ |
 | **Gayadāsa**: | kovaḥ parasyatyakārapūrvikā haravitejaḥ    |
 
 In some cases, the manuscript reading is good enough to make sense of the text when read against Ḍalhaṇa's parallel comment:
 
-|               |                                            |
-| ------------- | ------------------------------------------ |
+
 | **Ḍalhaṇa**:  | kāmaḥ viśiṣṭastrīviṣayasparśasaṅkalpaḥ, athavā śabdādiṣu grahaṇapravṛttirvā, svabāndhavakṛtasneho vā kāmaḥ||
 | **Gayadāsa**: | tatra kāmo vi+ṣṭastriviṣayasparśaḥ prakalpaḥ athavā  śabdādiṣu grahapratahir vā kāmo diṣva grahapravṛttisu vidyākūlaṃ	    |
 
 In other cases, however, the text is so corrupt that one cannot be certain that the passages are parallel:
 
-|               |                                            |
-| ------------- | ------------------------------------------ |
+
 | **Ḍalhaṇa**:  | lobhaḥ parasvagrahaṇecchā;  |
 | **Gayadāsa**: | lātetharadhagrahā    |
 
