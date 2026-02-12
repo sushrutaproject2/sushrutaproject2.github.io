@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/website/sushrutaproject1/";
               },
-            },{id: "post-gayadāsa-39-s-commentary-on-suśruta-39-s-sūtrasthāna-in-manuscript-bikaner-anup-4389",
+            },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/website/blog/2026/2026-02-12-Dhanvantari-again/";
+          
+        },
+      },{id: "post-gayadāsa-39-s-commentary-on-suśruta-39-s-sūtrasthāna-in-manuscript-bikaner-anup-4389",
         
           title: "Gayadāsa&#39;s Commentary on Suśruta&#39;s Sūtrasthāna in Manuscript Bikaner Anup 4389",
         
