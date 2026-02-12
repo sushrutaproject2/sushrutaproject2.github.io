@@ -9,7 +9,7 @@ tags: SuśrutaProject Gayadāsa transcription Dhanvantari
 
 Jason has discovered a historically important statement in Gayadāsa's commentary on the *Śārīrasthāna*. 
 
-As mentioned in yesterday's blog post, the *[Nyāyacandrikā](https://panditproject.org/index.php/entity/108025/work)* by [Gayadāsa](https://panditproject.org/index.php/entity/108024/person) (fl. ca. 1000, Bengal) is one of the important early  commentaries on the *Suśrutasaṃhitā*.    It was discussed by Meulenbeld {% cite meul-hist -l 1A: 380-383 %}. 
+As mentioned in [yesterday's blog post](https://sushrutaproject2.github.io/website/blog/2026/MS-Bikaner-Anup-4389/), the *[Nyāyacandrikā](https://panditproject.org/index.php/entity/108025/work)* by [Gayadāsa](https://panditproject.org/index.php/entity/108024/person) (fl. ca. 1000, Bengal) is one of the important early  commentaries on the *Suśrutasaṃhitā*.    It was discussed by Meulenbeld {% cite meul-hist -l 1A: 380-383 %}. 
 
 ## Gayadāsa on Śārīrasthāna 1.2
 
