@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dhanvantari according to Gayadāsa: MS Cambridge CUL Add.2491
+title: Dhanvantari according to Gayadāsa -- MS Cambridge CUL Add.2491
 author: Dominik Wujastyk and Jason Birch
 date: 2026-02-12
 description: discoveries from MS Cambridge CUL Add.2491
@@ -23,11 +23,23 @@ Gayadāsa said:
 >
 > "As Dhanvantari declared" is a statement by the editor. 
 
-This deserves some unpacking. First, it is unexpected that Gayadāsa referred to the Dhanvantari phrase as a *sūtra*.  This term usually refers to a laconic technical statement in a text such as Pāṇini's grammar or the *Yogasūtra*, rather than a prose phrase.  Second, is his use of the term प्रतिसंस्कर्ता "editor."  The term can be used to refer to someone who rewrites, edits or supplements an original text.  In the context of medical literature, the most famous person referred to with this term is [Ḍṛḍhabala](https://panditproject.org/index.php/entity/108545/person) (fl. ca. 300 CE), who revised the *Carakasaṃhitā* and actually wrote seventeen chapters of the *Cikitsāsthāna* and the whole of the *Kalpasthāna* and the *Siddhi* sections of that work {% cite meul-hist -l 1A: 130%}.  Thus, it is quite a strong term to use, invoking the idea not of someone who makes minor changes, but of someone who may perform wholesale rewriting of a text. 
+This deserves some unpacking. First, it is unexpected that Gayadāsa referred to the Dhanvantari phrase as a *sūtra*.  This term usually refers to a laconic technical statement in a text such as Pāṇini's grammar or the *Yogasūtra*, rather than a prose phrase.  Second, is his use of the term प्रतिसंस्कर्ता "editor, reviser."  The term can be used to refer to someone who rewrites, edits or supplements an original text.  In the context of medical literature, the most famous person referred to with this term is [Ḍṛḍhabala](https://panditproject.org/index.php/entity/108545/person) (fl. ca. 300 CE), who revised the *Carakasaṃhitā* and actually wrote seventeen chapters of the *Cikitsāsthāna* and the whole of the *Kalpasthāna* and the *Siddhi* sections of that work {% cite meul-hist -l 1A: 130%}.  Thus, it is quite a strong term to use, invoking the idea not of someone who makes minor changes, but of someone who may perform wholesale rewriting of a text. 
 
+We have some reflections on the meaning of this term  प्रतिसंस्कर्ता by the commentator Ḍalhaṇa.  In his comments on the very opening of the *Suśrutasaṃhitā*, Ḍalhaṇa divided the statements of the work, which he called *sūtras*, into four categories:   those of a reviser, of a partisan person, of a student or of a teacher {%  cite  susr-1938 -l 1 %}:
 
+> ननु, कतमत्सूत्रमिदं? चतुर्विधानि हि सूत्राणि भवन्ति; तद्यथा- प्रतिसंस्कर्तृसूत्रम्, एकीयसूत्रं, शिष्यसूत्रं, गुरुसूत्रं चेति।
 
-## Surviving portions of the Nyāyacandrikā
+He noted that some people did not accept the existence of a reviser, but he went on to describe such a reviser:
+
+>  किमेततत्स्वकपोलकल्पितं सुश्रुतेनोक्तम् , अथवा यथैव गुरुणोदीरितमिति पृष्टः प्रतिसंस्कर्ता सुश्रुतमुखेनेदमाह - यथोवाच भगवान् धन्वन्तरिरिति। इदं प्रतिसंस्कर्तृसूत्रं, यत्र यत्र परोक्षे लिट्प्रयोगस्तत्र तत्रैव प्रतिसंस्कर्तृसूत्रं ज्ञातव्यमिति; प्रतिसंस्कर्ताऽपीह नागार्जुन एव।
+
+> To the question, "Was this stated by Suśruta as something he thought of in his own head, or was it uttered by the preceptor [Divodāsa] exactly as it is?" the reviser, speaking  through Suśruta's mouth, replied: "As the Blessed (*bhagavān*) Dhanvantari spoke." This is the reviser’s aphorism. Wherever the perfect tense is used to indicate an event not personally witnessed by the speaker, it should be recognized as a statement coming from the reviser.  Furthermore, the reviser here is none other than  Nāgārjuna.
+
+The verb उवाच "spoke" in the phrase "Dhanvantari spoke," is in the perfect tense, which is why Ḍalhaṇa made this grammatical point. 
+
+Thus we see that Ḍalhaṇa is again taking a statement from Gayadāsa on this point.  It is to be presumed that this whole discussion in Ḍalhaṇa is copied to some extent from Gayadāsa's *Nyāyacandrikā*, but unfortunately that part of that work does not survive.  
+
+ ## Appendix: Surviving portions of the Nyāyacandrikā
 
 Very little of the *Nyāyacandrikā* survives.  Today, we have only the following fragments:
 
