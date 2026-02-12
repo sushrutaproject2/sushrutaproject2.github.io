@@ -15,7 +15,7 @@ As mentioned in yesterday's blog post, the *[Nyāyacandrikā](https://panditproj
 
 Gayadāsa first discussed the title and opening statement of chapter 1 of the *Śārīrasthāna*.  Then he came to the immediately following phrase "यथोवाच धन्वन्तरिः",  "as was declared by Dhanvantari," which appears in almost all printed editions of the Suśrutasaṃhitā and which has already been the subject of a paper from this project {% cite birc-2021 %}.  
 
-Gayadāsa said:  
+While transcribing MS Bikaner Anup 4389, Jason noted the following statement by Gayadāsa:  
 
 ![MS Bikaner Anup 4389](/website/assets/img/ms-cambridge-add.2491-dhanvantari.png){: width="100%"}
 
@@ -29,32 +29,38 @@ We have some reflections on the meaning of this term  प्रतिसंस�
 
 > ननु, कतमत्सूत्रमिदं? चतुर्विधानि हि सूत्राणि भवन्ति; तद्यथा- प्रतिसंस्कर्तृसूत्रम्, एकीयसूत्रं, शिष्यसूत्रं, गुरुसूत्रं चेति।
 
-He noted that some people did not accept the existence of a reviser, but he went on to describe such a reviser:
+Ḍalhaṇa noted that some people did not accept the existence of a reviser, but he went on to describe the role of such a reviser:
 
 >  किमेततत्स्वकपोलकल्पितं सुश्रुतेनोक्तम् , अथवा यथैव गुरुणोदीरितमिति पृष्टः प्रतिसंस्कर्ता सुश्रुतमुखेनेदमाह - यथोवाच भगवान् धन्वन्तरिरिति। इदं प्रतिसंस्कर्तृसूत्रं, यत्र यत्र परोक्षे लिट्प्रयोगस्तत्र तत्रैव प्रतिसंस्कर्तृसूत्रं ज्ञातव्यमिति; प्रतिसंस्कर्ताऽपीह नागार्जुन एव।
 
-> To the question, "Was this stated by Suśruta as something he thought of in his own head, or was it uttered by the preceptor [Divodāsa] exactly as it is?" the reviser, speaking  through Suśruta's mouth, replied: "As the Blessed (*bhagavān*) Dhanvantari spoke." This is the reviser’s aphorism. Wherever the perfect tense is used to indicate an event not personally witnessed by the speaker, it should be recognized as a statement coming from the reviser.  Furthermore, the reviser here is none other than  Nāgārjuna.
+> To the question, "Was this stated by Suśruta as something he thought of in his own head, or was it uttered by the preceptor [Divodāsa] exactly as it is?" the reviser, speaking through Suśruta's mouth, replied: "As the Blessed (*bhagavān*) Dhanvantari spoke." This is the reviser’s aphorism. Wherever the perfect tense is used to indicate an event not personally witnessed by the speaker, it should be recognized as a statement coming from the reviser.  Furthermore, the reviser here is none other than  Nāgārjuna.
 
-The verb उवाच "spoke" in the phrase "Dhanvantari spoke," is in the perfect tense, which is why Ḍalhaṇa made this grammatical point. 
+The verb उवाच "spoke" in the phrase "Dhanvantari spoke," is in the perfect tense, which is why Ḍalhaṇa made this grammatical point.  In his view, therefore, the language implies that the reviser is separated by a significant period of time from the author of the work.  The reviser is answering an implied question: "is this medical treatise the work of the divine Dhanvantari or is it the work of the human Suśruta?"
 
-Thus we see that Ḍalhaṇa is again taking a statement from Gayadāsa on this point.  It is to be presumed that this whole discussion in Ḍalhaṇa is copied to some extent from Gayadāsa's *Nyāyacandrikā*, but unfortunately that part of that work does not survive.  
+Thus we see that Ḍalhaṇa is again taking a statement from Gayadāsa on this point.  It is to be presumed that this whole discussion by Ḍalhaṇa is copied to some extent from Gayadāsa's *Nyāyacandrikā*, but unfortunately that part of that work does not survive.  
 
- ## Appendix: Surviving portions of the Nyāyacandrikā
+## Appendix: Surviving portions of the Nyāyacandrikā
 
 Very little of the *Nyāyacandrikā* survives.  Today, we have only the following fragments:
 
-Sūtrasthāna
-:     MS Bikaner Anup 4389
+*Sūtrasthāna*
 
-Nidānasthāna
-:     MS Bikaner Anup 4390 ([Paris BnF Cordier 1177](https://gallica.bnf.fr/ark:/12148/btv1b100905830/f3.highres) & 1235 are copies of Anup 4390)
+*  [MS Bikaner Anup 4389](https://panditproject.org/index.php/entity/108069/manuscript)
 
-Śārīrasthāna
-:     MS Jaipur RORI 6838
-:    MS [Cambridge UL add. 2491](https://cudl.lib.cam.ac.uk/view/MS-ADD-02491/1)
+*Nidānasthāna*
 
-Kalpasthāna
-:    MS Bikaner RORI 5157
+* [MS Bikaner Anup 4390](https://panditproject.org/index.php/entity/108068/manuscript)
+  ([Paris BnF Cordier 1177](https://gallica.bnf.fr/ark:/12148/btv1b100905830/f3.highres) & 1235 are copies of Anup 4390)
+
+*Śārīrasthāna*
+
+* [MS Jaipur RORI 6838](https://panditproject.org/entity/108061/manuscript)
+* MS [Cambridge UL add. 2491](https://cudl.lib.cam.ac.uk/view/MS-ADD-02491/1)
+
+*Kalpasthāna*
+
+* [MS Bikaner RORI 5157](https://panditproject.org/entity/108026/manuscript)
+  (This is probably part of the same scribal production as Jaipur RORI 6838.)
 
 The only fragment to be published is the commentary on the *Nidānasthāna*, which was edited and included by Yādavaśarman Trivikramji Ācārya in his 1938 edition of the *Suśrutasaṃhitā*  {% cite susr-1938 %}.
 
