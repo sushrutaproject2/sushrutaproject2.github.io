@@ -39,6 +39,12 @@ The verb उवाच "he spoke" in the phrase "Dhanvantari spoke," is in the pe
 
 Thus we see that Ḍalhaṇa is again echoing a statement from Gayadāsa on this point.  It is to be presumed that this whole discussion by Ḍalhaṇa is copied more or less from Gayadāsa's *Nyāyacandrikā*.  But unfortunately that part of the *Nyāyacandrikā* does not survive. It is particularly distressing that Gayadāsa's own original remarks on this question of the different voices or registers in the text do not survive: it would have been be so interesting to know his views on this important topic in his own words. 
 
+Finally, the reference to Nāgārjuna has been comprehensively discussed by Meulenbeld {% cite meul-hist -l 1A: 363--368 %}.  As Meulenbeld noted there,
+
+> In my opinion it does not have much sense to engage in discusssions on the number of different Nagarjunas to be distinguished. The large number of very diverse works ascribed to Nagarjuna and the material relating to his life are in favour of the hypothesis that Nagarjuna developed into a legendary figure, who was not only a philosopher, but also an alchemist and a colomful wizard, to whom all kinds of writings could be attributed by Buddhists, Hindus and Jains.
+
+Meulenbeld reflected further on the Nāgārjuna referred to by Ḍalhaṇa in the context of his remarks on the layers of the *Suśrutasaṃhitā*, but in spite of much scholarship on the topic, the question remains inconclusive {% cite meul-hist -l 1A: 339-341 %}.
+
 ## Appendix: Surviving portions of the Nyāyacandrikā
 
 Very little of the *Nyāyacandrikā* survives.  Today, we have only the following manuscript fragments:
