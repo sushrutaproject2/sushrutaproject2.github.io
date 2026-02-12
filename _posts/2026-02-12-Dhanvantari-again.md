@@ -11,7 +11,9 @@ Jason has discovered a historically important statement in Gayadāsa's commentar
 
 As mentioned in yesterday's blog post, the *[Nyāyacandrikā](https://panditproject.org/index.php/entity/108025/work)* by [Gayadāsa](https://panditproject.org/index.php/entity/108024/person) (fl. ca. 1000, Bengal) is one of the important early  commentaries on the *Suśrutasaṃhitā*.    It was discussed by Meulenbeld {% cite meul-hist -l 1A: 380-383 %}. 
 
-Gayadāsa first discussed the title and opening statement of chapter 1 of the *Śārīrasthāna*.  Then he came to the immediately following phrase "यथोवाच धन्वन्तरिः",  "as was declared by Dhanvantari," which appears in almost all printed editions of the Suśrutasaṃhitā and which has already been the subject of a paper from this project {% birc-2021 %}.  
+## Gayadāsa on Śārīrasthāna 1.2
+
+Gayadāsa first discussed the title and opening statement of chapter 1 of the *Śārīrasthāna*.  Then he came to the immediately following phrase "यथोवाच धन्वन्तरिः",  "as was declared by Dhanvantari," which appears in almost all printed editions of the Suśrutasaṃhitā and which has already been the subject of a paper from this project {% cite birc-2021 %}.  
 
 Gayadāsa said:  
 
@@ -19,7 +21,11 @@ Gayadāsa said:
 >
 > "As Dhanvantari declared" is a statement by the editor. 
 
-Very little of the Nyāyacandrikā survives.  Today, we have only the following fragments:
+This deserves some unpacking. First, it is unexpected that Gayadāsa referred to the Dhanvantari phrase as a *sūtra*.  This term usually refers to a laconic technical statement in a text such as Pāṇini's grammar or the *Yogasūtra*, rather than a prose phrase.  Second, is his use of the term प्रतिसंस्कर्ता "editor."  The term can be used to refer to someone who rewrites, edits or supplements an original text.  In the context of medical literature, the most famous person referred to with this term is [Ḍṛḍhabala](https://panditproject.org/index.php/entity/108545/person) (fl. ca. 300 CE), who revised the *Carakasaṃhitā* and actually wrote seventeen chapters of the *Cikitsāsthāna* and the whole of the *Kalpasthāna* and the *Siddhi* sections of that work {% cite meul-hist -l 1A: 130%}
+
+## Surviving portions of the Nyāyacandrikā
+
+Very little of the *Nyāyacandrikā* survives.  Today, we have only the following fragments:
 
 Sūtrasthāna
 :     MS Bikaner Anup 4389
