@@ -23,7 +23,7 @@ While transcribing MS Bikaner Anup 4389, Jason noted the following statement by 
 >
 > "As Dhanvantari declared" is a statement by the editor. 
 
-This deserves some unpacking. First, it is unexpected that Gayadāsa referred to the Dhanvantari phrase as a *sūtra*.  This term usually refers to a laconic technical statement in a text such as Pāṇini's grammar or the *Yogasūtra*, rather than a prose phrase.  Second, is his use of the term प्रतिसंस्कर्ता "editor, reviser."  The term can be used to refer to someone who rewrites, edits or supplements an original text.  In the context of medical literature, the most famous person referred to with this term is [Ḍṛḍhabala](https://panditproject.org/index.php/entity/108545/person) (fl. ca. 300 CE), who revised the *Carakasaṃhitā* and actually wrote seventeen chapters of the *Cikitsāsthāna* and the whole of the *Kalpasthāna* and the *Siddhi* sections of that work {% cite meul-hist -l 1A: 130%}.  Thus, it is quite a strong term to use, invoking the idea not of someone who makes minor changes, but of someone who may perform wholesale rewriting of a text. 
+This deserves some unpacking. First, it is unexpected that Gayadāsa referred to the Dhanvantari phrase as a *sūtra*.  This term usually refers to a laconic technical statement in a text such as Pāṇini's grammar or the *Yogasūtra*, rather than a prose phrase.  Second, is his use of the term प्रतिसंस्कर्ता "editor, reviser."  The term can be used to refer to someone who rewrites, edits or supplements an original text.  In the context of medical literature, the most famous person referred to with this term is [Ḍṛḍhabala](https://panditproject.org/index.php/entity/108545/person) (fl. ca. 300 CE) who, by his own admission, revised the *Carakasaṃhitā* and actually wrote seventeen chapters of the *Cikitsāsthāna* and the whole of the *Kalpasthāna* and the *Siddhi* sections of that work {% cite meul-hist -l 1A: 130%}.  Thus, it is quite a strong term to use, invoking the idea not of someone who makes minor changes, but of someone who may perform wholesale rewriting of a text. 
 
 We have some reflections on the meaning of this term  प्रतिसंस्कर्ता by the commentator Ḍalhaṇa.  In his comments on the very opening of the *Suśrutasaṃhitā*, Ḍalhaṇa divided the statements of the work, which he called *sūtras*, into four categories:   those of a reviser, of a partisan person, of a student or of a teacher {%  cite  susr-1938 -l 1 %}:
 
@@ -35,13 +35,13 @@ We have some reflections on the meaning of this term  प्रतिसंस�
 
 > To the question, "Was this stated by Suśruta as something he thought of in his own head, or was it uttered by the preceptor [Divodāsa] exactly as it is?" the reviser, speaking through Suśruta's mouth, replied: "As the Blessed (*bhagavān*) Dhanvantari spoke." This is the reviser’s aphorism. Wherever the perfect tense is used to indicate an event not personally witnessed by the speaker, it should be recognized as a statement coming from the reviser.  Furthermore, the reviser here is none other than  Nāgārjuna.
 
-The verb उवाच "spoke" in the phrase "Dhanvantari spoke," is in the perfect tense, which is why Ḍalhaṇa made this grammatical point.  In his view, therefore, the language implies that the reviser is separated by a significant period of time from the author of the work.  The reviser is answering an implied question: "is this medical treatise the work of the divine Dhanvantari or is it the work of the human Suśruta?"
+The verb उवाच "he spoke" in the phrase "Dhanvantari spoke," is in the perfect tense, which is why Ḍalhaṇa made this grammatical point.  In his view, therefore, the language implies that the reviser is separated by a significant period of time from the author of the work.  The reviser is answering an implied question: "is this medical treatise the work of the divine Dhanvantari or is it the work of the human Suśruta?"
 
-Thus we see that Ḍalhaṇa is again taking a statement from Gayadāsa on this point.  It is to be presumed that this whole discussion by Ḍalhaṇa is copied to some extent from Gayadāsa's *Nyāyacandrikā*, but unfortunately that part of that work does not survive.  
+Thus we see that Ḍalhaṇa is again echoing a statement from Gayadāsa on this point.  It is to be presumed that this whole discussion by Ḍalhaṇa is copied more or less from Gayadāsa's *Nyāyacandrikā*.  But unfortunately that part of the *Nyāyacandrikā* does not survive. It is particularly distressing that Gayadāsa's own original remarks on this question of the different voices or registers in the text do not survive: it would have been be so interesting to know his views on this important topic in his own words. 
 
 ## Appendix: Surviving portions of the Nyāyacandrikā
 
-Very little of the *Nyāyacandrikā* survives.  Today, we have only the following fragments:
+Very little of the *Nyāyacandrikā* survives.  Today, we have only the following manuscript fragments:
 
 *Sūtrasthāna*
 
@@ -63,10 +63,6 @@ Very little of the *Nyāyacandrikā* survives.  Today, we have only the followin
   (This is probably part of the same scribal production as Jaipur RORI 6838.)
 
 The only fragment to be published is the commentary on the *Nidānasthāna*, which was edited and included by Yādavaśarman Trivikramji Ācārya in his 1938 edition of the *Suśrutasaṃhitā*  {% cite susr-1938 %}.
-
-
-
-
 
 
 ### References
