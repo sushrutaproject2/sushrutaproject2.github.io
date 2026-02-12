@@ -17,11 +17,15 @@ Gayadāsa first discussed the title and opening statement of chapter 1 of the *�
 
 Gayadāsa said:  
 
+![MS Bikaner Anup 4389](/website/assets/img/ms-cambridge-add.2491-dhanvantari.png){: width="100%"}
+
 > यथोवाच धन्वंतरिरिति प्रतिसंस्कर्तृसूत्रं॥ 
 >
 > "As Dhanvantari declared" is a statement by the editor. 
 
-This deserves some unpacking. First, it is unexpected that Gayadāsa referred to the Dhanvantari phrase as a *sūtra*.  This term usually refers to a laconic technical statement in a text such as Pāṇini's grammar or the *Yogasūtra*, rather than a prose phrase.  Second, is his use of the term प्रतिसंस्कर्ता "editor."  The term can be used to refer to someone who rewrites, edits or supplements an original text.  In the context of medical literature, the most famous person referred to with this term is [Ḍṛḍhabala](https://panditproject.org/index.php/entity/108545/person) (fl. ca. 300 CE), who revised the *Carakasaṃhitā* and actually wrote seventeen chapters of the *Cikitsāsthāna* and the whole of the *Kalpasthāna* and the *Siddhi* sections of that work {% cite meul-hist -l 1A: 130%}
+This deserves some unpacking. First, it is unexpected that Gayadāsa referred to the Dhanvantari phrase as a *sūtra*.  This term usually refers to a laconic technical statement in a text such as Pāṇini's grammar or the *Yogasūtra*, rather than a prose phrase.  Second, is his use of the term प्रतिसंस्कर्ता "editor."  The term can be used to refer to someone who rewrites, edits or supplements an original text.  In the context of medical literature, the most famous person referred to with this term is [Ḍṛḍhabala](https://panditproject.org/index.php/entity/108545/person) (fl. ca. 300 CE), who revised the *Carakasaṃhitā* and actually wrote seventeen chapters of the *Cikitsāsthāna* and the whole of the *Kalpasthāna* and the *Siddhi* sections of that work {% cite meul-hist -l 1A: 130%}.  Thus, it is quite a strong term to use, invoking the idea not of someone who makes minor changes, but of someone who may perform wholesale rewriting of a text. 
+
+
 
 ## Surviving portions of the Nyāyacandrikā
 
@@ -42,9 +46,6 @@ Kalpasthāna
 
 The only fragment to be published is the commentary on the *Nidānasthāna*, which was edited and included by Yādavaśarman Trivikramji Ācārya in his 1938 edition of the *Suśrutasaṃhitā*  {% cite susr-1938 %}.
 
-
-
-![MS Bikaner Anup 4389](/website/assets/img/ms-cambridge-add.2491.f1.png){: width="100%"}
 
 
 
