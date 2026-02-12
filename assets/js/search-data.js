@@ -72,15 +72,15 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/website/sushrutaproject1/";
               },
-            },{id: "post-",
+            },{id: "post-dhanvantari-according-to-gayadāsa-ms-cambridge-cul-add-2491",
         
-          title: "",
+          title: "Dhanvantari according to Gayadāsa -- MS Cambridge CUL Add.2491",
         
-        description: "",
+        description: "discoveries from MS Cambridge CUL Add.2491",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/website/blog/2026/2026-02-12-Dhanvantari-again/";
+            window.location.href = "/website/blog/2026/Dhanvantari-again/";
           
         },
       },{id: "post-gayadāsa-39-s-commentary-on-suśruta-39-s-sūtrasthāna-in-manuscript-bikaner-anup-4389",
