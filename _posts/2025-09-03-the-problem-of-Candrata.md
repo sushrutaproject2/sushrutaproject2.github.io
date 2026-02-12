@@ -10,7 +10,7 @@ categories:
 
 # Candraṭa
 
-Almost exactly a year ago, in a [blog post of 12 September 2024](https://sushrutaproject.org/2024/09/12/candrata/), we wrote about several manuscripts of the *Suśrutasaṃhitā* that end with the verse,
+Almost exactly a year ago, in a blog post of 12 September 2024 {% cite wuja-2025f -l 78--79 %}, we wrote about several manuscripts of the *Suśrutasaṃhitā* that end with the verse,
 
 >सौश्रुते चंद्रटेनेह भिषक्टीसटसूनुना |
 पाठशुद्धिः कृता तन्त्रे टीकाम् आलोक्य जैज्जटीं  ||
