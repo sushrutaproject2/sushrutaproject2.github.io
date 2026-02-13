@@ -43,7 +43,7 @@ A remaining open question relates to Candraṭa (fl. ca. 900-1050).  We presume 
 
 Finally, the identity of "medical" Nāgārjuna has been comprehensively discussed by Meulenbeld {% cite meul-hist -l 1A: 363--368 %}.  As Meulenbeld noted there,
 
-> In my opinion it does not have much sense to engage in discusssions on the number of different Nāgārjunas to be distinguished. The large number of very diverse works ascribed to Nāgārjuna and the material relating to his life are in favour of the hypothesis that Nāgārjuna developed into a legendary figure, who was not only a philosopher, but also an alchemist and a colomful wizard, to whom all kinds of writings could be attributed by Buddhists, Hindus and Jains.
+> In my opinion it does not have much sense to engage in discusssions on the number of different Nāgārjunas to be distinguished. The large number of very diverse works ascribed to Nāgārjuna and the material relating to his life are in favour of the hypothesis that Nāgārjuna developed into a legendary figure, who was not only a philosopher, but also an alchemist and a colourful wizard, to whom all kinds of writings could be attributed by Buddhists, Hindus and Jains.
 
 Meulenbeld reflected further on the Nāgārjuna referred to by Ḍalhaṇa in the context of his remarks on the layers of the *Suśrutasaṃhitā*, but in spite of much scholarship on the topic, the issue remains inconclusive {% cite meul-hist -l 1A: 339-341 %}.
 
