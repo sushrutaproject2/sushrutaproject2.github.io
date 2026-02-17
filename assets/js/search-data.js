@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/website/sushrutaproject1/";
               },
-            },{id: "post-dhanvantari-according-to-gayadāsa-ms-cambridge-cul-add-2491",
+            },{id: "post-meeting-with-prof-maneesh-singhal-and-his-research-group",
+        
+          title: "Meeting with Prof. Maneesh Singhal and his research group",
+        
+        description: "conversation about shared goals and possibilities for collaboration",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/website/blog/2026/Meeting-with-Prof-Maneesh-Singhal-and-group/";
+          
+        },
+      },{id: "post-dhanvantari-according-to-gayadāsa-ms-cambridge-cul-add-2491",
         
           title: "Dhanvantari according to Gayadāsa -- MS Cambridge CUL Add.2491",
         
@@ -92,6 +103,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/website/blog/2026/MS-Bikaner-Anup-4389/";
+          
+        },
+      },{id: "post-project-publication-lisa-a-brooks-quot-on-leeches-quot",
+        
+          title: "Project publication - Lisa A. Brooks &quot;On Leeches&quot;",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/website/blog/2026/project-publication-Lisa-A-Brooks/";
           
         },
       },{id: "post-book-review-of-quot-plastic-surgery-quot",
