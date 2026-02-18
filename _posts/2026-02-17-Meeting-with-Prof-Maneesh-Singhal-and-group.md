@@ -11,7 +11,7 @@ A first meeting took place today between Prof. Maneesh Singhal and his team, and
 
 The meeting discussed the collaboration between Dominik Wujastyk's team and Maneesh Singhal's group on the Suśruta project. Dominik's team focuses on ancient Sanskrit manuscripts, while Maneesh's team aims to establish a museum on Suśruta literature and develop a Suśruta research group. 
 
-The meeting discussed the collaboration between Dominik Wujastyk's team and Maneesh Singhal's group on the Suśruta project. Dominik's team focuses on ancient Sanskrit manuscripts, while Maneesh's team aims to establish a museum on Suśruta literature and develop a Suśruta research group. They plan to exchange knowledge on surgical instruments, phytochemistry, and historical contexts. Maneesh's team includes surgeons, biotechnologists, and ayurvedic physicians, and they will work on recreating Suśruta instruments and studying veterinary medicine. Future meetings will be held to coordinate efforts and share progress.
+The research groups plan to exchange knowledge on surgical instruments, phytochemistry, and historical contexts. Maneesh's team includes surgeons, biotechnologists, and ayurvedic physicians, and they will work on recreating Suśruta instruments and studying veterinary medicine. Future meetings will be held to coordinate efforts and share progress.
 
 Present: 
 
