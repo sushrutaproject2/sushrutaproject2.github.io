@@ -19,8 +19,9 @@ The project will transcribe and edit previously unstudied medieval commentaries 
 * Candraṭa (fl. ca. 900) ([PanditProject](https://panditproject.org/entity/40937/person)), 
   and 
 * Gayadāsa (fl. ca. 1000) ([PanditProject](https://panditproject.org/entity/108024/person)).
+* Cakrapāṇidatta (fl. ca. 1075)  ([PanditProject](https://panditproject.org/entity/40945/person))
 
-A strong hypothesis is that Candraṭa in particular was a key contributor to the rewriting of _The Compendium,_ but this needs to be tested through detailed study. None of these commentaries has previously been published or studied.
+One hypothesis we are considering is that Candraṭa was a key contributor to the rewriting of _The Compendium,_ but this needs to be tested through detailed study. None of these commentaries has previously been published or studied in full.
 
 ## Coverage
 
