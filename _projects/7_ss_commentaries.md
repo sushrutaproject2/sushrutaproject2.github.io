@@ -17,11 +17,17 @@ The project will transcribe and edit previously unstudied medieval commentaries 
 
 * Jejjaṭa (fl. ca. 800) ([PanditProject](https://panditproject.org/entity/40830/person)), 
 * Candraṭa (fl. ca. 900) ([PanditProject](https://panditproject.org/entity/40937/person)), 
-  and 
 * Gayadāsa (fl. ca. 1000) ([PanditProject](https://panditproject.org/entity/108024/person)).
 * Cakrapāṇidatta (fl. ca. 1075)  ([PanditProject](https://panditproject.org/entity/40945/person))
 
-One hypothesis we are considering is that Candraṭa was a key contributor to the rewriting of _The Compendium,_ but this needs to be tested through detailed study. None of these commentaries has previously been published or studied in full.
+One hypothesis we are considering is that Candraṭa was a key contributor to the rewriting of _The Compendium,_ but this needs to be tested through detailed study. 
+
+None of these commentaries has previously been published or studied in full.  
+
+* None of Jejjaṭa's commentary on the *Suśrutasaṃhitā* survives (parts of his commentary on the *Carakasaṃhitā* do survive).  
+* It is looking as though manuscripts that have been reported as being Candraṭa's commentary are in fact the main text of the *Suśrutasaṃhitā* with a final verse referring to Candraṭa's editorial work. 
+* Parts of Gayadāsa's commentary survive in a very small number of manuscripts.  His commentary on the Nidānasthāna was printed in the Ācāry'as 1938 edition of the *Suśrutasaṃhitā*.
+* Cakrapāṇidatta's commentary on the Sūtrasthāna of the Suśrutasaṃhitā was published in Ācārya's  
 
 ## Coverage
 
