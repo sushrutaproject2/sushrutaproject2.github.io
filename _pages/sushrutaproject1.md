@@ -12,7 +12,9 @@ nav_order: 3
 The website of the Suśruta Project 1.0 (2020-2024) has moved from 
 http://sushrutaproject.org 
 to 
-[http://sushrutaproject.github.io](http://sushrutaproject1.github.io). 
+[http://sushrutaproject1.github.io](http://sushrutaproject1.github.io). 
+
+The new starting page for all things "Suśruta Project" is [http://sushrutaproject.github.io](http://sushrutaproject.github.io).
 
 ## Archiving and long-term preservation
 

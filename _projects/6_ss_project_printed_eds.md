@@ -12,3 +12,6 @@ The first printed edition of *The Compendium of Su≈õruta* was produced in 1835‚Ä
 
 This project will study these printed editions and place them - to the extent possible - in relationship to each other and to the manuscripts on which they were based.  A model for this type of study is provided by Maas {% cite maas-2006   -L chapter -l 2  %}.   
 
+## References
+
+{% bibliography --cited %}
