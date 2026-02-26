@@ -7,70 +7,70 @@ ninja.data = [{
     title: "",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/website/";
+      window.location.href = "/";
     },
   },{id: "nav-project-components",
           title: "project components",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/website/projects/";
+            window.location.href = "/projects/";
           },
         },{id: "dropdown-principal-investigator",
               title: "Principal Investigator",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/website/pi/";
+                window.location.href = "/pi/";
               },
             },{id: "dropdown-research-fellow",
               title: "Research Fellow",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/website/rf/";
+                window.location.href = "/rf/";
               },
             },{id: "dropdown-collaborators",
               title: "Collaborators",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/website/collaborators/";
+                window.location.href = "/collaborators/";
               },
             },{id: "dropdown-consultants",
               title: "Consultants",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/website/consultants/";
+                window.location.href = "/consultants/";
               },
             },{id: "dropdown-research-associates",
               title: "Research Associates",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/website/ras/";
+                window.location.href = "/ras/";
               },
             },{id: "nav-blog",
           title: "blog",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/website/blog/";
+            window.location.href = "/blog/";
           },
         },{id: "dropdown-bibliography",
               title: "Bibliography",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/website/bibliography/";
+                window.location.href = "/bibliography/";
               },
             },{id: "dropdown-legacy-resources-from-suśruta-project-1-0",
               title: "Legacy Resources from Suśruta Project 1.0",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/website/sushrutaproject1/";
+                window.location.href = "/sushrutaproject1/";
               },
             },{id: "post-meeting-with-prof-maneesh-singhal-and-his-research-group",
         
@@ -80,7 +80,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/website/blog/2026/Meeting-with-Prof-Maneesh-Singhal-and-group/";
+            window.location.href = "/blog/2026/Meeting-with-Prof-Maneesh-Singhal-and-group/";
           
         },
       },{id: "post-dhanvantari-according-to-gayadāsa-ms-cambridge-cul-add-2491",
@@ -91,7 +91,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/website/blog/2026/Dhanvantari-again/";
+            window.location.href = "/blog/2026/Dhanvantari-again/";
           
         },
       },{id: "post-gayadāsa-39-s-commentary-on-suśruta-39-s-sūtrasthāna-in-manuscript-bikaner-anup-4389",
@@ -102,7 +102,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/website/blog/2026/MS-Bikaner-Anup-4389/";
+            window.location.href = "/blog/2026/MS-Bikaner-Anup-4389/";
           
         },
       },{id: "post-project-publication-lisa-a-brooks-quot-on-leeches-quot",
@@ -113,7 +113,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/website/blog/2026/project-publication-Lisa-A-Brooks/";
+            window.location.href = "/blog/2026/project-publication-Lisa-A-Brooks/";
           
         },
       },{id: "post-book-review-of-quot-plastic-surgery-quot",
@@ -124,7 +124,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/website/blog/2025/review-of-project-book/";
+            window.location.href = "/blog/2025/review-of-project-book/";
           
         },
       },{id: "post-text-emendation-dwellers-in-the-sea",
@@ -135,7 +135,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/website/blog/2025/dwellers-in-the-sea/";
+            window.location.href = "/blog/2025/dwellers-in-the-sea/";
           
         },
       },{id: "post-the-suśruta-project-blog-posts-2020-2025",
@@ -146,7 +146,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/website/blog/2025/blog-posts-of-previous-project/";
+            window.location.href = "/blog/2025/blog-posts-of-previous-project/";
           
         },
       },{id: "post-ḍalhaṇa-39-s-comments-on-jejjaṭa",
@@ -157,7 +157,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/website/blog/2025/Dalhanas-comments-on-Jejjata/";
+            window.location.href = "/blog/2025/Dalhanas-comments-on-Jejjata/";
           
         },
       },{id: "post-the-problem-of-jejjaṭa",
@@ -168,7 +168,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/website/blog/2025/the-problem-of-Jejjata/";
+            window.location.href = "/blog/2025/the-problem-of-Jejjata/";
           
         },
       },{id: "post-the-problem-of-candraṭa",
@@ -179,7 +179,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/website/blog/2025/the-problem-of-Candrata/";
+            window.location.href = "/blog/2025/the-problem-of-Candrata/";
           
         },
       },{id: "post-the-social-importance-of-variant-readings",
@@ -190,7 +190,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/website/blog/2025/social-importance-of-variant-readings/";
+            window.location.href = "/blog/2025/social-importance-of-variant-readings/";
           
         },
       },{id: "post-textual-separative-differences",
@@ -201,7 +201,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/website/blog/2025/separative-errors/";
+            window.location.href = "/blog/2025/separative-errors/";
           
         },
       },{id: "post-acquiring-manuscript-images",
@@ -212,7 +212,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/website/blog/2025/acquiring-manuscript-images/";
+            window.location.href = "/blog/2025/acquiring-manuscript-images/";
           
         },
       },{id: "post-promotional-video-for-the-project-ai-generated",
@@ -223,7 +223,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/website/blog/2025/promotional-video/";
+            window.location.href = "/blog/2025/promotional-video/";
           
         },
       },{id: "post-intertextuality-and-the-methods-of-diagnosis",
@@ -234,14 +234,14 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/website/blog/2025/intertextuality-full/";
+            window.location.href = "/blog/2025/intertextuality-full/";
           
         },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/website/books/the_godfather/";
+              window.location.href = "/books/the_godfather/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
@@ -249,7 +249,7 @@ ninja.data = [{
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/website/news/announcement_2/";
+              window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
@@ -257,62 +257,62 @@ ninja.data = [{
           title: 'Principal Investigator',
           description: "",
           section: "Participants",handler: () => {
-              window.location.href = "/website/pi/";
+              window.location.href = "/pi/";
             },},{id: "participants-research-associates",
           title: 'Research Associates',
           description: "",
           section: "Participants",handler: () => {
-              window.location.href = "/website/ras/";
+              window.location.href = "/ras/";
             },},{id: "participants-research-fellow",
           title: 'Research Fellow',
           description: "",
           section: "Participants",handler: () => {
-              window.location.href = "/website/rf/";
+              window.location.href = "/rf/";
             },},{id: "participants-collaborators",
           title: 'Collaborators',
           description: "",
           section: "Participants",handler: () => {
-              window.location.href = "/website/collaborators/";
+              window.location.href = "/collaborators/";
             },},{id: "participants-consultants",
           title: 'Consultants',
           description: "",
           section: "Participants",handler: () => {
-              window.location.href = "/website/consultants/";
+              window.location.href = "/consultants/";
             },},{id: "projects-project-summary",
           title: 'Project summary',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/website/projects/1_ss_project_overview/";
+              window.location.href = "/projects/1_ss_project_overview/";
             },},{id: "projects-manuscripts-in-space",
           title: 'Manuscripts in space',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/website/projects/2_ss_MS_mapping/";
+              window.location.href = "/projects/2_ss_MS_mapping/";
             },},{id: "projects-manuscripts-in-time",
           title: 'Manuscripts in Time',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/website/projects/3_ss_MS_timeline/";
+              window.location.href = "/projects/3_ss_MS_timeline/";
             },},{id: "projects-diplomatic-transcription-of-ms-kathmandu-kl-699",
           title: 'Diplomatic transcription of MS Kathmandu KL 699',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/website/projects/4_ss_project_diplomatic/";
+              window.location.href = "/projects/4_ss_project_diplomatic/";
             },},{id: "projects-edition-of-the-nepalese-version",
           title: 'Edition of the Nepalese version',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/website/projects/5_ss_project_edition/";
+              window.location.href = "/projects/5_ss_project_edition/";
             },},{id: "projects-printed-editions-of-the-suśrutasaṃhitā",
           title: 'Printed editions of the Suśrutasaṃhitā',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/website/projects/6_ss_project_printed_eds/";
+              window.location.href = "/projects/6_ss_project_printed_eds/";
             },},{id: "projects-commentaries",
           title: 'Commentaries',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/website/projects/7_ss_commentaries/";
+              window.location.href = "/projects/7_ss_commentaries/";
             },},{
         id: 'social-email',
         title: 'email',
@@ -332,7 +332,7 @@ ninja.data = [{
         title: 'RSS Feed',
         section: 'Socials',
         handler: () => {
-          window.open("/website/feed.xml", "_blank");
+          window.open("/feed.xml", "_blank");
         },
       },{
         id: 'social-scholar',
