@@ -14,30 +14,39 @@ In the vulgate version of the *Suśrutasaṃhitā* there are often verses that d
 > 1.29.71.add1
 > yo naro bahubhir muṣṇaiḥ kruddhaiś ca pratibodhyate |
 > hanyate bahubiḥ śastrair brāhmaṇaṃ yo na paśyati ||
+>
 > 1.29.71.add2
 > dantaprakṣālanasnānaṃ svapne keśavilekhanaṃ |
 > rogāgamanimittan tad dhanvantarivaco yathā ||
+>
 > 1.29.71.add3
 > aparvāṇīkṣur gaṇḍāni guḍam vā yo 'tibhakṣayet |
 > pratibuddho vijānīyād aṅgavyādhim upasthitaṃ ||
+>
 > 1.29.71.add4
 > ayuktaṃ yānam āruhya śuṣkavṛkṣañ ca sarvataḥ |
 > plavate toyamadhye vā nāsarogaṃ prāpnuyān mahat||
+>
 > 1.29.71.add5
 > tilakalkena māṃsena vasayā kardamena vā|
 > gātraṃ yasyopalipyeta sa rogam prāpnuyān mahat ||
+>
 > 1.29.71.add6
 > cāṇḍālair vā śvapākair vā coraiḥ pravrajitais tathā |
 > anyaiś ca nīcabībhatsaiḥ prahāro na praśasyate|
+>
 > 1.29.71.add7
 > madyasyānnasya māṃsasya tilatailasya sarppiṣaḥ |
 > svapne kiñcid yadi prāpya paśyed vyādhim upasthitaṃ ||
+>
 > 1.29.71.add8
 > raktavarṇṇan tu yat kiñcit sarvvan tan na praśasyate |
 > rakṭaṃ yad āmakaṃ māṃsañ candanañ ca praśasyate ||
+>
 > 1.29.71.add9
 > yad vā śuklena varṇena sarvam etat praśasyate |
 > karpāsam asthy atho bhasma dadhi caivātra varjitaṃ |
+>
 > 1.29.71.add10
 > yat tu kṛṣṇena varṇena sarvvan tan na praśasyate |
 > bhūmilābho hiraṇyañ ca hastī caiva praśasyate ||
@@ -47,5 +56,7 @@ At the time of writing, we have not identified any parallels for these verses el
 1.29.71.add2 is interesting for it's reference to Dhanvantari, whose role in the Nepalese version is quite different than in the vulgate {% cite birc-2021a  %}.
 
 
+
+## References
 
 {% bibliography -cited  --group_by none  %}
