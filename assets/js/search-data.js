@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/sushrutaproject1/";
               },
-            },{id: "post-meeting-with-prof-maneesh-singhal-and-his-research-group",
+            },{id: "post-unique-verses-on-oneiromancy-in-the-suśrutasaṃhitā",
+        
+          title: "Unique Verses on Oneiromancy in the Suśrutasaṃhitā",
+        
+        description: "unique verses in Sūtrasthāna, adhyāya 29",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/The-Meaning-of-Dreams/";
+          
+        },
+      },{id: "post-meeting-with-prof-maneesh-singhal-and-his-research-group",
         
           title: "Meeting with Prof. Maneesh Singhal and his research group",
         
