@@ -33,7 +33,8 @@ Very little of the *Nyāyacandrikā* survives.  Today, we have only the followin
 ###   *Kalpasthāna*
 
 * [MS Bikaner RORI 5157](https://panditproject.org/entity/108026/manuscript)
-  (This is probably part of the same scribal production as Jaipur RORI 6838.)
+  Dated 1468 CE.
+  This is probably part of the same scribal production as Jaipur RORI 6838.  
 
 
 
