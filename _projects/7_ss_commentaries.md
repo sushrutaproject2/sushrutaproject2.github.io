@@ -26,7 +26,8 @@ None of these commentaries has previously been published or studied in full.
 
 * None of Jejjaṭa's commentary on the *Suśrutasaṃhitā* survives (parts of his commentary on the *Carakasaṃhitā* do survive).  
 * It is looking as though manuscripts that have been reported as being Candraṭa's commentary are in fact the main text of the *Suśrutasaṃhitā* with a final verse referring to Candraṭa's editorial work. 
-* Parts of Gayadāsa's commentary survive in a very small number of manuscripts.  His commentary on the Nidānasthāna was printed in the Ācāry'as 1938 edition of the *Suśrutasaṃhitā* {% cite susr-1938 %}.
+* Parts of Gayadāsa's commentary survive in a very small number of manuscripts.  His commentary on the Nidānasthāna was printed in the Ācārya's 1938 edition of the *Suśrutasaṃhitā* {% cite susr-1938 %}.
+  Transcription of the manuscripts of Gayadāsa's commentary has begun (early 2026) and the diplomatic transcription can be viewed [here](https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/gayadasa/Nyayacandrika_sarirasthana.xml).
 * Cakrapāṇidatta's commentary on the Sūtrasthāna of the Suśrutasaṃhitā was published in Ācārya's 1939 edition {% cite  susr-1939 %}.
 
 ## Coverage
