@@ -72,9 +72,9 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/sushrutaproject1/";
               },
-            },{id: "post-notes-on-the-nyāyacandrikā-of-gayadāsa",
+            },{id: "post-the-nyāyacandrikā-of-gayadāsa-and-its-manuscripts",
         
-          title: "Notes on the Nyāyacandrikā of Gayadāsa",
+          title: "The Nyāyacandrikā of Gayadāsa and its Manuscripts",
         
         description: "manuscripts and transcriptions",
         section: "Posts",
