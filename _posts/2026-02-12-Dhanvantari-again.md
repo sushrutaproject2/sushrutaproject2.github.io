@@ -9,7 +9,7 @@ tags: SuśrutaProject Gayadāsa transcription Dhanvantari
 
 Jason has discovered a historically important statement in Gayadāsa's commentary on the *Śārīrasthāna*. 
 
-As mentioned in [yesterday's blog post](https://sushrutaproject2.github.io/website/blog/2026/MS-Bikaner-Anup-4389/), the *[Nyāyacandrikā](https://panditproject.org/index.php/entity/108025/work)* by [Gayadāsa](https://panditproject.org/index.php/entity/108024/person) (fl. ca. 1000, Bengal) is one of the important early  commentaries on the *Suśrutasaṃhitā*.    It was discussed by Meulenbeld {% cite meul-hist -l 1A: 380-383 %}. 
+As mentioned in [yesterday's blog post](https://sushrutaproject2.github.io/blog/2026/MS-Bikaner-Anup-4389/), the *[Nyāyacandrikā](https://panditproject.org/index.php/entity/108025/work)* by [Gayadāsa](https://panditproject.org/index.php/entity/108024/person) (fl. ca. 1000, Bengal) is one of the important early  commentaries on the *Suśrutasaṃhitā*.    It was discussed by Meulenbeld {% cite meul-hist -l 1A: 380-383 %}. 
 
 ## Gayadāsa on Śārīrasthāna 1.2
 
@@ -51,26 +51,29 @@ Meulenbeld reflected further on the Nāgārjuna referred to by Ḍalhaṇa in th
 
 Very little of the *Nyāyacandrikā* survives.  Today, we have only the following manuscript fragments:
 
-*Sūtrasthāna*
+### *Sūtrasthāna*
 
 *  [MS Bikaner Anup 4389](https://panditproject.org/index.php/entity/108069/manuscript)
 
-*Nidānasthāna*
+### *Nidānasthāna*
 
 * [MS Bikaner Anup 4390](https://panditproject.org/index.php/entity/108068/manuscript)
   ([Paris BnF Cordier 1177](https://gallica.bnf.fr/ark:/12148/btv1b100905830/f3.highres) & 1235 are copies of Anup 4390)
 
-*Śārīrasthāna*
+###   *Śārīrasthāna*
 
 * [MS Jaipur RORI 6838](https://panditproject.org/entity/108061/manuscript)
 * MS [Cambridge UL add. 2491](https://cudl.lib.cam.ac.uk/view/MS-ADD-02491/1)
+  This MS was copied by the same scribe as Bikaner Anup 4390 and RORI 5157.
 
-*Kalpasthāna*
+###   *Kalpasthāna*
 
 * [MS Bikaner RORI 5157](https://panditproject.org/entity/108026/manuscript)
   (This is probably part of the same scribal production as Jaipur RORI 6838.)
 
-The only fragment to be published is the commentary on the *Nidānasthāna*, which was edited and included by Yādavaśarman Trivikramji Ācārya in his 1938 edition of the *Suśrutasaṃhitā*  {% cite susr-1938 %}.
+
+
+The only fragment to be published so far is the commentary on the *Nidānasthāna*, which was edited and included by Yādavaśarman Trivikramji Ācārya in his 1938 edition of the *Suśrutasaṃhitā*  {% cite susr-1938 %}.
 
 
 ### References
