@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/sushrutaproject1/";
               },
-            },{id: "post-unique-verses-on-oneiromancy-in-the-suśrutasaṃhitā",
+            },{id: "post-notes-on-the-nyāyacandrikā-of-gayadāsa",
+        
+          title: "Notes on the Nyāyacandrikā of Gayadāsa",
+        
+        description: "manuscripts and transcriptions",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/Notes-on-Gayadasas-Nyayacandrika/";
+          
+        },
+      },{id: "post-unique-verses-on-oneiromancy-in-the-suśrutasaṃhitā",
         
           title: "Unique Verses on Oneiromancy in the Suśrutasaṃhitā",
         
