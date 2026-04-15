@@ -4,7 +4,7 @@ title: The Problem of Jejjaṭa
 author:  Dominik Wujastyk
 date: 2025-09-05 12:00:00
 description:  Did he write a commentary?
-tags: commentators Candraṭa Jejjaṭa manuscripts
+tags: commentators Candraṭa Jejjaṭa manuscripts Gayadāsa
 categories: 
 
 ---

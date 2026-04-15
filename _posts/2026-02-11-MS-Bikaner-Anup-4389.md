@@ -4,7 +4,7 @@ title: Gayadāsa's Commentary on Suśruta's Sūtrasthāna in Manuscript Bikaner 
 author: Jason Birch
 date: 2026-02-11
 description: An account of transcribing chapter 2 of Gayadāsa's  commentary on Sūtrasthāna in MS Bikaner Anup 4389 (Anup Sanskrit Library, Bikaner) .
-tags: blog SuśrutaProject gayadāsa transcription gibberish
+tags: blog SuśrutaProject Gayadāsa transcription gibberish
 ---
 
 The *[Nyāyacandrikā](https://panditproject.org/index.php/entity/108025/work)* by [Gayadāsa](https://panditproject.org/index.php/entity/108024/person) (fl. ca. 1000, Bengal) is one of the important early  commentaries on the *Suśrutasaṃhitā* that has largely been lost in the  sands of time.  I say "largely" because only a relatively small portion  is known to have survived: the commentary on one of Suśruta's six books, the *Nidānasthāna*, which was edited and published by Acharya Trivikramji in his 1938 edition of the *Suśrutasaṃhitā*  {% cite susr-1938 %}.
