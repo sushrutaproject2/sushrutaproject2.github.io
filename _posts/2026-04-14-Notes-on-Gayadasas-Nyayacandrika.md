@@ -28,7 +28,7 @@ Very little of the *Nyāyacandrikā* survives.  Today, we have only the followin
 * MS [Cambridge UL add. 2491](https://cudl.lib.cam.ac.uk/view/MS-ADD-02491/1)
   This MS was copied by the same scribe as Bikaner Anup 4390 and RORI 5157.
 
-  Diplomatic transcription of the Cambridge manuscript of this part of the *Nyāyacandrikā* has begun, and can be viewed [here](https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/gayadasa/Nyayacandrika_sarirasthana.xml).
+  Diplomatic transcription of the Cambridge manuscript of this part of the *Nyāyacandrikā* has begun, and can be viewed [here for 3.1](https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/gayadasa/Nyayacandrika_sarirasthana.xml) and [here for 3.4](https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/gayadasa/nyayacandrika_sarirasthana.4.xml?facs=1).
 
 ###   *Kalpasthāna*
 
