@@ -1,3 +1,11 @@
+---
+layout: post
+title: temporary post: testing links
+author: Dominik Wujastyk
+date: 2026-04-28
+description: vulgate pages linked to IIIF images
+tags: IIIF
+---
 
 *  [https://sushrutaproject2.github.io/paginated vulgate files/1-su-vulgate-1938-1-31.xml](https://sushrutaproject2.github.io/paginated vulgate files/1-su-vulgate-1938-1-31.xml)
 *  [https://sushrutaproject2.github.io/paginated vulgate files/1-su-vulgate-1938-32-end.xml](https://sushrutaproject2.github.io/paginated vulgate files/1-su-vulgate-1938-32-end.xml)
