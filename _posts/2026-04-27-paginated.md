@@ -1,11 +1,15 @@
 ---
 layout: post
-title: temporary post -- testing links
+title: Temporary post -- testing links
 author: Dominik Wujastyk
 date: 2026-04-28
 description: vulgate pages linked to IIIF images
 tags: IIIF
 ---
+
+# Test page
+
+This page is a temporary test of links to the 1938 printed edition of the Suśrutasaṃhitā.  These links will be debugged and integrated into the online edition in the next few weeks.  Then this page will disappear.
 
 
 *  [https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/paginated vulgate files/01-su-vulgate-1938-1-31.xml](https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/paginated vulgate files/01-su-vulgate-1938-1-31.xml)
