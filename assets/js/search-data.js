@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/sushrutaproject1/";
               },
-            },{id: "post-the-nyāyacandrikā-of-gayadāsa-and-its-manuscripts",
+            },{id: "post-paginated",
+        
+          title: "Paginated",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/paginated/";
+          
+        },
+      },{id: "post-the-nyāyacandrikā-of-gayadāsa-and-its-manuscripts",
         
           title: "The Nyāyacandrikā of Gayadāsa and its Manuscripts",
         
