@@ -74,7 +74,7 @@ ninja.data = [{
               },
             },{id: "post-temporary-post-testing-links",
         
-          title: "temporary post -- testing links",
+          title: "Temporary post -- testing links",
         
         description: "vulgate pages linked to IIIF images",
         section: "Posts",
