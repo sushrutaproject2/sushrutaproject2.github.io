@@ -72,15 +72,15 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/sushrutaproject1/";
               },
-            },{id: "post-paginated",
+            },{id: "post-",
         
-          title: "Paginated",
+          title: "",
         
         description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/paginated/";
+            window.location.href = "/blog/2026/2026-04-27-paginated/";
           
         },
       },{id: "post-the-nyāyacandrikā-of-gayadāsa-and-its-manuscripts",
