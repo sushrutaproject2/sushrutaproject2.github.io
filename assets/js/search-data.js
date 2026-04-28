@@ -72,18 +72,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/sushrutaproject1/";
               },
-            },{id: "post-on-quot-the-vulgate-quot",
-        
-          title: "On &quot;The vulgate&quot;",
-        
-        description: "vulgate",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/the-vulgate/";
-          
-        },
-      },{id: "post-temporary-post-testing-links",
+            },{id: "post-temporary-post-testing-links",
         
           title: "temporary post -- testing links",
         
