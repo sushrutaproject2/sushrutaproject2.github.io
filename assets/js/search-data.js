@@ -72,9 +72,9 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/sushrutaproject1/";
               },
-            },{id: "post-temporary-post-testing-links",
+            },{id: "post-1938-edition-of-the-suśrutasaṃhitā-facsimile-and-transcription",
         
-          title: "Temporary post -- testing links",
+          title: "1938 Edition of the Suśrutasaṃhitā - Facsimile and Transcription",
         
         description: "vulgate pages linked to IIIF images",
         section: "Posts",
