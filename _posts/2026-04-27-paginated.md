@@ -24,4 +24,6 @@ The text is divided according to the arrangement of the chapters in the Nepalese
 *  [Uttaratantram 39-24-57 (Kāyacikitsā)](https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/paginated vulgate files/06-ut-vulgate-1938-39-24-57.xml)
 *  [Uttaratantram 58-38-66 (Daśakaḥ)](https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/paginated vulgate files/06-ut-vulgate-1938-58-38-66.xml)
 
-{% bibliography %}
+## Reference
+
+{% bibliography --cited %}
