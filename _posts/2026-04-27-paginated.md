@@ -7,7 +7,7 @@ description: vulgate pages linked to IIIF images
 tags: IIIF
 ---
 
-This page  provides links to the 1938 printed edition of the *Suśrutasaṃhitā* {% cite susr-1938 %} with parallel transcription of the main text of the work (*mūla*), without commentaries. 
+This page  provides links to the pages of the 1938 printed edition of the *Suśrutasaṃhitā* {% cite susr-1938 %} with parallel transcription of the main text of the work (*mūla*), without commentaries. 
 
 The text is divided according to the arrangement of the chapters in the Nepalese version of the work, which differs from the vulgate in the Uttaratantram.
 
