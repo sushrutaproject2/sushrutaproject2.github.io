@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/sushrutaproject1/";
               },
-            },{id: "post-1938-edition-of-the-suśrutasaṃhitā-facsimile-and-transcription",
+            },{id: "post-the-external-opinions-cited-by-the-suśrutasaṃhitā",
+        
+          title: "The external opinions cited by the Suśrutasaṃhitā",
+        
+        description: "ityeke",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/ityeke/";
+          
+        },
+      },{id: "post-1938-edition-of-the-suśrutasaṃhitā-facsimile-and-transcription",
         
           title: "1938 Edition of the Suśrutasaṃhitā - Facsimile and Transcription",
         
