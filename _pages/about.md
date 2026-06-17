@@ -33,3 +33,7 @@ The project’s goal is to develop a fresh understanding of ancient South Asian 
 We are especially focussed on highlighting the textual and doctrinal differences between _The Compendium_ as it existed in 878 CE and the later vulgate version and the work of the medieval commentators in reshaping the work over the years. Project outcomes will include further critical editions and translations of the main text as well as selected commentaries, studies of the transmission of scientific ideas within South Asia as well as to China and South East Asia, and outreach to contemporary consumers of indigenous medicine.
 
 Funding for this project is generously provided by an Insight Grant from the Canadian SSHRC (no. 435-2025-0604) and runs from 2025-2029.
+
+## Citation for this web page
+
+* Dominik Wujastyk et al., 2025. "The Compendium of Suśruta in Time and Space: Mapping a Medical Tradition," URL: [https://sushrutaproject2.github.io/](https://sushrutaproject2.github.io/) and [https://purl.archive.org/purl/sushrutaproject/project2](https://purl.archive.org/purl/sushrutaproject/project2).  Archived at DOI [10.5281/zenodo.20737614](https://doi.org/10.5281/zenodo.20737614).
