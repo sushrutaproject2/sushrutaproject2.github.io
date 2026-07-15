@@ -29,6 +29,8 @@ Sūtrasthāna, adhyāyas 45 and 46 have many verses in the vulgate that do not a
 |                                       |            |                                 |                                 |
 | 1.10.4 (ity eke ... na samyak phrase) | Y          | N                               |                                |
 |  |  |  | |
+| 1.6.21-36 | Y | N | description of the normal seasons. |
+| | | | |
 | 1.12.6b | Y | N |  |
 | 1.12.27cd-29ab | Y | N |  |
 | 1.12.35ef | N | Y |  |
