@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/sushrutaproject1/";
               },
-            },{id: "post-the-external-opinions-cited-by-the-suśrutasaṃhitā",
+            },{id: "post-experiments-with-claude",
+        
+          title: "Experiments with Claude",
+        
+        description: "Claude",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/Claude-experiments/";
+          
+        },
+      },{id: "post-the-external-opinions-cited-by-the-suśrutasaṃhitā",
         
           title: "The external opinions cited by the Suśrutasaṃhitā",
         
