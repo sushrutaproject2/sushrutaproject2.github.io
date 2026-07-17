@@ -51,3 +51,7 @@ the work of the second- and third-century translators of Saṅgharakṣa's
 *Yogācārabhūmi*, An Shigao (ca.\ 148--180 \CE) and Dharmarakṣa
 (fl.\,284 \CE) {% cite lu-2025 %}.  As Lu says, “The Sanskrit text fixes the baseline
 wording” of the Chinese translations (ibid., p. 2).  This fixes the reception of the *Suśrutasaṃhitā* in China to the mid- to late second century. 
+
+### References
+
+{% bibliography -cited -group_by none %}
