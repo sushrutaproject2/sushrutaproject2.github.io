@@ -171,6 +171,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/project-publication-Lisa-A-Brooks/";
           
         },
+      },{id: "post-on-the-date-of-the-suśrutasaṃhitā",
+        
+          title: "On the date of the Suśrutasaṃhitā",
+        
+        description: "The Suśrutasaṃhitā in time",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/On-the-date-of-the-Susrutasamhita/";
+          
+        },
       },{id: "post-book-review-of-quot-plastic-surgery-quot",
         
           title: "Book review of &quot;Plastic Surgery&quot;",
