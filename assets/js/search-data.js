@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/sushrutaproject1/";
               },
-            },{id: "post-experiments-with-claude",
+            },{id: "post-on-the-date-of-the-suśrutasaṃhitā",
+        
+          title: "On the Date of the Suśrutasaṃhitā",
+        
+        description: "Dating the Suśrutasaṃhitā",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/On-the-date-of-the-Susrutasamhita/";
+          
+        },
+      },{id: "post-experiments-with-claude",
         
           title: "Experiments with Claude",
         
@@ -169,17 +180,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2026/project-publication-Lisa-A-Brooks/";
-          
-        },
-      },{id: "post-on-the-date-of-the-suśrutasaṃhitā",
-        
-          title: "On the date of the Suśrutasaṃhitā",
-        
-        description: "The Suśrutasaṃhitā in time",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/On-the-date-of-the-Susrutasamhita/";
           
         },
       },{id: "post-book-review-of-quot-plastic-surgery-quot",
