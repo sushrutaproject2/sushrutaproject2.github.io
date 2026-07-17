@@ -17,10 +17,10 @@ I decided to experiment with the following idea.  Ask Claude to study the 23 cri
 
 The preliminary results of Claude's output for Suśrutasaṃhitā, Sūtrasthāna 6 (Ṛtucaryā) can be seen here:
 
-* https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/01-su.su-1-31/provisional-edition_sutrasthana-06.xml
+* [https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/01-su.su-1-31/provisional-edition_sutrasthana-06.xml](https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/01-su.su-1-31/provisional-edition_sutrasthana-06.xml)
 
 You can compare this with the "raw" collation in the online text of Sūtrasthāna 1-31:
 
-* https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/01-su.su-1-31/provisional-edition_sutrasthana-1-31.xml
+* [https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/01-su.su-1-31/provisional-edition_sutrasthana-1-31.xml](https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/01-su.su-1-31/provisional-edition_sutrasthana-1-31.xml)
 
 This is just the start of exploring whether AI can do serious critical editing work that will help with Sanskrit manuscript traditions where there are very large texts, very high numbers of manuscripts, or both. 
