@@ -7,6 +7,8 @@ description:  Dating the Suśrutasaṃhitā
 tags: dating chronology 
 ---
 
+## The date of the Suśrutasaṃhitā is not 600 BCE
+
 The early scholar Rudolf Hoernle proposed that some concepts from the *Suśruta-Saṃhitā* could be found in the *[Śatapatha-Brāhmaṇa](https://en.wikipedia.org/wiki/Shatapatha_Brahmana)*, which he dated to the 600 BCE (see below).  Unfortunately, this date is repeated very often, even today, by scholars who are not familiar with the progress of scholarship on the history of  medicine in India [[e.g., just one example]](https://en.wikipedia.org/wiki/Sushruta#cite_note-16).  However, during the twentieth and twenty-first centuries, scholarship on the history of Indian medical literature has advanced substantially.  
 
 Reliable historical evidence has now accumulated showing that the *Suśruta-saṃhitā* is a work of several  historical layers.  The most detailed and extensive consideration of the date of the *Suśrutasaṃhitā* is that published by Meulenbeld in his *History of Indian Medical Literature* (1999–2002).  He presented evidence to show that its composition may have begun in the last centuries  BCE, but it was completed in its present form by another author who redacted its first five chapters and perhaps another who added the long, final section, the "Later Treatise" (Sanskrit *Uttaratantra*) which is more than a third of the work.  It is likely that the *Suśruta-saṃhitā* was known to the scholar Dṛḍhabala, a contributor to the [Carakasaṃhitā](https://en.wikipedia.org/wiki/Charaka_Samhita) who wrote between the fourth and fifth centuries CE.  Additionally, several ancient Indian authors used the name "Suśruta", resulting in potential misattribution {% cite meul-hist -l IA, 333-357 %}.  In his words:
