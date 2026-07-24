@@ -104,6 +104,7 @@ Sūtrasthāna, adhyāyas 45 and 46 have many verses in the vulgate that do not a
 | 6.39.219 – 6.39.229ab | Y | N |  |
 | 6.39.233 – 6.39.244 | Y | N |  |
 | **6.58.47-72** | Y | N | big chunk |
+| 6.62.21cd-29 | Y | N | two named ghṛtas |
 |6.64.41a-41h|N|Y||
 |6.64.46a-46o|N|Y||
 | 6.65.5                                |asadvādiprayuktānāṃ|asadaprayuktānāñ ca||
