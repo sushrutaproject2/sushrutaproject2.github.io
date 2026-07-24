@@ -1,6 +1,7 @@
 ---
 layout: page
 title: participants
+permalink: /participants/
 nav: true
 nav_order: 2
 dropdown: true

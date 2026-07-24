@@ -1,6 +1,7 @@
 ---
 layout: page
 title: assets
+permalink: /resources/
 nav: true
 nav_order: 7
 dropdown: true
