@@ -1,9 +1,8 @@
 ---
 title: Github
-date: '2020-10-19T17:05:31-06:00'
-author: 'Dominik Wujastyk'
+date: "2020-10-19T17:05:31-06:00"
+author: "Dominik Wujastyk"
 layout: page
-
 ---
 
 The Sushruta Project is using [this Github repository]https://github.com/wujastyk/sushrutaproject) as the place for storing manuscript transcriptions. This allows project members to collaborate, work separately and coordinate transcriptions. It also supports fine-grained version control.

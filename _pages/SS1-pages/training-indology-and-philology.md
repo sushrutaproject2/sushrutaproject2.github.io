@@ -1,7 +1,7 @@
 ---
-title: 'Training in Indology and philology'
-date: '2022-04-24T09:28:25-06:00'
-author: 'Dominik Wujastyk'
+title: "Training in Indology and philology"
+date: "2022-04-24T09:28:25-06:00"
+author: "Dominik Wujastyk"
 layout: page
 ---
 

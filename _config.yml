@@ -13,13 +13,13 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  A project at the <a href="https://ualberta.ca/" target="_blank">University of Alberta</a> funded by <a href="https://www.sshrc-crsh.gc.ca/" target="_blank">SSHRC</a> IG grant 435-2025-0604. 
+  A project at the <a href="https://ualberta.ca/" target="_blank">University of Alberta</a> funded by <a href="https://www.sshrc-crsh.gc.ca/" target="_blank">SSHRC</a> IG grant 435-2025-0604.
 keywords: Suśruta, Suśrutasaṃhitā, Āyurveda, India, Sanskrit, History of medicine # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 𑗕 # the emoji used as the favicon (alternatively, provide image name in /assets/img/) (from the Siddham unicode block)
 
 url: https://sushrutaproject2.github.io # the base hostname & protocol for your site
-baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
+baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
@@ -156,8 +156,6 @@ collections:
     output: true
   participants:
     output: true
-   
-   
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -198,7 +196,7 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-# DW from here
+  # DW from here
   - _pages/repositories.md
   - _pages/teaching.md
   - _pages/cv.md
@@ -269,7 +267,15 @@ jekyll-archives:
   books:
     enabled: [year, tags] # enables year, tag and category archives (remove if you need to disable one of them).
 
-display_tags: ["palaeography", "images", "links", "textual_analysis", "Caraka", "Suśruta", "diagnosis"] # these tags will be displayed on the front page of your blog
+display_tags: [
+    "palaeography",
+    "images",
+    "links",
+    "textual_analysis",
+    "Caraka",
+    "Suśruta",
+    "diagnosis",
+  ] # these tags will be displayed on the front page of your blog
 #display_categories: [""] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------

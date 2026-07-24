@@ -17,10 +17,12 @@ li,
 span,
 strong {
   color: var(--global-text-color);
-     font-family: arial, "Lucida Sans", sans-serif ;
+  font-family: arial, "Lucida Sans", sans-serif;
 }
 
-strong { font-weight: bold; }
+strong {
+  font-weight: bold;
+}
 
 hr {
   border-top: 1px solid var(--global-divider-color);
@@ -40,11 +42,11 @@ table {
 
 // DW make tables centered
 table {
-     margin: auto;
-     width: 70%;
-      padding: 20px;
-//      border: 1px solid #AAAAAA;
-  }
+  margin: auto;
+  width: 70%;
+  padding: 20px;
+  //      border: 1px solid #AAAAAA;
+}
 
 a,
 table.table a {
@@ -254,11 +256,11 @@ ul.task-list input[type="checkbox"] {
 
 // Navbar customization
 // DW update; background-color was var(--global-bg-color);
-  
+
 .navbar {
   box-shadow: none;
   border-bottom: 1px solid var(--global-divider-color);
-  background-color: var(--susruta-header-footer-bg-color); 
+  background-color: var(--susruta-header-footer-bg-color);
   opacity: 0.95;
 }
 

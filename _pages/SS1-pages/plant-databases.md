@@ -1,9 +1,8 @@
 ---
-title: 'Plant databases'
-date: '2021-05-06T15:46:34-06:00'
-author: 'Dominik Wujastyk'
+title: "Plant databases"
+date: "2021-05-06T15:46:34-06:00"
+author: "Dominik Wujastyk"
 layout: page
-
 ---
 
 The discussion on “Flora and Fauna of India” at INDOLOGY ([May 2021](https://list.indology.info/pipermail/indology/2021-May/thread.html#54638)) led to the mention of several useful resources for identifying plants in early Indian literature. (It has long been inadequate to cite Monier-Williams.) Some of these resources have been in print for many years, others are more recent. But the links below make the search for identifications somewhat more convenient.

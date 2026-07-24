@@ -1,7 +1,7 @@
 ---
 title: Prosopography, manuscripts, etexts
-date: '2020-10-06T10:16:59-06:00'
-author: 'Dominik Wujastyk'
+date: "2020-10-06T10:16:59-06:00"
+author: "Dominik Wujastyk"
 layout: page
 ---
 
@@ -9,16 +9,16 @@ The [PanditProject](http://panditproject.org) is a leading prosopographical reso
 
 ## Starting points relevant to this project
 
-[*Suśrutasaṃhitā*](https://www.panditproject.org/entity/42004/work)  
+[_Suśrutasaṃhitā_](https://www.panditproject.org/entity/42004/work)  
 A list of all known manuscripts of the work (still growing). Also, links to information about the earliest commentaries on the work.
 
-The [*Suśrutapāṭhaśuddhi*](https://www.panditproject.org/entity/108174/work) of Candraṭa  
+The [_Suśrutapāṭhaśuddhi_](https://www.panditproject.org/entity/108174/work) of Candraṭa  
 A little-explored early work of textual criticism focussed on the Suśruta text that may have strongly influenced the post-Nepalese transmission.
 
 A possible manuscript of the lost [commentary by Jejjaṭa](https://www.panditproject.org/entity/108209/work)  
-[Jejjaṭa](https://www.panditproject.org/entity/40830/person) is known for his early commentary on the *Carakasaṃhitā*, parts of which have survived in south India. It is less well known that he may have authored a commentary on the *Suśrutasaṃhitā*, although this may be almost completely lost. It was reported by D. C. Bhattacharya (1947) that the edition of the *Aṣṭāṅgasaṃgraha* by Rudrapāraśara contained citations from this commentary \[[note](https://www.panditproject.org/entity/108209/work)\]. Recent information has cast more doubt on the survival of this commentary (2021, Madhu K. Paramesvaran, personal communication). However, the 1944 catalogue of the Anup Sanskrit library (p.337) records that [this manuscript](https://www.panditproject.org/entity/108211/manuscript) contains an Uttaratantra.” Since only the *Suśrutasaṃhitā* has such a section, the identity of the text in this manuscript may indeed be a commentary on the *Suśrutasaṃhitā*. The issue cannot be settled without inspection of the manuscript. Unfortunately, the owners of the Anup library do not allow manuscripts to be studied by scholars.
+[Jejjaṭa](https://www.panditproject.org/entity/40830/person) is known for his early commentary on the _Carakasaṃhitā_, parts of which have survived in south India. It is less well known that he may have authored a commentary on the _Suśrutasaṃhitā_, although this may be almost completely lost. It was reported by D. C. Bhattacharya (1947) that the edition of the _Aṣṭāṅgasaṃgraha_ by Rudrapāraśara contained citations from this commentary \[[note](https://www.panditproject.org/entity/108209/work)\]. Recent information has cast more doubt on the survival of this commentary (2021, Madhu K. Paramesvaran, personal communication). However, the 1944 catalogue of the Anup Sanskrit library (p.337) records that [this manuscript](https://www.panditproject.org/entity/108211/manuscript) contains an Uttaratantra.” Since only the _Suśrutasaṃhitā_ has such a section, the identity of the text in this manuscript may indeed be a commentary on the _Suśrutasaṃhitā_. The issue cannot be settled without inspection of the manuscript. Unfortunately, the owners of the Anup library do not allow manuscripts to be studied by scholars.
 
-The [*Nyāyacandrikā*](https://www.panditproject.org/entity/108025/work) of Gayadāsa, an important and very early commentary (including a previously unknown MS in Bikaner)
+The [_Nyāyacandrikā_](https://www.panditproject.org/entity/108025/work) of Gayadāsa, an important and very early commentary (including a previously unknown MS in Bikaner)
 
 # Manuscript discovery and documentation
 

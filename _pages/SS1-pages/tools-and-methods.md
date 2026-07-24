@@ -1,7 +1,7 @@
 ---
-title: 'Tools and Methods'
-date: '2020-10-04T19:36:56-06:00'
-author: 'Dominik Wujastyk'
+title: "Tools and Methods"
+date: "2020-10-04T19:36:56-06:00"
+author: "Dominik Wujastyk"
 layout: page
 ---
 

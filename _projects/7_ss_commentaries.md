@@ -11,26 +11,25 @@ related_publications: true
 Recent research has revealed that at some time after the ninth
 century, an aggressive campaign of editorial revision was applied to _The_
 _Compendium_, pervasively altering the text and ultimately generating the vulgate
-version that we know from printed editions today. 
+version that we know from printed editions today.
 
-The project will transcribe and edit previously unstudied medieval commentaries on _The Compendium_ including the surviving fragments of commentaries by 
+The project will transcribe and edit previously unstudied medieval commentaries on _The Compendium_ including the surviving fragments of commentaries by
 
-* Jejjaṭa (fl. ca. 800) ([PanditProject](https://panditproject.org/entity/40830/person)), 
-* Candraṭa (fl. ca. 900) ([PanditProject](https://panditproject.org/entity/40937/person)), 
-* Gayadāsa (fl. ca. 1000) ([PanditProject](https://panditproject.org/entity/108024/person)).
-* Cakrapāṇidatta (fl. ca. 1075)  ([PanditProject](https://panditproject.org/entity/40945/person))
+- Jejjaṭa (fl. ca. 800) ([PanditProject](https://panditproject.org/entity/40830/person)),
+- Candraṭa (fl. ca. 900) ([PanditProject](https://panditproject.org/entity/40937/person)),
+- Gayadāsa (fl. ca. 1000) ([PanditProject](https://panditproject.org/entity/108024/person)).
+- Cakrapāṇidatta (fl. ca. 1075) ([PanditProject](https://panditproject.org/entity/40945/person))
 
-One hypothesis we are considering is that Candraṭa was a key contributor to the rewriting of _The Compendium,_ but this needs to be tested through detailed study. 
+One hypothesis we are considering is that Candraṭa was a key contributor to the rewriting of _The Compendium,_ but this needs to be tested through detailed study.
 
-None of these commentaries has previously been published or studied in full.  
+None of these commentaries has previously been published or studied in full.
 
-* None of Jejjaṭa's commentary on the *Suśrutasaṃhitā* survives (parts of his commentary on the *Carakasaṃhitā* do survive).  
-* It is looking as though manuscripts that have been reported as being Candraṭa's commentary are in fact the main text of the *Suśrutasaṃhitā* with a final verse referring to Candraṭa's editorial work. 
-* Parts of Gayadāsa's commentary survive in a very small number of manuscripts (see the Appendix to [this blog post](https://sushrutaproject2.github.io/blog/2026/Dhanvantari-again/)).  His commentary on the *Nidānasthāna* was printed in the Ācārya's 1938 edition of the *Suśrutasaṃhitā* {% cite susr-1938 %}.
+- None of Jejjaṭa's commentary on the _Suśrutasaṃhitā_ survives (parts of his commentary on the _Carakasaṃhitā_ do survive).
+- It is looking as though manuscripts that have been reported as being Candraṭa's commentary are in fact the main text of the _Suśrutasaṃhitā_ with a final verse referring to Candraṭa's editorial work.
+- Parts of Gayadāsa's commentary survive in a very small number of manuscripts (see the Appendix to [this blog post](https://sushrutaproject2.github.io/blog/2026/Dhanvantari-again/)). His commentary on the _Nidānasthāna_ was printed in the Ācārya's 1938 edition of the _Suśrutasaṃhitā_ {% cite susr-1938 %}.
   Transcription of the unpublished manuscripts of Gayadāsa's commentary has begun (early 2026) and the diplomatic transcription can be viewed [here](https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/gayadasa/Nyayacandrika_sarirasthana.xml).
-* Cakrapāṇidatta's commentary on the Sūtrasthāna of the Suśrutasaṃhitā was published in Ācārya's 1939 edition {% cite  susr-1939 %}.
+- Cakrapāṇidatta's commentary on the Sūtrasthāna of the Suśrutasaṃhitā was published in Ācārya's 1939 edition {% cite  susr-1939 %}.
 
 ## Coverage
 
 {% include figure.liquid loading="eager" path="assets/img/heatmap-commentary-coverage.png" title="Sections and surviving commentaries." class="img-fluid rounded z-depth-1" %}
-

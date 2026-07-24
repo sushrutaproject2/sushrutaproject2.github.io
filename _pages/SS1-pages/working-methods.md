@@ -1,7 +1,7 @@
 ---
-title: 'Working Methods'
-date: '2021-02-19T18:26:21-07:00'
-author: 'Dominik Wujastyk'
+title: "Working Methods"
+date: "2021-02-19T18:26:21-07:00"
+author: "Dominik Wujastyk"
 layout: page
 ---
 
@@ -21,7 +21,7 @@ Some of us use Charles Li’s [Quick Palaeographer](https://github.com/chchch/qu
 
 ## Conduct of Meetings
 
-- We each have a web page open at the [online new edition at Saktumiva](https://saktumiva.org/wiki/wujastyk/susrutasamhita/start).[^2]  Beside the evolving text of the edition itself, that shows collations with the Nepalese MSS and with the e-text of the 1938 vulgate edition by Yādavaśarma Trivikrama Ācārya. That is the display that we all look at, discuss and translate.
+- We each have a web page open at the [online new edition at Saktumiva](https://saktumiva.org/wiki/wujastyk/susrutasamhita/start).[^2] Beside the evolving text of the edition itself, that shows collations with the Nepalese MSS and with the e-text of the 1938 vulgate edition by Yādavaśarma Trivikrama Ācārya. That is the display that we all look at, discuss and translate.
 - We also consult the manuscript images routinely to check particular readings from time to time. For each MS transcription, at the start of a new folio (&lt;pb&gt;) we create a link in the XML that points to the MS image for that page. This means that we can quickly check the MS evidence to verify the transcription at instances when a reading is uncertain.
 - I also have the [oXygen](https://www.oxygenxml.com/) XML editor open, locally, displaying the source XML files of these e-texts (3 MSS and the edition).
 - I also have the [Filezilla](https://filezilla-project.org/) ftp program open, connecting my local computer to Saktumiva. That makes it fast and easy to transfer the source XML files from my computer to Saktumiva from time to time during the conversation.
@@ -33,7 +33,7 @@ I often share my screen with the rest of the team, so they can look at things we
 
 One of us reads out a section of the text from Saktumiva. We jointly discuss its meaning and interpretation. We look at the variant readings and often we edit these, or choose different readings to put in the main edited text. Each time this happens, I edit the source files in oXygen, save them, send them to Saktumiva using Filezilla (a single keypress, instantaneous), and then refresh the browser screen displaying Saktumiva. This takes about five seconds and then we all have the updated version of the edition before us, reflecting our discussion. We continue in this way
 
-Meanwhile, I also have an editor window open with the evolving English translation.[^3]  As we read and discuss the text, I write out the translation we agree upon. Like many Indologists, we are using [LaTeX](https://www.latex-project.org/) as our document prepration system.
+Meanwhile, I also have an editor window open with the evolving English translation.[^3] As we read and discuss the text, I write out the translation we agree upon. Like many Indologists, we are using [LaTeX](https://www.latex-project.org/) as our document prepration system.
 
 ## After the meeting
 
@@ -45,8 +45,8 @@ These working methods are unusually transparent. We are sharing our progress on 
 
 ### Footnotes
 
-[^1]: The [etext of the vulgate](https://sarit.indology.info/susrutasamhita.xml?view=div) was transcribed and released in 2009 by Professor Tsutomu Yamashita and Dr Yasutaka Muroya, to whom we are extremely grateful. Due to text availability issues, the sūtrasthāna (Su.1) and śārīrasthāna (Su.3) were transcribed mostly from the 1931 edition and the rest of the text from the 1938 edition. 
+[^1]: The [etext of the vulgate](https://sarit.indology.info/susrutasamhita.xml?view=div) was transcribed and released in 2009 by Professor Tsutomu Yamashita and Dr Yasutaka Muroya, to whom we are extremely grateful. Due to text availability issues, the sūtrasthāna (Su.1) and śārīrasthāna (Su.3) were transcribed mostly from the 1931 edition and the rest of the text from the 1938 edition.
 
-[^2]: For technical documentation of Saktumiva, see Charles Li, “[Reconstructing a Sanskrit Text](https://chchch.github.io/sanskrit-alignment/docs/index.html)” consulted 15 Jan 2021. 
+[^2]: For technical documentation of Saktumiva, see Charles Li, “[Reconstructing a Sanskrit Text](https://chchch.github.io/sanskrit-alignment/docs/index.html)” consulted 15 Jan 2021.
 
 [^3]: The editor I use is [TeXstudio](https://www.texstudio.org/), but others use their favourite editors like TeXshop.

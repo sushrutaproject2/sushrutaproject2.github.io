@@ -10,4 +10,4 @@ related_publications: false
 
 See
 
-* [Read the Sanskrit text of Suśruta's Compendium in its Nepalese Version](https://sushrutaproject.github.io/)
+- [Read the Sanskrit text of Suśruta's Compendium in its Nepalese Version](https://sushrutaproject.github.io/)

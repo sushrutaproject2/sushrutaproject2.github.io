@@ -1,7 +1,7 @@
 ---
-title: 'Digital Humanities Training'
-date: '2021-10-10T09:11:12-06:00'
-author: 'Dominik Wujastyk'
+title: "Digital Humanities Training"
+date: "2021-10-10T09:11:12-06:00"
+author: "Dominik Wujastyk"
 layout: page
 ---
 
@@ -9,7 +9,7 @@ The theories and techniques of Digital Humanities have become ever-more central 
 
 The project’s Fellows and Assistants go through an intensive period of applied learning in a community of practice of Digital Humanities techniques for editorial markup, version control, cloud storage, and interactive collaborative textual criticism. Project participants learn to use best-in-class DH tools for tasks such as,
 
-- The application of the Text Encoding Guidelines to medieval manuscript sources  ,
+- The application of the Text Encoding Guidelines to medieval manuscript sources ,
 - XML file creation and editing,
 - Version-control and file-sharing, including the use of GitHub,
 - Online collaborative text-critical editing,
@@ -17,4 +17,3 @@ The project’s Fellows and Assistants go through an intensive period of applied
 - International, remote academic project collaboration.
 
 After working on this project, participants will take forward to their future careers a significant set of new skills and experience in Digital Humanities.
-

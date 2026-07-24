@@ -84,7 +84,7 @@ pagination:
                       {% assign read_time = post.feed_content | strip_html | number_of_words | divided_by: 180 | plus: 1 %}
                     {% endif %}
                     {% assign year = post.date | date: "%Y" %}
-    
+
                     <p class="post-meta">
                       {{ read_time }} min read &nbsp; &middot; &nbsp;
                       <a href="{{ year | prepend: '/blog/' | relative_url }}">
@@ -110,9 +110,9 @@ pagination:
     {% else %}
       {% assign postlist = site.posts %}
     {% endif %}
-    
+
     {% for post in postlist %}
-    
+
     {% if post.external_source == blank %}
       {% assign read_time = post.content | number_of_words | divided_by: 180 | plus: 1 %}
     {% else %}
@@ -121,7 +121,7 @@ pagination:
     {% assign year = post.date | date: "%Y" %}
     {% assign tags = post.tags | join: "" %}
     {% assign categories = post.categories | join: "" %}
-    
+
     <li>
 
 {% if post.thumbnail %}
@@ -163,7 +163,7 @@ pagination:
               {% endunless %}
               {% endfor %}
           {% endif %}
-    
+
           {% if categories != "" %}
           &nbsp; &middot; &nbsp;
             {% for category in post.categories %}
