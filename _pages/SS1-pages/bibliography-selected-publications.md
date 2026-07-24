@@ -25,7 +25,7 @@ Harimoto, Kengo. 2014. “Nepalese Manuscripts of the Suśrutasaṃhitā.” _Jo
 
 Harimoto, Kengo. 2011. “In Search of the Oldest Nepalese Manuscript.” _Rivista Degli Studi Orientali, Nuova Serie Vol. 84_ 84: 84–106. [https://www.academia.edu/4128593/](https://www.academia.edu/4128593/).
 
-Klebanov, Andrey. 2010. “The *Nepalese Version of the Suśrutasaṃhitā and Its Interrelation with Buddhism and the Buddhists.” MA thesis, Hamburg University.
+Klebanov, Andrey. 2010. “The \*Nepalese Version of the Suśrutasaṃhitā and Its Interrelation with Buddhism and the Buddhists.” MA thesis, Hamburg University.
 
 Klebanov, Andrey. 2021. “On the Textual History of the Suśrutasaṃhitā (1): A Study of Three Nepalese Manuscripts.” _eJIM: Electronic Journal of Indian Medicine_ 12 (1): 1–64. [https://doi.org/10.21827/ejim.12.1.37385](https://doi.org/10.21827/ejim.12.1.37385).
 

@@ -267,15 +267,7 @@ jekyll-archives:
   books:
     enabled: [year, tags] # enables year, tag and category archives (remove if you need to disable one of them).
 
-display_tags: [
-    "palaeography",
-    "images",
-    "links",
-    "textual_analysis",
-    "Caraka",
-    "Suśruta",
-    "diagnosis",
-  ] # these tags will be displayed on the front page of your blog
+display_tags: ["palaeography", "images", "links", "textual_analysis", "Caraka", "Suśruta", "diagnosis"] # these tags will be displayed on the front page of your blog
 #display_categories: [""] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------

@@ -31,13 +31,13 @@ Birch, Jason. 2022. “Introduction to Philology.” March. [https://www.soas.ac
 
 Burnard, Lou, C. M. Sperberg-McQueen, and The TEI Consortium. 2023. _TEI P5: Guidelines for Electronic Text Encoding and Interchange_. Text Encoding Initiative Consortium. [https://tei-c.org/](https://tei-c.org/).
 
-DARIAH-DE. 2014. _Doing Digital Humanities - A DARIAH Bibliography_. [https://www.zotero.org/groups/113737/doing_digital_humanities_-_a_dariah_bibliography](https://www.zotero.org/groups/113737/doing_digital_humanities_-_a_dariah_bibliography).
+DARIAH-DE. 2014. _Doing Digital Humanities - A DARIAH Bibliography_. [https://www.zotero.org/groups/113737/doing*digital_humanities*-\_a_dariah_bibliography](https://www.zotero.org/groups/113737/doing_digital_humanities_-_a_dariah_bibliography).
 
 Davids, Thomas William Rhys, and William Stede. 1921. _The Pali Text Society’s Pali-English Dictionary_. The Pali Text Society. [https://archive.org/details/palitextsocietys00pali](https://archive.org/details/palitextsocietys00pali).
 
 Delhey, Martin, Emanuel Kindzorra, Oliver Hahn, and Ira Rabin. 2015. “Material Analysis of Sanskrit Palm-Leaf Manuscripts Preserved in Nepal.” _Journal of the International Association of Buddhist Studies_ 36/37 (2013/2014)): 119–52. [https://journals.ub.uni-heidelberg.de/index.php/jiabs/article/view/23443/17190](https://journals.ub.uni-heidelberg.de/index.php/jiabs/article/view/23443/17190).
 
-Dimitrov, Dragomir, and Kashinath Tamot. 2007. “Kaiser Shamsher, His Library and His Manuscript Collection.” _Kaiser Shamsher, His Library and His Manuscript Collection_ 3: 26--36. [https://www.aai.uni-hamburg.de/en/forschung/ngmcp/news/_pdf/newsletter3-e-e.pdf](https://www.aai.uni-hamburg.de/en/forschung/ngmcp/news/_pdf/newsletter3-e-e.pdf).
+Dimitrov, Dragomir, and Kashinath Tamot. 2007. “Kaiser Shamsher, His Library and His Manuscript Collection.” _Kaiser Shamsher, His Library and His Manuscript Collection_ 3: 26--36. [https://www.aai.uni-hamburg.de/en/forschung/ngmcp/news/\_pdf/newsletter3-e-e.pdf](https://www.aai.uni-hamburg.de/en/forschung/ngmcp/news/_pdf/newsletter3-e-e.pdf).
 
 Edgerton, Franklin. 1946. “Meter, Phonology, and Orthography in Buddhist Hybrid Sanskrit.” _Journal of the American Oriental Society_ 66 (3): 197. [https://doi.org/10.2307/595566](https://doi.org/10.2307/595566).
 

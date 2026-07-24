@@ -1,7 +1,17 @@
 # Ignore artifacts:
 build
 coverage
-*.min.js
+
+# Machine-generated / vendored files:
+**/*.map
+**/*.min.js
+**/*.min.css
 assets/js/search/
-lighthouse_results/
+assets/js/distillpub/
 assets/plotly/
+lighthouse_results/
+
+# Jekyll templates Prettier cannot parse:
+_scripts/
+assets/css/main.scss
+_sass/font-awesome/*.scss

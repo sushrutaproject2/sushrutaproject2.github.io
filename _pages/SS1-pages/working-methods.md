@@ -46,7 +46,5 @@ These working methods are unusually transparent. We are sharing our progress on 
 ### Footnotes
 
 [^1]: The [etext of the vulgate](https://sarit.indology.info/susrutasamhita.xml?view=div) was transcribed and released in 2009 by Professor Tsutomu Yamashita and Dr Yasutaka Muroya, to whom we are extremely grateful. Due to text availability issues, the sūtrasthāna (Su.1) and śārīrasthāna (Su.3) were transcribed mostly from the 1931 edition and the rest of the text from the 1938 edition.
-
 [^2]: For technical documentation of Saktumiva, see Charles Li, “[Reconstructing a Sanskrit Text](https://chchch.github.io/sanskrit-alignment/docs/index.html)” consulted 15 Jan 2021.
-
 [^3]: The editor I use is [TeXstudio](https://www.texstudio.org/), but others use their favourite editors like TeXshop.
