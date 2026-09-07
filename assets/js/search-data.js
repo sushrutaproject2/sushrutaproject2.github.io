@@ -281,17 +281,6 @@ ninja.data = [{
             window.location.href = "/blog/2025/the-problem-of-Candrata/";
           
         },
-      },{id: "post-a-new-manuscript-of-gayadasas-nyayacandrika-first-go",
-        
-          title: "A new manuscript of gayadasas nyayacandrika   first go",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/A-New-Manuscript-of-Gayadasas-Nyayacandrika-first-go/";
-          
-        },
       },{id: "post-the-social-importance-of-variant-readings",
         
           title: "The Social Importance of Variant Readings",
