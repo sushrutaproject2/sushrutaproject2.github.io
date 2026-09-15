@@ -47,9 +47,18 @@ Very few manuscript witnesses for the _Nyāyacandrikā_ survive. Today, we have 
 
   - [here for 5.1](https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/gayadasa/rori-bikaner-5157_kalpasthana-1?facs=3)
 
+### Saktumiva 1
+
+The diplomatic transcription files are also available for study using Saktumiva 1
+
+- [Gayadāsa start page at Saktumiva 1](https://vaikuntha.ca/doku.php?id=wiki:susrutaproject:gayadasa:start)
+
 ## Published portion
 
 The only fragment to be published so far is the commentary on the _Nidānasthāna_, which was edited and included by Yādavaśarman Trivikramji Ācārya in his 1938 edition of the _Suśrutasaṃhitā_ {% cite susr-1938 %}.
+
+
+
 
 ### References
 
