@@ -19,6 +19,7 @@ Very few manuscript witnesses for the _Nyāyacandrikā_ survive. Today, we have 
 
   Diplomatic transcription of this manuscript has begun, and can be viewed:
 
+  - [here for 1.1](https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/gayadasa/anup-4389_nyayacandrika_sutrasthana-1.xml)
   - [here for 1.2](https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/gayadasa/anup-4389_nyayacandrika_sutrasthana-2.xml)
   - [here for 1.6](https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/gayadasa/anup-4389_nyayacandrika_sutrasthana-6.xml?facs=39)
 
