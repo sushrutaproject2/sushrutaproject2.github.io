@@ -72,6 +72,13 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/sushrutaproject1/";
               },
+            },{id: "dropdown-etexts-from-published-editions",
+              title: "eTexts from published editions",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/etexts/";
+              },
             },{id: "post-a-new-manuscript-of-gayadāsa-s-nyāyacandrikā",
         
           title: "A New Manuscript of Gayadāsa’s Nyāyacandrikā",
