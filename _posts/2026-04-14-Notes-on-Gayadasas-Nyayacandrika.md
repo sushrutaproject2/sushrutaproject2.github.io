@@ -31,6 +31,10 @@ Very few manuscript witnesses for the _Nyāyacandrikā_ survive. Today, we have 
 ### _Śārīrasthāna_
 
 - [MS Jaipur RORI 6838](https://panditproject.org/entity/108061/manuscript). This MS was commissioned in Ahmedabad in 1468 CE by the same person as MS Bikaner RORI 5157 (_Kalpasthāna_) below. The scribe may be different. The manuscript includes both commentary and mūla.
+
+  Diplomatic transcription of this manuscript has begun, and can be viewed:
+
+  - [here for parts of 3](https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/gayadasa/rori-jaipur-6838_nyayacandrika_sarirasthana-4.xml?facs=2)
 - MS [Cambridge UL add. 2491](https://cudl.lib.cam.ac.uk/view/MS-ADD-02491/1)
 
   Diplomatic transcription of this manuscript has begun, and can be viewed:
