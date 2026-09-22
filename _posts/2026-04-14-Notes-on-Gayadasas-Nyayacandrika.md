@@ -34,7 +34,7 @@ Very few manuscript witnesses for the _Nyāyacandrikā_ survive. Today, we have 
 
   Diplomatic transcription of this manuscript has begun, and can be viewed:
 
-  - [here for parts of 3](https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/gayadasa/rori-jaipur-6838_nyayacandrika_sarirasthana-4.xml?facs=2)
+  - [here for parts of 3.4](https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/gayadasa/rori-jaipur-6838_nyayacandrika_sarirasthana-4.xml?facs=2)
 - MS [Cambridge UL add. 2491](https://cudl.lib.cam.ac.uk/view/MS-ADD-02491/1)
 
   Diplomatic transcription of this manuscript has begun, and can be viewed:
