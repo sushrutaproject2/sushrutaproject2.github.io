@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /bibliography/
-title: bibliography
+title: website bibliography
 description: All citations mentioned on this website
 nav: false
 nav_order: 2
