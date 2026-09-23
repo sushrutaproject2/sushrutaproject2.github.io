@@ -16,3 +16,5 @@ Tools, etexts, etc., that are useful for research on the Suśruta Project.
 - [Searchable text of Kunte's 1939 edition of the Aṣṭāṅgahṛdayasaṃhitā, with the commentaries of Aruṇadatta and Hemādri](https://sushrutaproject.github.io/eHrdaya).
 
 - [Searchable text of Ācārya's 1955 edition of the Mādhavanidāna (=Rugviniścaya), with the commentaries, the Madhukośa and the Ātaṅkadarpaṇa](https://sushrutaproject.github.io/eMadhava).
+
+- [Searchable text of Śāstrī’s 1931 edition of the Śārṅgadharasaṃhitā, with two commentaries](https://sushrutaproject.github.io/eSharngadhara/).
