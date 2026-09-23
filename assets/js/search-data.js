@@ -79,6 +79,13 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/etexts/";
               },
+            },{id: "dropdown-plants-animals-minerals-more-bibliography",
+              title: "Plants, animals,minerals, more bibliography",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/bibtex-indexes/";
+              },
             },{id: "post-a-new-manuscript-of-gayadāsa-s-nyāyacandrikā",
         
           title: "A New Manuscript of Gayadāsa’s Nyāyacandrikā",
