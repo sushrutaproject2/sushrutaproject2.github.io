@@ -35,6 +35,7 @@ Very few manuscript witnesses for the _Nyāyacandrikā_ survive. Today, we have 
   Diplomatic transcription of this manuscript has begun, and can be viewed:
 
   - [here for parts of 3.4](https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/gayadasa/rori-jaipur-6838_nyayacandrika_sarirasthana-4.xml?facs=2)
+
 - MS [Cambridge UL add. 2491](https://cudl.lib.cam.ac.uk/view/MS-ADD-02491/1)
 
   Diplomatic transcription of this manuscript has begun, and can be viewed:
@@ -61,9 +62,6 @@ The diplomatic transcription files are also available for study using Saktumiva 
 ## Published portion
 
 The only fragment to be published so far is the commentary on the _Nidānasthāna_, which was edited and included by Yādavaśarman Trivikramji Ācārya in his 1938 edition of the _Suśrutasaṃhitā_ {% cite susr-1938 %}.
-
-
-
 
 ### References
 
