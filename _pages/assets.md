@@ -12,6 +12,6 @@ children:
     permalink: /sushrutaproject1/
   - title: eTexts from published editions
     permalink: /etexts/
-  - title: Plants, animals,minerals, more bibliography
+  - title: Indexes of materia medica and more bibliography
     permalink: /bibtex-indexes/
 ---
