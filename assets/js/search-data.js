@@ -79,8 +79,8 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/etexts/";
               },
-            },{id: "dropdown-plants-animals-minerals-more-bibliography",
-              title: "Plants, animals,minerals, more bibliography",
+            },{id: "dropdown-indexes-of-materia-medica-and-more-bibliography",
+              title: "Indexes of materia medica and more bibliography",
               description: "",
               section: "Dropdown",
               handler: () => {
