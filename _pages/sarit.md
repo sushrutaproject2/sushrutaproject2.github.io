@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /sarit/
-title: indexes
+title: SARIT and GRETIL
 description: flexible keyword searching across SARIT and GRETIL
 nav: false
 nav_order: 5
