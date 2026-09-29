@@ -14,4 +14,6 @@ children:
     permalink: /etexts/
   - title: Indexes of materia medica and more bibliography
     permalink: /bibtex-indexes/
+  - title: Experimental search interface for SARIT
+    permalink: /sarit/
 ---
