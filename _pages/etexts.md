@@ -11,12 +11,12 @@ nav_order: 2
 
 provides the searchable texts of:
 
-- Ācārya's 1938 edition of the Suśrutasaṃhitā, with Ḍalhaṇa's commentary.
+- *Suśrutasaṃhitā*: [Ācārya's 1938 edition](https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/06-su.ut-27-37-kumara/06-ut-vulgate-1938-27-37.xml?facs=1), with Ḍalhaṇa's commentary.
 
-- Ācārya's 1941 edition of the Carakasaṃhitā, with Cakrapāṇidatta's commentary.
+- *Carakasaṃhitā*: [Ācārya's 1941 edition](https://n2t.net/ark:/13960/t48q2f20n/), with Cakrapāṇidatta's commentary.
 
-- Kunte's 1939 edition of the Aṣṭāṅgahṛdayasaṃhitā, with the commentaries of Aruṇadatta and Hemādri.
+- *Aṣṭāṅgahṛdayasaṃhitā*: [Kunte's 1939 edition](https://n2t.net/ark:/13960/t12p44f4h/), with the commentaries of Aruṇadatta and Hemādri.
 
-- Ācārya's 1955 edition of the Mādhavanidāna (=Rugviniścaya), with the commentaries, the Madhukośa and the Ātaṅkadarpaṇa.
+- *Mādhavanidāna (=Rugviniścaya)*: [Ācārya's 1955 edition](http://n2t.net/%20ark:/13960/s218hd9qx7t), with the commentaries *Madhukośa* and the *Ātaṅkadarpaṇa*.
 
-- Śāstrī’s 1931 edition of the Śārṅgadharasaṃhitā, with two commentaries.
+- *Śārṅgadharasaṃhitā*: [Śāstrī’s 1931](http://n2t.net/ark:/13960/t7wn11g9r) edition, with two commentaries.
