@@ -7,14 +7,16 @@ nav: false
 nav_order: 2
 ---
 
-Tools, etexts, etc., that are useful for research on the Suśruta Project.
+* http://sushrutaproject2.github.io/eTexts
 
-- [Searchable text of Ācārya's 1938 edition of the Suśrutasaṃhitā, with Ḍalhaṇa's commentary](https://sushrutaproject.github.io/eSushruta).
+provides the searchable texts of:
 
-- [Searchable text of Ācārya's 1941 edition of the Carakasaṃhitā, with Cakrapāṇidatta's commentary](https://sushrutaproject.github.io/eCaraka).
+- Ācārya's 1938 edition of the Suśrutasaṃhitā, with Ḍalhaṇa's commentary.
 
-- [Searchable text of Kunte's 1939 edition of the Aṣṭāṅgahṛdayasaṃhitā, with the commentaries of Aruṇadatta and Hemādri](https://sushrutaproject.github.io/eHrdaya).
+- Ācārya's 1941 edition of the Carakasaṃhitā, with Cakrapāṇidatta's commentary.
 
-- [Searchable text of Ācārya's 1955 edition of the Mādhavanidāna (=Rugviniścaya), with the commentaries, the Madhukośa and the Ātaṅkadarpaṇa](https://sushrutaproject.github.io/eMadhava).
+- Kunte's 1939 edition of the Aṣṭāṅgahṛdayasaṃhitā, with the commentaries of Aruṇadatta and Hemādri.
 
-- [Searchable text of Śāstrī’s 1931 edition of the Śārṅgadharasaṃhitā, with two commentaries](https://sushrutaproject.github.io/eSharngadhara/).
+- Ācārya's 1955 edition of the Mādhavanidāna (=Rugviniścaya), with the commentaries, the Madhukośa and the Ātaṅkadarpaṇa.
+
+- Śāstrī’s 1931 edition of the Śārṅgadharasaṃhitā, with two commentaries.
