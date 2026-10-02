@@ -7,7 +7,7 @@ nav: false
 nav_order: 2
 ---
 
-* [http://sushrutaproject.github.io/eTexts](https://sushrutaproject.github.io/eTexts/)
+- [http://sushrutaproject.github.io/eTexts](https://sushrutaproject.github.io/eTexts/)
 
 provides the searchable texts of:
 
