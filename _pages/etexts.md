@@ -1,13 +1,13 @@
 ---
 layout: page
 permalink: /etexts/
-title: etexts
+title: Medical eTexts
 description: Searchable etexts based on printed editions
 nav: false
 nav_order: 2
 ---
 
-* http://sushrutaproject2.github.io/eTexts
+* [http://sushrutaproject2.github.io/eTexts](http://sushrutaproject2.github.io/eTexts)
 
 provides the searchable texts of:
 
