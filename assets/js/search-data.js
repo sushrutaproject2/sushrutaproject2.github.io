@@ -93,7 +93,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/sarit/";
               },
-            },{id: "post-a-visit-to-gyan-bharatam-and-the-ministry-of-culture-new-delhi",
+            },{id: "post-nirāmayatā-healing-and-wellbeing-at-the-india-international-centre-new-delhi",
+        
+          title: "Nirāmayatā: Healing and Wellbeing at the India International Centre, New Delhi",
+        
+        description: "Three members of the Suśruta Project speak at the IIC–International Research Division&#39;s conference on healing traditions in South Asia, held under the SAMHiTA programme",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/Niramayata-conference-at-IIC/";
+          
+        },
+      },{id: "post-a-visit-to-gyan-bharatam-and-the-ministry-of-culture-new-delhi",
         
           title: "A Visit to Gyan Bharatam and the Ministry of Culture, New Delhi",
         
