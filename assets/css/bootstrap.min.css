@@ -431,7 +431,8 @@ pre code {
 .col-sm-10,
 .col-sm-5,
 .col-sm-6,
-.col-sm-7 {
+.col-sm-7,
+.col-sm-9 {
   position: relative;
   width: 100%;
   padding-right: 15px;
@@ -471,6 +472,11 @@ pre code {
     -ms-flex: 0 0 58.333333%;
     flex: 0 0 58.333333%;
     max-width: 58.333333%;
+  }
+  .col-sm-9 {
+    -ms-flex: 0 0 75%;
+    flex: 0 0 75%;
+    max-width: 75%;
   }
   .col-sm-10 {
     -ms-flex: 0 0 83.333333%;
