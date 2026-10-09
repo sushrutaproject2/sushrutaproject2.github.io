@@ -75,14 +75,26 @@ A recording of the round table is available [here](URL).
    zoomable=true
 %}
 
+<div class="row justify-content-center">
+  <div class="col-sm-9 mt-3 mt-md-0">
+    {% include figure.liquid
+       path="assets/img/2026-10-08-gyan-bharatam-birch.jpeg"
+       alt="Jason Birch speaking at the round table; Dr Anirban Dash on the left."
+       caption="Jason Birch speaking at the round table; Dr Anirban Dash on the left."
+       class="img-fluid rounded z-depth-1"
+       zoomable=true
+    %}
+  </div>
+</div>
+
 At Gyan Bharatam we were welcomed in the traditional manner with shawls and gifts of books.
 
 <div class="row justify-content-center">
   <div class="col-sm-7 mt-3 mt-md-0">
     {% include figure.liquid
-       path="assets/img/2026-10-08-gyan-bharatam-birch.jpeg"
-       alt="Jason Birch speaking at the round table; Dr Anirban Dash on the left."
-       caption="Jason Birch speaking at the round table; Dr Anirban Dash on the left."
+       path="assets/img/2026-10-08-gyan-bharatam-zysk-honoured.jpeg"
+       alt="Dr Anirban Dash presenting a shawl to Kenneth Zysk"
+       caption="Dr Anirban Dash presenting a shawl to Kenneth Zysk."
        class="img-fluid rounded z-depth-1"
        zoomable=true
     %}
