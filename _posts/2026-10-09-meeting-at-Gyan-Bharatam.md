@@ -9,7 +9,7 @@ tags: manuscripts digitisation Gyan-Bharatam Ministry-of-Culture Delhi
 
 On 8 October 2026, three members of the Suśruta Project, Dominik Wujastyk, Jason Birch and Kenneth Zysk, spent an afternoon in New Delhi as guests of [Gyan Bharatam](https://gyanbharatam.gov.in/), the Government of India's national mission for the survey, conservation and digitisation of manuscripts.
 
-Gyan Bharatam (_Jñānabhāratam_) was announced in the Union Budget for 2025–26 as a flagship programme of the Ministry of Culture. It builds on the work of the National Mission for Manuscripts, founded in 2003, and aims to document, conserve and make available more than ten million manuscripts held in libraries, institutions and private collections across India. The mission's emblem carries the motto _na hi jñānena sadṛśaṃ pavitram iha vidyate_, "for nothing in this world purifies like knowledge" (_Bhagavadgītā_ 4.38).
+Gyan Bharatam (_Jñānabhāratam_) was announced in the Union Budget for 2025–26 as a flagship programme of the Ministry of Culture. It builds on the work of the National Mission for Manuscripts, founded in 2003, and aims to document, conserve and make available more than ten million manuscripts held in libraries, institutions and private collections across India. The mission's emblem carries the motto _na hi jñānena sadṛśaṃ pavitram iha vidyate_, "for nothing in this world purifies like knowledge" (_Bhagavadgītā_ 4.38ab).
 
 {% include figure.liquid
    loading="eager"
