@@ -2,7 +2,7 @@
 layout: post
 title: A Visit to Gyan Bharatam and the Ministry of Culture, New Delhi
 author: Dominik Wujastyk
-date: 2026-10-09 12:00:00
+date: 2026-10-09 09:00:00 +0530
 description: Meetings with the Secretary of the Ministry of Culture and a round table at Gyan Bharatam on the future of manuscript research
 tags: manuscripts digitisation Gyan-Bharatam Ministry-of-Culture Delhi
 ---
