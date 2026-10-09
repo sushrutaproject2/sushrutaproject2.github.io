@@ -81,7 +81,7 @@ At Gyan Bharatam we were welcomed in the traditional manner with shawls and gift
   <div class="col-sm-7 mt-3 mt-md-0">
     {% include figure.liquid
        path="assets/img/2026-10-08-gyan-bharatam-birch.jpeg"
-       alt="Jason Birch speaking at the round table"
+       alt="Jason Birch speaking at the round table; Dr Anirban Dash on the left"
        caption="Jason Birch speaking at the round table."
        class="img-fluid rounded z-depth-1"
        zoomable=true
@@ -113,7 +113,7 @@ At Gyan Bharatam we were welcomed in the traditional manner with shawls and gift
 {% include figure.liquid
    path="assets/img/2026-10-08-gyan-bharatam-group.jpeg"
    alt="Suśruta Project members with the Gyan Bharatam team beside a display of manuscripts"
-   caption="Kenneth Zysk, Dominik Wujastyk and Jason Birch (centre) with members of the Gyan Bharatam team, beside a display of manuscripts."
+   caption="Kenneth Zysk, Dominik Wujastyk, Anirban Dash and Jason Birch (centre) with members of the Gyan Bharatam team, beside a display of manuscripts."
    class="img-fluid rounded z-depth-1"
    zoomable=true
 %}
