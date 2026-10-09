@@ -93,7 +93,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/sarit/";
               },
-            },{id: "post-a-new-manuscript-of-gayadāsa-s-nyāyacandrikā",
+            },{id: "post-a-visit-to-gyan-bharatam-and-the-ministry-of-culture-new-delhi",
+        
+          title: "A Visit to Gyan Bharatam and the Ministry of Culture, New Delhi",
+        
+        description: "Meetings with the Secretary of the Ministry of Culture and a round table at Gyan Bharatam on the future of manuscript research",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/meeting-at-Gyan-Bharatam/";
+          
+        },
+      },{id: "post-a-new-manuscript-of-gayadāsa-s-nyāyacandrikā",
         
           title: "A New Manuscript of Gayadāsa’s Nyāyacandrikā",
         
