@@ -65,7 +65,7 @@ The leaves are now somewhat dry and fragile, however, and we discussed with Mr B
    loading="eager"
    path="assets/img/2026-09-30-kaiser-library-kl699-group.jpeg"
    alt="Five people standing around a table on which the palm leaves of MS KL 699 lie on their wrapping cloths"
-   caption="MS Kathmandu KL 699 unwrapped on the Chief Librarian's table at the Kaiser Library, 30 September 2026."
+   caption="MS Kathmandu KL 699 unwrapped on the Chief Librarian's table at the Kaiser Library, 30 September 2026. L-R: Pradeep Bhattarai, Jason Birch, Diwakar Acharya, Ambika Regmi, Binita Giri."
    class="img-fluid rounded z-depth-1"
    zoomable=true
 %}
