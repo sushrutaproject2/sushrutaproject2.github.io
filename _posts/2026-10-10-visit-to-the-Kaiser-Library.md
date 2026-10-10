@@ -61,14 +61,31 @@ At our request, the manuscript was fetched from the stack and carefully unwrappe
 
 The leaves are now somewhat dry and fragile, however, and we discussed with Mr Bhattarai the importance of handling the manuscript as little as possible. This is one of the strongest arguments for a good photographic record: once high-quality images are published, scholars will rarely need to consult the original leaves at all.
 
-{% include figure.liquid
-   loading="eager"
-   path="assets/img/2026-09-30-kaiser-library-kl699-group.jpeg"
-   alt="Five people standing around a table on which the palm leaves of MS KL 699 lie on their wrapping cloths"
-   caption="MS Kathmandu KL 699 unwrapped on the Chief Librarian's table at the Kaiser Library, 30 September 2026. L-R: Pradeep Bhattarai, Jason Birch, Diwakar Acharya, Ambika Regmi, Binita Giri."
-   class="img-fluid rounded z-depth-1"
-   zoomable=true
-%}
+<div class="row justify-content-center">
+  <div class="col-sm-6 mt-3 mt-md-0">
+    {% include figure.liquid
+       loading="eager"
+       path="assets/img/2026-09-30-kaiser-library-kl699-group.jpeg"
+       alt="Pradip Bhattarai, Jason Birch, Diwakar Acharya, Ambika Regmi and Binita Giri around the unwrapped palm leaves of MS KL 699"
+       caption="L–R: Pradip Bhattarai, Jason Birch, Diwakar Acharya, Ambika Regmi, Binita Giri."
+       class="img-fluid rounded z-depth-1"
+       zoomable=true
+    %}
+  </div>
+  <div class="col-sm-6 mt-3 mt-md-0">
+    {% include figure.liquid
+       loading="eager"
+       path="assets/img/2026-09-30-kaiser-library-kl699-group-2.jpeg"
+       alt="Pradip Bhattarai, Dominik Wujastyk, Diwakar Acharya, Ambika Regmi and Binita Giri around the unwrapped palm leaves of MS KL 699"
+       caption="L–R: Pradip Bhattarai, Dominik Wujastyk, Diwakar Acharya, Ambika Regmi, Binita Giri."
+       class="img-fluid rounded z-depth-1"
+       zoomable=true
+    %}
+  </div>
+</div>
+<div class="caption">
+  MS Kathmandu KL 699 unwrapped on the Chief Librarian's table at the Kaiser Library, 30 September 2026.
+</div>
 
 {% include figure.liquid
    path="assets/img/KL699-219v.jpeg"
