@@ -93,7 +93,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/sarit/";
               },
-            },{id: "post-nirāmayatā-healing-and-wellbeing-at-the-india-international-centre-new-delhi",
+            },{id: "post-a-visit-to-the-kaiser-library-kathmandu",
+        
+          title: "A Visit to the Kaiser Library, Kathmandu",
+        
+        description: "Seeing MS Kathmandu KL 699 again, and a proposal for a facsimile edition with diplomatic transcription",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/visit-to-the-Kaiser-Library/";
+          
+        },
+      },{id: "post-nirāmayatā-healing-and-wellbeing-at-the-india-international-centre-new-delhi",
         
           title: "Nirāmayatā: Healing and Wellbeing at the India International Centre, New Delhi",
         
