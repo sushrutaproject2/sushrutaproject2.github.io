@@ -35,6 +35,7 @@ The _Nirāmayatā_ conference was organised by the IRD in collaboration with the
    class="img-fluid rounded z-depth-1"
    zoomable=true
 %}
+
 <!-- Please check and complete the names in this caption. -->
 
 ## Our presentations
