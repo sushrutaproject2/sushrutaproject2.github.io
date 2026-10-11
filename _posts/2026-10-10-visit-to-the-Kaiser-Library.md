@@ -87,7 +87,6 @@ The leaves are now somewhat dry and fragile, however, and we discussed with Mr B
   MS Kathmandu KL 699 unwrapped on the Chief Librarian's table at the Kaiser Library, 30 September 2026.
 </div>
 
-
 {% include figure.liquid
    path="assets/img/KL699-219v.jpeg"
    alt="A single long palm leaf densely written in early Nepalese script, with two string holes"
