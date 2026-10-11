@@ -31,12 +31,10 @@ The _Nirāmayatā_ conference was organised by the IRD in collaboration with the
 {% include figure.liquid
    path="assets/img/2026-10-06-iic-inaugural-group.jpeg"
    alt="Dominik Wujastyk, Dr Sudha Gopalakrishnan and guests standing before the platform after the lamp-lighting"
-   caption="The inaugural session, after the lighting of the lamp: Dominik Wujastyk (left) and Dr Sudha Gopalakrishnan (centre) with guests of honour."
+   caption="The inaugural session, after the lighting of the lamp: L-R: Dominik Wujastyk, K. N. Shrivastava, Sudha Gopalakrishnan, Anil Rajput, Shyam Saran."
    class="img-fluid rounded z-depth-1"
    zoomable=true
 %}
-
-<!-- Please check and complete the names in this caption. -->
 
 ## Our presentations
 
