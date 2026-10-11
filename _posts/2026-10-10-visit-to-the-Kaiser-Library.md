@@ -51,7 +51,7 @@ The library was founded in 1907 by the Rana prime minister Chandra Shumsher for 
 
 ## Our hosts
 
-We were received by the Chief Librarian, Mr Pradip Bhattarai, and by Ms Binita Giri of the library staff. Both were cordial and welcoming, and generous with their time. We also had the pleasure of meeting Ambika Regmi, who is preparing a Nepali translation of the _Suśrutasaṃhitā_ based on KL 699. It is very good to know that the manuscript's text is being made available to readers in Nepal in their own language.
+We were received by the Chief Librarian, Mr Pradip Bhattarai, and by Ms Binita Giri of the library staff. Both were cordial and welcoming, and generous with their time. We also had the pleasure of meeting Ambika Prasad Regmi, who is preparing a Nepali translation of the _Suśrutasaṃhitā_ based on KL 699. It is very good to know that the manuscript's text is being made available to readers in Nepal in their own language.
 
 We were accompanied and introduced by Prof. Diwakar Acharya, Spalding Professor of Eastern Religions and Ethics at the University of Oxford. His help in making introductions and in explaining our goals in Nepali was invaluable, and we are most grateful to him.
 
@@ -66,8 +66,8 @@ The leaves are now somewhat dry and fragile, however, and we discussed with Mr B
     {% include figure.liquid
        loading="eager"
        path="assets/img/2026-09-30-kaiser-library-kl699-group.jpeg"
-       alt="Pradip Bhattarai, Jason Birch, Diwakar Acharya, Ambika Regmi and Binita Giri around the unwrapped palm leaves of MS KL 699"
-       caption="L–R: Pradip Bhattarai, Jason Birch, Diwakar Acharya, Ambika Regmi, Binita Giri."
+       alt="Pradip Bhattarai, Jason Birch, Diwakar Acharya, Ambika Prasad Regmi and Binita Giri around the unwrapped palm leaves of MS KL 699"
+       caption="L–R: Pradip Bhattarai, Jason Birch, Diwakar Acharya, Ambika Prasad Regmi, Binita Giri."
        class="img-fluid rounded z-depth-1"
        zoomable=true
     %}
@@ -76,8 +76,8 @@ The leaves are now somewhat dry and fragile, however, and we discussed with Mr B
     {% include figure.liquid
        loading="eager"
        path="assets/img/2026-09-30-kaiser-library-kl699-group-2.jpeg"
-       alt="Pradip Bhattarai, Dominik Wujastyk, Diwakar Acharya, Ambika Regmi and Binita Giri around the unwrapped palm leaves of MS KL 699"
-       caption="L–R: Pradip Bhattarai, Dominik Wujastyk, Diwakar Acharya, Ambika Regmi, Binita Giri."
+       alt="Pradip Bhattarai, Dominik Wujastyk, Diwakar Acharya, Ambika Prasad Regmi and Binita Giri around the unwrapped palm leaves of MS KL 699"
+       caption="L–R: Pradip Bhattarai, Dominik Wujastyk, Diwakar Acharya, Ambika Prasad Regmi, Binita Giri."
        class="img-fluid rounded z-depth-1"
        zoomable=true
     %}
@@ -86,6 +86,7 @@ The leaves are now somewhat dry and fragile, however, and we discussed with Mr B
 <div class="caption">
   MS Kathmandu KL 699 unwrapped on the Chief Librarian's table at the Kaiser Library, 30 September 2026.
 </div>
+
 
 {% include figure.liquid
    path="assets/img/KL699-219v.jpeg"
@@ -115,4 +116,4 @@ We proposed to the Chief Librarian that the Kaiser Library and the Suśruta Proj
 
 Mr Bhattarai responded positively to the proposal. He will pass the plan to the library's legal office and to the Ministry of Education for approval. We look forward to hearing from him and, we hope, to beginning work together.
 
-We thank Mr Pradip Bhattarai, Ms Binita Giri and Ambika Regmi for their warm welcome, and Prof. Diwakar Acharya for making the meeting possible.
+We thank Mr Pradip Bhattarai, Ms Binita Giri and Ambika Prasad Regmi for their warm welcome, and Prof. Diwakar Acharya for making the meeting possible.
