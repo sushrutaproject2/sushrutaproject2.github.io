@@ -10,7 +10,7 @@ categories:
 
 ## Jejjaṭa
 
-Related to the [the problem of Candraṭa](https://sushrutaproject2.github.io/website/blog/2025/the-problem-of-Candrata/), we may note that manuscripts containing the "Candraṭa verse" that ends, "... आलोक्य जैज्जटीं ||" have sometimes been misinterpreted as containing a commentary by Jejjaṭa. This is the case, for example, with MS Bikaner Anup 4391, that was reported in this way in NCC {% cite ncc -A -l 7: 317 %}. This led Meulenbeld to assert the existence of a manuscript of a commentary by Jejjaṭa on the _Suśrutasaṃhitā_ {% cite meul-hist -l 1B 506 n.360 %}. In fact, MS Bikaner Anup 4391 is the text of the _Suśrutasaṃhitā_, with the Candraṭa verse in the colophon. It is likely that this is the same case for MS London IOLR Taylor 1842: this is currently being investigated, but which initially seems to be a manuscript supporting the _Suśrutasaṃhitā_ with the commentary of Ḍalhaṇa, but nothing by the author Candraṭa.
+Related to the [the problem of Candraṭa](https://sushrutaproject2.github.io/website/blog/2025/the-problem-of-Candrata/), we may note that manuscripts containing the "Candraṭa verse" that ends, "... आलोक्य जैज्जटीं ||" have sometimes been misinterpreted as containing a commentary by Jejjaṭa. This is the case, for example, with MS Bikaner Anup 4391, that was reported in this way in NCC {% cite ncc -A -l 7: 317 %}. This led Meulenbeld to assert the existence of a manuscript of a commentary by Jejjaṭa on the _Suśrutasaṃhitā_ {% cite meul-hist -l 1B 506 n.360 %}. In fact, MS Bikaner Anup 4391 is the text of the _Suśrutasaṃhitā_, with the Candraṭa verse in the colophon.  It is the same for MS London IOLR Taylor 1842: it is a manuscript supporting the _Suśrutasaṃhitā_ with the commentary of Ḍalhaṇa, but nothing by the author Candraṭa.
 
 MSS currently known to have the so-called Candraṭa verse:
 
@@ -20,6 +20,7 @@ MSS currently known to have the so-called Candraṭa verse:
 - [MS Los Angeles LACMA M.87.271c (ma-44977.tiff)](https://panditproject.org/entity/108634/manuscript)
 - [MS Kolkata ASB G. 5275](https://panditproject.org/entity/109395/manuscript), part III (according to the catalogue)
 - [MS Udaipur RORI Udaipur coll. 1806(3)](https://panditproject.org/entity/108192/manuscript)
+- [MS Jaipur Sanjay Sharma Museum RN4MSS 4720](https://panditproject.org/node/117021)
 
 ### Testimonia
 
