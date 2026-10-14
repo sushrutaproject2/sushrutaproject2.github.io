@@ -93,7 +93,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/sarit/";
               },
-            },{id: "post-a-visit-to-the-kaiser-library-kathmandu",
+            },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/2024-09-12-candrata/";
+          
+        },
+      },{id: "post-a-visit-to-the-kaiser-library-kathmandu",
         
           title: "A Visit to the Kaiser Library, Kathmandu",
         
