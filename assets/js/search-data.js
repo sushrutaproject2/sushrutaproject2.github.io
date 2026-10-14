@@ -93,7 +93,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/sarit/";
               },
-            },{id: "post-a-visit-to-the-kaiser-library-kathmandu",
+            },{id: "post-candraṭa-39-s-editing-of-the-suśrutasaṃhitā-updated-october-2026",
+        
+          title: "Candraṭa&#39;s editing of the Suśrutasaṃhitā, updated October 2026",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/candrata/";
+          
+        },
+      },{id: "post-a-visit-to-the-kaiser-library-kathmandu",
         
           title: "A Visit to the Kaiser Library, Kathmandu",
         
@@ -267,17 +278,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2026/project-publication-Lisa-A-Brooks/";
-          
-        },
-      },{id: "post-candraṭa-39-s-editing-of-the-suśrutasaṃhitā-updated-october-2026",
-        
-          title: "Candraṭa&#39;s editing of the Suśrutasaṃhitā, updated October 2026",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/candrata/";
           
         },
       },{id: "post-book-review-of-quot-plastic-surgery-quot",
