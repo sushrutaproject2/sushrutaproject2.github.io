@@ -10,7 +10,7 @@ children:
     permalink: /bibliography/
   - title: Legacy Resources from Suśruta Project 1.0
     permalink: /sushrutaproject1/
-  - title: eTexts from published editions
+  - title: Search medical eTexts from published editions
     permalink: /etexts/
   - title: Indexes of materia medica and more bibliography
     permalink: /bibtex-indexes/
