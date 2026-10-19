@@ -72,8 +72,8 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/sushrutaproject1/";
               },
-            },{id: "dropdown-etexts-from-published-editions",
-              title: "eTexts from published editions",
+            },{id: "dropdown-search-medical-etexts-from-published-editions",
+              title: "Search medical eTexts from published editions",
               description: "",
               section: "Dropdown",
               handler: () => {
