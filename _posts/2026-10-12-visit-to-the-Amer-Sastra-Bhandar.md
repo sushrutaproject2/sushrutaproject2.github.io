@@ -7,7 +7,7 @@ description: Looking for a seventeenth-century manuscript of the Kalpasthāna of
 tags: manuscripts Jaipur Rajasthan Jain Amer-Sastra-Bhandar Kalpasthāna
 ---
 
-On 12 October 2026, Jason Birch and I visited the Āmer Śāstra Bhaṇḍār in Jaipur, a Digambara Jain manuscript library. Our aim was to see a manuscript of the _Suśrutasaṃhitā_ recorded there in the mid-twentieth century.
+On 12 October 2026, Jason Birch and I visited the Āmer Śāstra Bhaṇḍār in Jaipur, a Digambara Jain manuscript library. Our aim was to see a manuscript of the _Suśrutasaṃhitā_ that had been recorded there in the mid-twentieth century.
 
 ## The library
 
