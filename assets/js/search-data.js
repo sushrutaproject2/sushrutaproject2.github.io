@@ -93,7 +93,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/sarit/";
               },
-            },{id: "post-candraṭa-39-s-editing-of-the-suśrutasaṃhitā-updated-october-2026",
+            },{id: "post-a-visit-to-the-āmer-śāstra-bhaṇḍār-jaipur",
+        
+          title: "A Visit to the Āmer Śāstra Bhaṇḍār, Jaipur",
+        
+        description: "Looking for a seventeenth-century manuscript of the Kalpasthāna of the Suśrutasaṃhitā in a Digambara Jain library in Jaipur",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/visit-to-the-Amer-Sastra-Bhandar/";
+          
+        },
+      },{id: "post-candraṭa-39-s-editing-of-the-suśrutasaṃhitā-updated-october-2026",
         
           title: "Candraṭa&#39;s editing of the Suśrutasaṃhitā, updated October 2026",
         
