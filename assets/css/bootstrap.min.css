@@ -1660,14 +1660,6 @@ a.close.disabled {
 .rounded {
   border-radius: 0.25rem !important;
 }
-.rounded-circle {
-  border-radius: 50% !important;
-}
-.clearfix::after {
-  display: block;
-  clear: both;
-  content: "";
-}
 .flex-nowrap {
   -ms-flex-wrap: nowrap !important;
   flex-wrap: nowrap !important;
@@ -1675,9 +1667,6 @@ a.close.disabled {
 .justify-content-center {
   -ms-flex-pack: center !important;
   justify-content: center !important;
-}
-.float-right {
-  float: right !important;
 }
 .position-static {
   position: static !important;
