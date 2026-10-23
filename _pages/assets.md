@@ -6,14 +6,13 @@ nav: true
 nav_order: 7
 dropdown: true
 children:
-  - title: Bibliography
-    permalink: /bibliography/
+---
+
   - title: Legacy Resources from Suśruta Project 1.0
-    permalink: /sushrutaproject1/
+    permalink: https://sushrutaproject.github.io/eTexts/
   - title: Search medical eTexts from published editions
     permalink: /etexts/
   - title: Indexes of materia medica and more bibliography
-    permalink: /bibtex-indexes/
+    permalink: https://wujastyk.github.io/bibliographies
   - title: Experimental search interface for SARIT
-    permalink: /sarit/
----
+    permalink: https://wujastyk.github.io/SARIT-corpus/
