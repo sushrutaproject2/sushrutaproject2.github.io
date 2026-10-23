@@ -3,6 +3,8 @@
 # -----------------------------------------------------------------------------
 
 title: The Compendium of Suśruta in Time and Space # the website title (if blank, full name will be used instead)
+project_label: Project 2 # shown beside the logo in the menu bar
+project_dates: 2025–2029 · current
 first_name: Dominik
 # middle_name: L.
 last_name: Wujastyk
@@ -456,7 +458,7 @@ third_party_libraries:
     version: "5.5.0"
   google_fonts:
     url:
-      fonts: "https://fonts.googleapis.com/css?family=Noto:300,400,500,700|Noto+Slab:100,300,400,500,700|Material+Icons&display=swap"
+      fonts: "https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&family=Noto+Serif+Devanagari:wght@400;500&family=Spectral:ital,wght@0,400;0,500;1,400&family=Material+Icons&display=swap"
   highlightjs:
     integrity:
       css:

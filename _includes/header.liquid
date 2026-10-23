@@ -1,29 +1,30 @@
 <header>
   <!-- Nav Bar -->
   <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}" role="navigation">
+    <!-- Thin strip linking the three Suśruta Project websites (edit _data/navigation.yml) -->
+    {% assign site_root = site.url | append: '/' %}
+    <div class="umbrella">
+      <div class="container umbrella-inner">
+        <a class="umbrella-home" href="{{ site.data.navigation[0].url }}"><span lang="sa">सुश्रुत</span> The Suśruta Project</a>
+        <ul>
+          {% for item in site.data.navigation %}
+            {% if item.umbrella %}
+              <li>
+                <a href="{{ item.url }}" {% if item.url == site_root %}aria-current="true"{% endif %}>{{ item.title }}</a>
+              </li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
     <div class="container">
-      {% if page.permalink != '/' %}
-        <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
-          {% if site.title == 'blank' %}
-            {% if site.first_name %}
-              <span class="font-weight-bold">
-                {{- site.first_name -}}
-              </span>
-            {% endif %}
-            {% if site.middle_name %}
-              {{- site.middle_name -}}
-            {% endif %}
-            {% if site.last_name %}
-              {{- site.last_name -}}
-            {% endif %}
-          {% else %}
-            {{- site.title -}}
-          {% endif %}
-        </a>
-      {% elsif site.enable_navbar_social %}
-        <!-- Social Icons -->
-        <div class="navbar-brand social">{% include social.liquid %}</div>
-      {% endif %}
+      <a class="navbar-brand susruta-brand" href="{{ site.baseurl }}/">
+        <span class="brand-mark" lang="sa" aria-hidden="true">सु</span>
+        <span class="brand-text">
+          <span class="brand-name">{{ site.project_label }}</span>
+          <span class="brand-dates">{{ site.project_dates }}</span>
+        </span>
+      </a>
       <!-- Navbar Toggle -->
       <button
         class="navbar-toggler collapsed ml-auto"
@@ -49,7 +50,7 @@
           <!-- About -->
           <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
             <a class="nav-link" href="{{ '/' | relative_url }}">
-              {{- about_title }}
+              {{- about_title | default: 'home' }}
               {% if page.permalink == '/' %}
                 <span class="sr-only">(current)</span>
               {% endif %}

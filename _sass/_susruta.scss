@@ -1,0 +1,411 @@
+/*******************************************************************************
+ * The Suśruta Project — "Modern Portal" design for the Project 2 site.
+ * Same colours and fonts as sushrutaproject.github.io and sushrutaproject1.
+ * This file is loaded last (see assets/css/main.scss), so it overrides al-folio.
+ * To change a colour everywhere, edit the values in the first block.
+ ******************************************************************************/
+
+:root {
+  --navy: #1e2a44; // menu bar and page title bands
+  --navy-deep: #141d30; // thin top strip
+  --saffron: #e0a43a; // accent on navy
+  --saffron-lt: #f0c77a; // links on navy
+  --on-navy: #d3d9e4; // ordinary text on navy
+  --on-navy-muted: #c9d2e0;
+
+  --serif: "Spectral", Georgia, serif;
+  --sans: "IBM Plex Sans", system-ui, sans-serif;
+  --deva: "Noto Serif Devanagari", "Spectral", serif;
+
+  // al-folio's own colour settings, light mode
+  --susruta-header-footer-bg-color: var(--navy);
+  --global-theme-color: #1e4e8c;
+  --global-hover-color: #133563;
+  --global-text-color: #16202e;
+  --global-text-color-light: #5a6577;
+  --global-footer-bg-color: #ffffff;
+  --global-footer-text-color: #435064;
+  --global-footer-link-color: #1e4e8c;
+  --global-divider-color: #dce2ea;
+}
+
+html[data-theme="dark"] {
+  --susruta-header-footer-bg-color: var(--navy);
+  --global-theme-color: #8fb4e8;
+  --global-hover-color: #b9d0f2;
+  --global-text-color: #e4e8ee;
+  --global-text-color-light: #9aa5b5;
+  --global-footer-bg-color: var(--navy-deep);
+  --global-footer-text-color: var(--on-navy-muted);
+  --global-footer-link-color: var(--saffron-lt);
+  --global-divider-color: #3a4357;
+}
+
+/* ---------- Fonts ---------- */
+p,
+em,
+div,
+li,
+span,
+strong,
+body {
+  font-family: var(--sans);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--serif);
+  font-weight: 500;
+}
+
+:is(h1, h2, h3, h4, h5, h6) :is(span, em, strong, a) {
+  font-family: inherit;
+}
+
+[lang="sa"],
+:is(h1, h2, h3, h4, h5, h6, p, span, div) [lang="sa"] {
+  font-family: var(--deva);
+}
+
+body {
+  font-size: 1.0625rem;
+  line-height: 1.65;
+}
+
+/* ---------- Menu bar ---------- */
+body.fixed-top-nav {
+  padding-top: 104px; // the script in progress-bar.js fine-tunes this
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  scroll-margin-top: 116px;
+}
+
+#navbar.navbar {
+  background-color: var(--navy);
+  opacity: 1;
+  border-bottom: 0;
+  padding: 0;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-items: stretch;
+}
+
+#navbar > .container {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+/* The thin strip linking the three websites */
+#navbar .umbrella {
+  background-color: var(--navy-deep);
+  font-size: 13px;
+  line-height: 1.4;
+}
+
+#navbar .umbrella-inner {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2px 16px;
+  min-height: 34px;
+}
+
+#navbar .umbrella a {
+  color: var(--on-navy-muted);
+  text-decoration: none;
+}
+
+#navbar .umbrella a:hover {
+  color: #ffffff;
+}
+
+#navbar .umbrella-home {
+  font-weight: 500;
+}
+
+#navbar .umbrella-home span {
+  color: var(--saffron);
+  margin-right: 4px;
+}
+
+#navbar .umbrella ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0 18px;
+}
+
+#navbar .umbrella li {
+  color: var(--on-navy-muted);
+}
+
+#navbar .umbrella ul a {
+  display: block;
+  padding: 7px 0;
+}
+
+#navbar .umbrella a[aria-current] {
+  color: var(--saffron-lt);
+  font-weight: 600;
+}
+
+/* Logo and project name */
+#navbar .susruta-brand {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 0;
+  margin-right: 1rem;
+}
+
+#navbar .brand-mark {
+  width: 38px;
+  height: 38px;
+  flex: none;
+  border-radius: 50%;
+  background-color: var(--saffron);
+  color: var(--navy);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 19px;
+  font-weight: 500;
+  line-height: 1;
+  padding-bottom: 2px;
+}
+
+#navbar .brand-text {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.15;
+}
+
+#navbar .brand-name {
+  font-family: var(--serif);
+  font-size: 20px;
+  font-weight: 500;
+  color: #ffffff;
+}
+
+#navbar .brand-dates {
+  font-size: 12px;
+  color: var(--on-navy-muted);
+}
+
+/* Menu items */
+#navbar.navbar-light .navbar-nav .nav-item .nav-link {
+  color: #ffffff;
+  font-size: 15px;
+  font-weight: 500;
+  padding: 8px 12px;
+  border-radius: 6px;
+}
+
+#navbar.navbar-light .navbar-nav .nav-item .nav-link::first-letter {
+  text-transform: uppercase;
+}
+
+#navbar.navbar-light .navbar-nav .nav-item .nav-link:hover {
+  color: #ffffff;
+  background-color: rgba(255, 255, 255, 0.12);
+}
+
+#navbar.navbar-light .navbar-nav .nav-item.active > .nav-link,
+#navbar.navbar-light .navbar-nav .nav-item.active > .nav-link:hover {
+  color: var(--navy);
+  background-color: var(--saffron);
+  font-weight: 600;
+}
+
+#navbar #search-toggle,
+#navbar #light-toggle,
+#navbar #search-toggle .nav-link,
+#navbar #search-toggle i,
+#navbar #light-toggle i {
+  color: #ffffff;
+}
+
+#navbar #light-toggle:hover i,
+#navbar #search-toggle:hover .nav-link {
+  color: var(--saffron-lt);
+}
+
+#navbar .navbar-toggler .icon-bar {
+  background-color: #ffffff;
+}
+
+#navbar .dropdown-menu {
+  border-radius: 8px;
+  box-shadow: 0 8px 24px rgba(22, 32, 46, 0.18);
+}
+
+#navbar .dropdown-item {
+  font-size: 15px;
+  padding: 6px 16px;
+}
+
+progress {
+  color: var(--saffron);
+}
+
+progress::-webkit-progress-value {
+  background-color: var(--saffron);
+}
+
+progress::-moz-progress-bar {
+  background-color: var(--saffron);
+}
+
+/* ---------- Page title bands (pages, posts, the blog page) ---------- */
+.post-header,
+.header-bar {
+  position: relative;
+  background-color: var(--navy);
+  box-shadow: 0 0 0 100vmax var(--navy); // stretch the band to the window edges
+  clip-path: inset(0 -100vmax);
+  margin: -4.5rem 0 2.5rem; // tucks under the menu bar, so no gap shows
+  padding: 3.75rem 0 2.5rem;
+  border-bottom: 0;
+}
+
+.post-header .post-title,
+.header-bar h1,
+.header-bar h3 {
+  color: #ffffff;
+  font-size: clamp(30px, 5vw, 46px);
+  line-height: 1.15;
+  margin: 0 0 0.4rem;
+}
+
+.post-header p,
+.post-header span,
+.post-header li,
+.post-header .post-meta,
+.post-header .post-description,
+.post-header .desc,
+.header-bar p,
+.header-bar span {
+  color: var(--on-navy);
+}
+
+.post-header .post-title::first-letter {
+  text-transform: uppercase; // "project components" -> "Project components"
+}
+
+.post-header a,
+.post-header i,
+.header-bar a {
+  color: var(--saffron-lt);
+}
+
+.post-header a:hover,
+.header-bar a:hover {
+  color: #ffffff;
+}
+
+.post-header .post-tags,
+.post-header .post-meta {
+  margin-bottom: 0.25rem;
+}
+
+.post .post-header .post-meta,
+.post .post-header .post-tags {
+  color: var(--on-navy);
+}
+
+.post .post-header .post-tags a {
+  color: var(--saffron-lt);
+}
+
+.post .post-header .post-tags a:hover {
+  color: #ffffff;
+}
+
+/* Home page heading */
+.post-header.about-header {
+  text-align: center;
+  padding: 4rem 0 3rem;
+}
+
+.post-header p.hero-devanagari {
+  font-family: var(--deva);
+  font-size: 40px;
+  line-height: 1.5;
+  color: var(--saffron);
+  margin: 0 0 4px;
+}
+
+.post-header p.kicker {
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--saffron-lt);
+  margin: 0 0 12px;
+}
+
+.post-header.about-header .desc {
+  font-size: 20px;
+  margin: 0;
+}
+
+/* ---------- Text ---------- */
+article h2,
+.post h2 {
+  margin-top: 1.6em;
+}
+
+article img {
+  border-radius: 4px;
+}
+
+/* ---------- Footer ---------- */
+footer.fixed-bottom {
+  border-top: 1px solid var(--global-divider-color);
+  font-size: 0.78rem;
+}
+
+footer.fixed-bottom .container {
+  color: var(--global-footer-text-color);
+}
+
+/* ---------- Phones ---------- */
+@media (max-width: 575.98px) {
+  #navbar > .container,
+  #navbar .umbrella > .container {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  #navbar .umbrella-inner {
+    justify-content: center;
+  }
+
+  #navbar .navbar-collapse .nav-link {
+    display: inline-block;
+  }
+
+  .post-header p.hero-devanagari {
+    font-size: 32px;
+  }
+}
+
+/* Long web addresses wrap instead of pushing the page sideways on phones */
+p,
+li,
+.header-bar {
+  overflow-wrap: break-word;
+}
