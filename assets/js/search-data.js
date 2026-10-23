@@ -58,42 +58,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "dropdown-bibliography",
-              title: "Bibliography",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/bibliography/";
-              },
-            },{id: "dropdown-legacy-resources-from-suśruta-project-1-0",
-              title: "Legacy Resources from Suśruta Project 1.0",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/sushrutaproject1/";
-              },
-            },{id: "dropdown-search-medical-etexts-from-published-editions",
-              title: "Search medical eTexts from published editions",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/etexts/";
-              },
-            },{id: "dropdown-indexes-of-materia-medica-and-more-bibliography",
-              title: "Indexes of materia medica and more bibliography",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/bibtex-indexes/";
-              },
-            },{id: "dropdown-experimental-search-interface-for-sarit",
-              title: "Experimental search interface for SARIT",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/sarit/";
-              },
-            },{id: "post-a-visit-to-the-āmer-śāstra-bhaṇḍār-jaipur",
+        },{id: "post-a-visit-to-the-āmer-śāstra-bhaṇḍār-jaipur",
         
           title: "A Visit to the Āmer Śāstra Bhaṇḍār, Jaipur",
         
