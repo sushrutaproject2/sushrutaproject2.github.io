@@ -1,0 +1,35 @@
+---
+layout: default
+---
+<section class="page-hero">
+  <div class="wrap article-wrap">
+    <p class="kicker">{{ site.project_label }} · {{ site.project_dates }}</p>
+    <h1>{{ page.title | default: site.title | escape }}</h1>
+    {%- if page.description %}
+    <p class="hero-desc">{{ page.description }}</p>
+    {%- endif %}
+  </div>
+</section>
+<article class="wrap article-wrap">
+  <div class="sheet prose" data-pagefind-body>
+    {{ content }}
+
+    {%- comment -%} A menu heading page with no text of its own lists its menu entries. {%- endcomment -%}
+    {%- assign body = content | strip_html | strip -%}
+    {%- if page.dropdown and body == "" %}
+    <ul class="link-list">
+      {%- for child in page.children %}
+      {%- if child.permalink contains '://' -%}{%- assign child_url = child.permalink -%}{%- else -%}{%- assign child_url = child.permalink | relative_url -%}{%- endif %}
+      <li><a href="{{ child_url }}">{{ child.title }}</a></li>
+      {%- endfor %}
+    </ul>
+    {%- endif %}
+
+    {%- if page.related_publications %}
+    <h2>References</h2>
+    <div class="publications">
+      {% bibliography --cited_in_order --group_by none %}
+    </div>
+    {%- endif %}
+  </div>
+</article>

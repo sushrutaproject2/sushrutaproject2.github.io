@@ -1,0 +1,33 @@
+{%- comment -%}
+  "More posts like this": other posts sharing the most tags with this one,
+  newest first within each level. Replaces al-folio's slow text-similarity (LSI) step.
+{%- endcomment -%}
+{%- assign max = site.related_posts_max | default: 5 -%}
+{%- assign picked = "" -%}
+{%- assign count = 0 -%}
+{%- for level in (1..4) reversed -%}
+  {%- for post in site.posts -%}
+    {%- if count >= max -%}{%- break -%}{%- endif -%}
+    {%- if post.url == page.url -%}{%- continue -%}{%- endif -%}
+    {%- assign marker = post.url | append: "|" -%}
+    {%- if picked contains marker -%}{%- continue -%}{%- endif -%}
+    {%- assign shared = 0 -%}
+    {%- for tag in post.tags -%}{%- if page.tags contains tag -%}{%- assign shared = shared | plus: 1 -%}{%- endif -%}{%- endfor -%}
+    {%- if shared >= level -%}
+      {%- assign picked = picked | append: marker -%}
+      {%- assign count = count | plus: 1 -%}
+    {%- endif -%}
+  {%- endfor -%}
+{%- endfor -%}
+{%- if count > 0 %}
+<aside class="related">
+  <h2>More from the blog</h2>
+  <ul class="post-list compact">
+    {%- assign urls = picked | split: "|" -%}
+    {%- for u in urls -%}
+      {%- assign post = site.posts | where: "url", u | first %}
+    <li><span class="post-date">{{ post.date | date: '%-d %b %Y' }}</span> <a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+    {%- endfor %}
+  </ul>
+</aside>
+{%- endif %}

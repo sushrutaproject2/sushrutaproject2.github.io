@@ -1,0 +1,56 @@
+{%- comment -%}
+  Top of every page: the thin strip linking the Suśruta Project websites
+  (from _data/navigation.yml), then this site's own menu. A page appears in
+  the menu when its front matter has "nav: true"; "nav_order" sets the order;
+  "dropdown: true" with a "children:" list makes a drop-down menu.
+{%- endcomment -%}
+{%- assign site_root = site.url | append: '/' -%}
+<header class="site-header">
+  <div class="umbrella">
+    <nav class="wrap umbrella-inner" aria-label="Suśruta Project websites">
+      <a class="umbrella-home" href="{{ site.data.navigation[0].url }}"><span lang="sa">सुश्रुत</span> The Suśruta Project</a>
+      <ul>
+        {%- for item in site.data.navigation -%}{%- if item.umbrella %}
+        <li><a href="{{ item.url }}"{% if item.url == site_root %} aria-current="true"{% endif %}>{{ item.title }}</a></li>
+        {%- endif -%}{%- endfor %}
+      </ul>
+    </nav>
+  </div>
+  <nav class="nav wrap" aria-label="{{ site.project_label }}">
+    <a class="brand" href="{{ '/' | relative_url }}">
+      <span class="brand-mark" lang="sa" aria-hidden="true">सु</span>
+      <span class="brand-text">
+        <span class="brand-name">{{ site.project_label }}</span>
+        <span class="brand-dates">{{ site.project_dates }}</span>
+      </span>
+    </a>
+    <ul class="nav-links">
+      <li><a href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>Home</a></li>
+      {%- assign menu_pages = site.pages | where: "nav", true | sort: "nav_order" -%}
+      {%- for p in menu_pages -%}
+        {%- if p.dropdown -%}
+          {%- assign open_here = false -%}
+          {%- for child in p.children -%}{%- if child.permalink == page.url -%}{%- assign open_here = true -%}{%- endif -%}{%- endfor %}
+      <li class="dropdown">
+        <details>
+          <summary{% if open_here or page.url == p.url %} class="current"{% endif %}>{{ p.title }}</summary>
+          <ul class="dropdown-menu">
+            {%- for child in p.children %}
+            {%- if child.permalink contains '://' -%}{%- assign child_url = child.permalink -%}{%- else -%}{%- assign child_url = child.permalink | relative_url -%}{%- endif %}
+            <li><a href="{{ child_url }}"{% if child.permalink == page.url %} aria-current="page"{% endif %}>{{ child.title }}</a></li>
+            {%- endfor %}
+          </ul>
+        </details>
+      </li>
+        {%- else -%}
+          {%- assign here = false -%}
+          {%- if page.url == p.url -%}{%- assign here = true -%}{%- endif -%}
+          {%- if p.url == '/blog/' and page.url contains '/blog/' -%}{%- assign here = true -%}{%- endif -%}
+          {%- if p.url == '/projects/' and page.collection == 'projects' -%}{%- assign here = true -%}{%- endif %}
+      <li><a href="{{ p.url | relative_url }}"{% if here %} aria-current="page"{% endif %}>{{ p.title }}</a></li>
+        {%- endif -%}
+      {%- endfor %}
+      <li><a href="{{ '/search/' | relative_url }}"{% if page.url == '/search/' %} aria-current="page"{% endif %}>Search</a></li>
+    </ul>
+  </nav>
+</header>

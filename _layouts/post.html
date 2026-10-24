@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<section class="page-hero">
+  <div class="wrap article-wrap">
+    <p class="kicker"><a href="{{ '/blog/' | relative_url }}">Blog</a> · <a href="{{ page.date | date: '/blog/%Y/' | relative_url }}">{{ page.date | date: '%Y' }}</a></p>
+    <h1>{{ page.title | escape }}</h1>
+    <p class="post-meta">{{ page.date | date: '%-d %B %Y' }}{% if page.author %} · {{ page.author }}{% endif %}</p>
+    {%- if page.tags.size > 0 %}
+    <ul class="tag-list">
+      {%- for tag in page.tags %}
+      <li><a href="{{ tag | slugify | prepend: '/blog/tag/' | append: '/' | relative_url }}">{{ tag }}</a></li>
+      {%- endfor %}
+    </ul>
+    {%- endif %}
+  </div>
+</section>
+<article class="wrap article-wrap">
+  <div class="sheet prose" data-pagefind-body>
+    {{ content }}
+  </div>
+  {%- unless page.related_posts == false %}
+  {% include related.html %}
+  {%- endunless %}
+</article>

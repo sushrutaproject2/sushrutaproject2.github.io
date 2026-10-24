@@ -1,0 +1,19 @@
+{%- comment -%}
+  A list of posts, grouped by year. Pass posts=... (defaults to all posts).
+{%- endcomment -%}
+{%- assign list = include.posts | default: site.posts -%}
+{%- assign by_year = list | group_by_exp: "p", "p.date | date: '%Y'" -%}
+{%- for year in by_year %}
+<h2 class="year-heading"><a href="{{ year.name | prepend: '/blog/' | append: '/' | relative_url }}">{{ year.name }}</a></h2>
+<ul class="post-list">
+  {%- for post in year.items %}
+  <li>
+    <span class="post-date">{{ post.date | date: '%-d %b' }}</span>
+    <div>
+      <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      {%- if post.description %}<p class="post-desc">{{ post.description }}</p>{% endif %}
+    </div>
+  </li>
+  {%- endfor %}
+</ul>
+{%- endfor %}

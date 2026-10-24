@@ -1,0 +1,16 @@
+<footer class="site-footer">
+  <div class="wrap footer-grid">
+    <div>
+      <p class="footer-label">Cite this website</p>
+      <p>Dominik Wujastyk et al., 2025. “{{ site.title }}: {{ site.subtitle }}.”
+        <a href="https://doi.org/{{ site.site_doi }}">doi:{{ site.site_doi }}</a></p>
+    </div>
+    <div>
+      <p class="footer-label">About this site</p>
+      <p>© {{ 'now' | date: '%Y' }} Dominik Wujastyk. {{ site.funding_note }}
+        Published with <a href="https://pages.github.com">GitHub Pages</a>.
+        <a href="{{ '/feed.xml' | relative_url }}">RSS feed</a>.
+        Last updated {{ site.time | date: '%-d %B %Y' }}.</p>
+    </div>
+  </div>
+</footer>

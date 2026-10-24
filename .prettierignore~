@@ -1,7 +1,0 @@
-# Ignore artifacts:
-build
-coverage
-*.min.js
-assets/js/search/
-lighthouse_results/
-assets/plotly/

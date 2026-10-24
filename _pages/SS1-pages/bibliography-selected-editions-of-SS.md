@@ -1,6 +1,6 @@
 ---
 title: Selected editions of the Suśrutasaṃhitā
-date: "2020-11-086T10:16:59-06:00"
+date: "2020-11-08T10:16:59-06:00"
 author: "Dominik Wujastyk"
 layout: page
 ---

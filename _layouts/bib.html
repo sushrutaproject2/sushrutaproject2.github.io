@@ -1,0 +1,23 @@
+---
+---
+{%- comment -%}
+  How jekyll-scholar shows one bibliography entry: the formatted reference
+  (style set in _config.yml), then links and fold-out Abstract / BibTeX boxes.
+{%- endcomment -%}
+<div class="bib-entry">
+  <div class="bib-ref">{{ reference }}</div>
+  <div class="bib-links">
+    {%- if entry.doi %}<a href="https://doi.org/{{ entry.doi }}">DOI</a>{% endif -%}
+    {%- if entry.url and entry.doi == nil %}<a href="{{ entry.url }}">URL</a>{% endif -%}
+    {%- if entry.pdf -%}
+      {%- if entry.pdf contains '://' -%}{%- assign pdf_url = entry.pdf -%}{%- else -%}{%- assign pdf_url = entry.pdf | prepend: '/assets/pdf/' | relative_url -%}{%- endif -%}
+      <a href="{{ pdf_url }}">PDF</a>
+    {%- endif -%}
+    {%- if entry.abstract %}
+    <details><summary>Abstract</summary><p>{{ entry.abstract }}</p></details>
+    {%- endif -%}
+    {%- unless entry.bibtex_show == "false" %}
+    <details><summary>BibTeX</summary><pre>{{ entry.bibtex | hideCustomBibtex | xml_escape }}</pre></details>
+    {%- endunless %}
+  </div>
+</div>

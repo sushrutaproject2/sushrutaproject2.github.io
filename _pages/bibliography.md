@@ -4,16 +4,11 @@ permalink: /bibliography/
 title: website bibliography
 description: All citations mentioned on this website
 nav: false
-nav_order: 2
 ---
 
-<!-- _pages/bibliography.md -->
+<p><input type="search" id="bib-filter" class="bib-filter" placeholder="Filter by author, title, year…" aria-label="Filter the bibliography"></p>
 
-<!-- Bibsearch Feature -->
-
-{% include bib_search.liquid %}
-
-<div class="publications">
+<div class="publications" id="bib-list">
 
 {% bibliography %}
 
