@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Manuscripts by the Jal Mahal: a first visit to the Sanjay Sharma Museum, Jaipur"
-date: 2026-10-12
-author: Dominik Wujastyk and Jason Birch
+title: A Visit to the Sanjay Sharma Museum, Jaipur
+date: 2026-10-25
+author: Dominik Wujastyk
 categories: [manuscripts, fieldwork]
-tags: [Jaipur, Suśrutasaṃhitā, rasaśāstra, āyurveda, museums, Rajasthan]
-excerpt: "On 11 October 2026 we paid our first visit to the Shree Sanjay Sharma Museum and Research Institute in Jaipur, in search of manuscripts of the Suśrutasaṃhitā and illustrated works on Indian alchemy."
+tags: [Jaipur, Suśrutasaṃhitā, rasaśāstra, āyurveda, Rajasthan, Sanjay-Sharma-Museum]
+excerpt: "On 11 October 2026 we visited the Shree Sanjay Sharma Museum and Research Institute in Jaipur, in search of manuscripts of the Suśrutasaṃhitā and illustrated works on Indian alchemy."
 ---
 
 <!-- NOTE: Local images (art1, art7, art10) come from the museum's website and
