@@ -18,6 +18,6 @@ children:
     permalink: https://wujastyk.github.io/SARIT-corpus/
   - title: TEI Scholar for editing XML Suśruta Project files
     permalink: https://sushrutaproject.github.io/TEI-scholar-Codium-plugin/
-  - title: Sūcī: A bibliography manager with Indic characteristics
+  - title: "Sūcī: A bibliography manager with Indic characteristics"
     permalink: https://wujastyk.github.io/suci/
 ---
