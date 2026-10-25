@@ -19,11 +19,11 @@ excerpt: "On 11 October 2026 we visited the Shree Sanjay Sharma Museum and Resea
 
 On Sunday, 11 October 2026, the two of us — Dominik Wujastyk and Jason Birch — made our first visit to the **Shree Sanjay Sharma Museum and Research Institute** in Jaipur. The museum stands on the Amer Road at Gujarghati, Parasrampuri, looking across the lake to the Jal Mahal. We came with two questions in mind: what manuscripts of the *Suśrutasaṃhitā* does the collection hold, and are there illustrated manuscripts on alchemy (*rasaśāstra*)?
 
-We were warmly received by **Chaitanya Sharma**, grandson of the museum's founder, Ram Kṛpālu Sharma, who took us through the galleries.
+We were warmly received by **Chaitanya Sharma**, grandson of the museum's founder, **Ram Kṛpālu Sharma**, who took us through the galleries.  Chaitanya's  father, **Shri Tilak Sharma**, the Director of the Museum, joined us later and the following day. 
 
 ## A collection that began with four manuscripts
 
-The museum's origins are literary. In the 1950s Ram Kṛpālu Sharma, who began his career as a schoolteacher, struggled to get his own writings published: a book of prose and verse, *Prāñjali*, appeared only after great difficulty, and a second, *Vāṅmayī*, never saw print for lack of funds. That experience led him, from 1955, to start collecting and preserving manuscripts — beginning with just four. The collection was first known as the Sharma Grantha Saṅgrahālaya. After the untimely death of his younger son, Sanjay Sharma, in 1982, it took its present name. With his wife Padmavati Sharma and the wider family, the founder went on to build the museum and library collections, and the institution remains a private, family-run foundation.
+The museum's origins are literary. In the 1950s Ram Kṛpālu Sharma, who began his career as a schoolteacher, struggled to get his own writings published: a book of prose and verse, *Prāñjali*, appeared only after great difficulty, and a second, *Vāṅmayī*, never saw print for lack of funds. That experience led him, from 1955, to start collecting and preserving manuscripts — beginning with just four. The collection was first known as the Sharma Grantha Saṅgrahālaya. After the untimely death of his younger son, and Tilak's brother, Sanjay Sharma, in 1982, it took its present name. With his wife Padmavati Sharma and the wider family, the founder went on to build the museum and library collections, and the institution remains a private, family-run foundation.
 
 The family now describes the collection as numbering around a hundred thousand manuscripts, together with artefacts that illustrate their subjects. According to the [Museums of India](https://shop.museumsofindia.org/node/403) listing, the holdings span more than 200 subjects in some 16 languages and scripts — among them Brāhmī, Śāradā, Tibetan, Arabic, Persian, Tirhutā, Bengali, Telugu, Gujarati, Oriya, Gurmukhi and Devanāgarī — on palm leaf, birch bark and paper. Subject areas named include Vedic literature, *jyotiṣa*, *tantra*, *dhanurveda*, āyurveda and medicine, and "alchemy and chemistry".
 
@@ -87,4 +87,4 @@ The museum is open daily from 9:00 am to 5:30 pm; allow one to two hours. Photog
 - [Museum Info — Sanjay Museum](https://www.sanjaymuseum.com/museum-info/)
 
 
-{% bibliography --cited %}
+{% bibliography --cited %}	
