@@ -98,5 +98,5 @@ The museum is open daily from 9:00 am to 5:30 pm; allow one to two hours. Photog
 ## References
 
 <div class="post-bibliography">
-{% bibliography --cited --group_by none --template bib-post %}
+{% bibliography --cited --group_by none %}
 </div>	
