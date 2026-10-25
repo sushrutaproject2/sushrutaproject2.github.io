@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sushrutaproject2.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sushrutaproject2.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2026-10-25T23:16:45+00:00</updated><id>https://sushrutaproject2.github.io/feed.xml</id><title type="html">The Compendium of Suśruta in Time and Space</title><subtitle>A project on the history of medicine at the University of Alberta, studying the evolution of the Compendium of Suśruta between the ninth and nineteenth centuries.</subtitle><author><name>Dominik Wujastyk</name></author><entry><title type="html">A Visit to the Sanjay Sharma Museum, Jaipur</title><link href="https://sushrutaproject2.github.io/blog/2026/sanjay-sharma-museum-jaipur/" rel="alternate" type="text/html" title="A Visit to the Sanjay Sharma Museum, Jaipur" /><published>2026-10-25T00:00:00+00:00</published><updated>2026-10-25T00:00:00+00:00</updated><id>https://sushrutaproject2.github.io/blog/2026/sanjay-sharma-museum-jaipur</id><content type="html" xml:base="https://sushrutaproject2.github.io/blog/2026/sanjay-sharma-museum-jaipur/"><![CDATA[<p><img src="https://shop.museumsofindia.org/sites/default/files/2017-10/Front%20elivation%20of%20museum%20%20%20jalmahal.jpg" alt="Façade of the Shree Sanjay Sharma Museum and Research Institute, opposite the Jal Mahal on the Amer Road" />
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sushrutaproject2.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sushrutaproject2.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2026-10-25T23:20:31+00:00</updated><id>https://sushrutaproject2.github.io/feed.xml</id><title type="html">The Compendium of Suśruta in Time and Space</title><subtitle>A project on the history of medicine at the University of Alberta, studying the evolution of the Compendium of Suśruta between the ninth and nineteenth centuries.</subtitle><author><name>Dominik Wujastyk</name></author><entry><title type="html">A Visit to the Sanjay Sharma Museum, Jaipur</title><link href="https://sushrutaproject2.github.io/blog/2026/sanjay-sharma-museum-jaipur/" rel="alternate" type="text/html" title="A Visit to the Sanjay Sharma Museum, Jaipur" /><published>2026-10-25T00:00:00+00:00</published><updated>2026-10-25T00:00:00+00:00</updated><id>https://sushrutaproject2.github.io/blog/2026/sanjay-sharma-museum-jaipur</id><content type="html" xml:base="https://sushrutaproject2.github.io/blog/2026/sanjay-sharma-museum-jaipur/"><![CDATA[<p><img src="https://shop.museumsofindia.org/sites/default/files/2017-10/Front%20elivation%20of%20museum%20%20%20jalmahal.jpg" alt="Façade of the Shree Sanjay Sharma Museum and Research Institute, opposite the Jal Mahal on the Amer Road" />
 <em>The museum building on the Amer Road, opposite the Jal Mahal. (Image: Museums of India.)</em></p>
 
 <p>On Sunday, 11 October 2026, the two of us — Dominik Wujastyk and Jason Birch — made our first visit to the <strong>Shree Sanjay Sharma Museum and Research Institute</strong> in Jaipur. The museum stands on the Amer Road at Gujarghati, Parasrampuri, looking across the lake to the Jal Mahal. We came with two questions in mind: what manuscripts of the <em>Suśrutasaṃhitā</em> does the collection hold, and are there illustrated manuscripts on alchemy (<em>rasaśāstra</em>)?</p>
@@ -82,9 +82,42 @@
 <h2 id="references">References</h2>
 
 <div class="post-bibliography">
-<ol class="bibliography"><li><span id="wujad-2025">Wujastyk, D. (Ed.). (2025). <i>Indian Alchemy: Sources and Contexts</i>. Oxford University Press. https://doi.org/10/hcpvqp</span>
+<ol class="bibliography"><li><div class="bib-entry">
+  <div class="bib-ref"><span id="wujad-2025">Wujastyk, D. (Ed.). (2025). <i>Indian Alchemy: Sources and Contexts</i>. Oxford University Press. https://doi.org/10/hcpvqp</span></div>
+  <div class="bib-links"><a href="https://doi.org/10/hcpvqp">DOI</a>
+    <details><summary>BibTeX</summary><pre>@book{wujad-2025,
+  editor = {Wujastyk, Dagmar},
+  publisher = {Oxford University Press},
+  title = {Indian Alchemy: Sources and Contexts},
+  year = {2025},
+  address = {New York},
+  isbn = {9780197805800},
+  month = aug,
+  date = {2025},
+  doi = {10/hcpvqp}
+}
+</pre></details>
+  </div>
+</div>
 </li>
-<li><span id="wujad-2024">Wujastyk, D. (2024). The Forge and the Crucible. In P. A. Maas &amp; A. Cerulli (Eds.), <i>Suhṛdayasaṃhitā. A Compendium of Studies on South Asian Culture, Philosophy, and Religion. Dedicated to Dominik Wujastyk</i> (pp. 127–163). Heidelberg Asian Studies Publishing. https://doi.org/10/hcpvqn</span>
+<li><div class="bib-entry">
+  <div class="bib-ref"><span id="wujad-2024">Wujastyk, D. (2024). The Forge and the Crucible. In P. A. Maas &amp; A. Cerulli (Eds.), <i>Suhṛdayasaṃhitā. A Compendium of Studies on South Asian Culture, Philosophy, and Religion. Dedicated to Dominik Wujastyk</i> (pp. 127–163). Heidelberg Asian Studies Publishing. https://doi.org/10/hcpvqn</span></div>
+  <div class="bib-links"><a href="https://doi.org/10/hcpvqn">DOI</a>
+    <details><summary>BibTeX</summary><pre>@incollection{wujad-2024,
+  author = {Wujastyk, Dagmar},
+  booktitle = {Suhṛdayasaṃhitā. A Compendium of Studies on South Asian Culture, Philosophy, and Religion. Dedicated to Dominik Wujastyk},
+  publisher = {Heidelberg Asian Studies Publishing},
+  title = {The Forge and the Crucible},
+  year = {2024},
+  address = {Heidelberg},
+  chapter = {5},
+  editor = {Maas, Philipp A. and Cerulli, Anthony},
+  pages = {127--163},
+  doi = {10/hcpvqn}
+}
+</pre></details>
+  </div>
+</div>
 </li></ol>
 </div>]]></content><author><name>Dominik Wujastyk</name></author><category term="manuscripts" /><category term="fieldwork" /><category term="Jaipur" /><category term="Suśrutasaṃhitā" /><category term="rasaśāstra" /><category term="āyurveda" /><category term="Rajasthan" /><category term="Sanjay-Sharma-Museum" /><summary type="html"><![CDATA[On 11 October 2026 we visited the Shree Sanjay Sharma Museum and Research Institute in Jaipur, in search of manuscripts of the Suśrutasaṃhitā and illustrated works on Indian alchemy.]]></summary></entry><entry><title type="html">A Visit to the Āmer Śāstra Bhaṇḍār, Jaipur</title><link href="https://sushrutaproject2.github.io/blog/2026/visit-to-the-Amer-Sastra-Bhandar/" rel="alternate" type="text/html" title="A Visit to the Āmer Śāstra Bhaṇḍār, Jaipur" /><published>2026-10-12T03:30:00+00:00</published><updated>2026-10-12T03:30:00+00:00</updated><id>https://sushrutaproject2.github.io/blog/2026/visit-to-the-Amer-Sastra-Bhandar</id><content type="html" xml:base="https://sushrutaproject2.github.io/blog/2026/visit-to-the-Amer-Sastra-Bhandar/"><![CDATA[<p>On 12 October 2026, Jason Birch and I visited the Āmer Śāstra Bhaṇḍār in Jaipur, a Digambara Jain manuscript library. Our aim was to see a manuscript of the <em>Suśrutasaṃhitā</em> that had been recorded there in the mid-twentieth century.</p>
 
