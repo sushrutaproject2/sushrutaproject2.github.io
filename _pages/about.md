@@ -36,4 +36,4 @@ Funding for this project is generously provided by an Insight Grant from the Can
 
 ## Citation for this web page
 
-- Dominik Wujastyk et al., 2025. "The Compendium of Suśruta in Time and Space: Mapping a Medical Tradition," URL: [https://sushrutaproject2.github.io/](https://sushrutaproject2.github.io/) and [https://purl.archive.org/purl/sushrutaproject/project2](https://purl.archive.org/purl/sushrutaproject/project2). Archived at DOI [10.5281/zenodo.20737614](https://doi.org/10.5281/zenodo.20737614).
+- Dominik Wujastyk et al., 2025. "The Compendium of Suśruta in Time and Space: Mapping a Medical Tradition," URL: [https://sushrutaproject2.github.io/](https://sushrutaproject2.github.io/) and [https://purl.archive.org/purl/sushrutaproject/project2](https://purl.archive.org/purl/sushrutaproject/project2). Archived at DOI [10.5281/zenodo.23645475](https://doi.org/10.5281/zenodo.23645475).
