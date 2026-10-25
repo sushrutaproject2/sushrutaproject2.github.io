@@ -8,11 +8,6 @@ tags: [Jaipur, Suśrutasaṃhitā, rasaśāstra, āyurveda, Rajasthan, Sanjay-Sh
 excerpt: "On 11 October 2026 we visited the Shree Sanjay Sharma Museum and Research Institute in Jaipur, in search of manuscripts of the Suśrutasaṃhitā and illustrated works on Indian alchemy."
 ---
 
-<!-- NOTE: Local images (art1, art7, art10) come from the museum's website and
-     should be placed in /_img/. The remaining images are
-     hotlinked from the Museums of India listing (shop.museumsofindia.org/node/403);
-     download them into the same folder before publishing. Check permission to
-     reproduce. The museum does not allow visitor photography. -->
 
 ![Façade of the Shree Sanjay Sharma Museum and Research Institute, opposite the Jal Mahal on the Amer Road](https://shop.museumsofindia.org/sites/default/files/2017-10/Front%20elivation%20of%20museum%20%20%20jalmahal.jpg)
 *The museum building on the Amer Road, opposite the Jal Mahal. (Image: Museums of India.)*
@@ -27,33 +22,46 @@ The museum's origins are literary. In the 1950s Ram Kṛpālu Sharma, who began 
 
 The family now describes the collection as numbering around a hundred thousand manuscripts, together with artefacts that illustrate their subjects. According to the [Museums of India](https://shop.museumsofindia.org/node/403) listing, the holdings span more than 200 subjects in some 16 languages and scripts — among them Brāhmī, Śāradā, Tibetan, Arabic, Persian, Tirhutā, Bengali, Telugu, Gujarati, Oriya, Gurmukhi and Devanāgarī — on palm leaf, birch bark and paper. Subject areas named include Vedic literature, *jyotiṣa*, *tantra*, *dhanurveda*, āyurveda and medicine, and "alchemy and chemistry".
 
-![Glass-fronted cabinets of manuscripts in the museum library]({{ site.baseurl }}/_img/art1-1-300x240.jpg)
+![Glass-fronted cabinets of manuscripts in the museum library]({{ site.baseurl }}/assets/img/art1-1-300x240.jpg)
 *Manuscript cabinets in the library. (Image: Sanjay Sharma Museum.)*
 
 ## The galleries
 
-![A gallery hung with paintings, with porcelain and a silver swing in a central display case]({{ site.baseurl }}/_img/art7-1.jpg)
+![A gallery hung with paintings, with porcelain and a silver swing in a central display case]({{ site.baseurl }}/assets/img/art7-1.jpg)
 *One of the painting galleries, with porcelain and a silver swing (hiṇḍolā) in the central case. (Image: Sanjay Sharma Museum.)*
 
 We were stunned by the extent and quality of the manuscripts, paintings and artifacts on display in the museum's numerous spacious and marble-tiled galleries.  Any visitor to Jaipur with an interest in Indian history and culture must not leave without a visit to this extraordinary collection.  
 
 The museum is laid out in several galleries: glass painting and porcelain; miniature painting (fifteenth to nineteenth centuries, from Jaipur, Kishangarh, Kota, Bundi, Bikaner, Nathdwara and elsewhere); textiles and costumes, largely from the Jaipur court; cloth paintings and *picchvāī*s; an art gallery; illustrated manuscripts; and the manuscript library itself.
 
-![A long pillared gallery lined with large framed cloth paintings]({{ site.baseurl }}/_img/art10-1-300x240.jpg)
+![A long pillared gallery lined with large framed cloth paintings]({{ site.baseurl }}/assets/img/art10-1-300x240.jpg)
 *The long gallery of large cloth paintings. (Image: Sanjay Sharma Museum.)*
 
 ![A Devanāgarī manuscript page, Jaipur, dated 1588 CE](https://shop.museumsofindia.org/sites/default/files/2017-11/08_1.JPG)
 *A Devanāgarī manuscript from Jaipur, dated 1588 CE. (Image: Museums of India.)*
 
-Among the illustrated material is a late nineteenth-century cosmological painting from Jaipur depicting the fourteen worlds (*caturdaśabhuvana*), from a series catalogued as the *Viśvavijñāna-citrāvalī* (1895):
+Among the illustrated material is a late nineteenth-century cosmological painting from Jaipur depicting the fourteen worlds (*caturdaśabhuvana*), from a series catalogued as the *Viśvavijñāna-citrāvalī* (1895). The *tantra* holdings include *yantra*s such as an eighteenth-century Śani-yantra from Marwar.
 
-![Painting of the fourteen worlds from the Viśvavijñāna-citrāvalī, Jaipur, 1895](https://shop.museumsofindia.org/sites/default/files/2017-11/07_1.JPG)
-*The fourteen worlds (caturdaśabhuvana), Jaipur, 1895. (Image: Museums of India.)*
-
-The *tantra* holdings include *yantra*s such as this eighteenth-century Śani-yantra from Marwar:
-
-![Śani-yantra, Marwar, 18th century](https://shop.museumsofindia.org/sites/default/files/2017-11/09_1.JPG)
-*Śani-yantra, Marwar, 18th century. (Image: Museums of India.)*
+<div class="row justify-content-center">
+  <div style="flex: 0 0 auto; width: 45%; max-width: 230px;">
+    {% include figure.liquid
+       path="https://shop.museumsofindia.org/sites/default/files/2017-11/07_1.JPG"
+       alt="Painting of the fourteen worlds from the Viśvavijñāna-citrāvalī, Jaipur, 1895"
+       caption="The fourteen worlds (<em>caturdaśabhuvana</em>), Jaipur, 1895. (Image: Museums of India.)"
+       class="img-fluid rounded z-depth-1"
+       zoomable=true
+    %}
+  </div>
+  <div style="flex: 0 0 auto; width: 45%; max-width: 230px;">
+    {% include figure.liquid
+       path="https://shop.museumsofindia.org/sites/default/files/2017-11/09_1.JPG"
+       alt="Śani-yantra, Marwar, 18th century"
+       caption="Śani-yantra, Marwar, 18th century. (Image: Museums of India.)"
+       class="img-fluid rounded z-depth-1"
+       zoomable=true
+    %}
+  </div>
+</div>
 
 In the Museum, photography is strictly prohibited, so we are unfortunately unable to illustrate any of the following remarks.
 
@@ -75,7 +83,7 @@ This was not my first visit to the Museum. In 2011, while working on the Vienna 
 
 Director Tilak Sharma said that there was no handlist of the 125,000 manuscripts in the collection, so it is difficult to know whether there are more copies of the *Suśrutasaṃhitā*, *Rasaratnākara*, or other interesting works in the collection.   As in 2011, it seems very likely that the library holds a substantial body of Āyurvedic manuscripts, including copies of the *Carakasaṃhitā* and other classic works.
 
-The Museum is negotiating with [Gyan Bharatam](https://gyanbharatam.gov.in/), and it is to be hoped that a mutually beneficial MOI can be signed in future that will help the library collection become accessible to research scholars. 
+The Museum is negotiating with [Gyan Bharatam](https://gyanbharatam.gov.in/), and it is to be hoped that a mutually beneficial MOU can be signed in future that will help the library collection become accessible to research scholars. 
 
 ## Visiting
 
@@ -87,4 +95,8 @@ The museum is open daily from 9:00 am to 5:30 pm; allow one to two hours. Photog
 - [Museum Info — Sanjay Museum](https://www.sanjaymuseum.com/museum-info/)
 
 
-{% bibliography --cited %}	
+## References
+
+<div class="post-bibliography">
+{% bibliography --cited --group_by none --template bib-post %}
+</div>	
