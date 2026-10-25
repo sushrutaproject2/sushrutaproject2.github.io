@@ -69,7 +69,7 @@ In the Museum, photography is strictly prohibited, so we are unfortunately unabl
 
 ### The *Suśrutasaṃhitā*
 
-As the [Suśruta Project website](https://sushrutaproject2.github.io) explains, our project is focussed on the textual and doctrinal differences between *The Compendium* as it existed in the earliest manuscript of 878 CE and the later “vulgate” version that was edited and reshaped by medieval commentators over the centuries.  Manuscripts matter to the project, helping us to understand the history of this foundational work of medicine.  We are trying to include as many manuscripts as possible in our research. 
+As the [Suśruta Project website](https://sushrutaproject2.github.io) explains, our project is focused on the textual and doctrinal differences between *The Compendium* as it existed in the earliest manuscript of 878 CE and the later “vulgate” version that was edited and reshaped by medieval commentators over the centuries.  Manuscripts matter to the project, helping us to understand the history of this foundational work of medicine.  We are trying to include as many manuscripts as possible in our research. 
 
 During our visit on 11 and 12 October, we saw a *Suśrutasaṃhitā* manuscript on display, but unfortunately we were not permitted to examine it.  It is numbered [MS Jaipur Sanjay Sharma Museum RN4MSS 4720](https://panditproject.org/node/117021).  The single leaf on display had text that appeared to be a commentary on the main work, in a section about the Ayurvedic concept of "appropriateness" (Skt. *sātmya*).  One passage cited the author Caraka.  On the second day of our visit, Shri Tilak Sharma, the Museum's Director, shared with us a photocopy of the last two folios of the manuscript. They showed it to be the ending of the last chapter of the Uttaratantra, with the final "Candraṭa"  verse that we have discussed in [another blog](https://sushrutaproject2.github.io/blog/2026/candrata/).   We hope the Museum will see a way to share a digital image of the whole MS with us in due course.
 
@@ -83,7 +83,7 @@ This was not my first visit to the Museum. In 2011, while working on the Vienna 
 
 Director Tilak Sharma said that there was no handlist of the 125,000 manuscripts in the collection, so it is difficult to know whether there are more copies of the *Suśrutasaṃhitā*, *Rasaratnākara*, or other interesting works in the collection.   As in 2011, it seems very likely that the library holds a substantial body of Āyurvedic manuscripts, including copies of the *Carakasaṃhitā* and other classic works.
 
-The Museum is negotiating with [Gyan Bharatam](https://gyanbharatam.gov.in/), and it is to be hoped that a mutually beneficial MOU can be signed in future that will help the library collection become accessible to research scholars. 
+The Museum is negotiating with [Gyan Bharatam](https://gyanbharatam.gov.in/), and it is to be hoped that a mutually beneficial MOU can be signed in the future that will help the library collection become accessible to research scholars. 
 
 ## Visiting
 
@@ -100,3 +100,4 @@ The museum is open daily from 9:00 am to 5:30 pm; allow one to two hours. Photog
 <div class="post-bibliography">
 {% bibliography --cited --group_by none %}
 </div>	
+
