@@ -7,7 +7,7 @@ description: Jason Birch visited the manuscript collection of the ayurvedic doct
 tags: Kathmandu Suśrutasaṃhitā Carakasaṃhitā Ayurveda manuscripts
 ---
 
-Madhu Bajra Bajracharya is an ayurvedic doctor who was trained by his father, the late Mana Bajra Bajracharya. They descend from a famous lineage of Buddhist priests, as Mana recounts in his autobiography:
+Madhu Bajra Bajracharya is an ayurvedic doctor who was trained by his father, the late Mana Bajra Bajracharya (d. 2001). They descend from a famous lineage of Buddhist priests, as Mana recounts in his autobiography:
 
 <div class="row align-items-start">
   <div class="col-sm-4 mt-3 mt-md-0">
@@ -51,7 +51,7 @@ I had the opportunity to talk to Madhu Bajra Bajracharya about the future of the
 
 Although the manuscript collection has little practical value for him, Madhu Bajra Bajracharya recognises its importance for preserving the history and heritage of Nepal, and he would like the collection to be properly housed and cared for after his passing. To this end we discussed digitisation initiatives, such as the British Library’s [Endangered Archives Programme](https://eap.bl.uk/). Digitisation may help to safeguard the contents, but one would hope that the manuscripts themselves eventually end up in the care of a professional library that can preserve them for future generations.
 
-The handlist does not mention a manuscript of the *Suśrutasaṃhitā*, but Madhu Bajra Bajracharya believes there is one in his collection. We therefore hope to return next year, with more time up our sleeve, to unpack the cabinets and search the collection more thoroughly.
+The handlist does not mention a manuscript of the *Suśrutasaṃhitā*, but Madhu Bajra Bajracharya believes there is one in his collection. We therefore hope to return next year, with more time in hand, to unpack the cabinets and search the collection more thoroughly.
 
 ## Web sources
 
