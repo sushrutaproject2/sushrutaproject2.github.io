@@ -13,9 +13,9 @@ Madhu Bajra Bajracharya is an ayurvedic doctor who was trained by his father, th
   <div class="col-sm-4 mt-3 mt-md-0">
       {% include figure.liquid
          loading="eager"
-         path="assets/img/2026-10-kathmandu-madhu-bajra-bajracharya.jpg"
-         alt="Portrait of Madhu Bajra Bajracharya wearing a patterned Nepali dhaka topi and a grey tweed jacket"
-         caption="Madhu Bajra Bajracharya."
+         path="assets/img/2026-10-kathmandu-mana-bajra-bajracharya.jpg"
+         alt="Portrait of Vaidya Mana Bajra Bajracharya in spectacles and a pale shirt, against a background of foliage"
+         caption="Vaidya Mana Bajra Bajracharya. (Image: <a href='https://www.ayurvedainnepal.com/introduction/mana-bajra-bajracharya/'>Ayurveda in Nepal</a>.)"
          class="img-fluid rounded z-depth-1"
          zoomable=true
       %}
@@ -45,7 +45,19 @@ Fortunately, during my visit Madhu Bajra Bajracharya managed to find a palm-leaf
 
 ## Texts and experience
 
+<div style="float: right; width: 22%; min-width: 130px; margin: 0.3rem 0 1rem 1.5rem;">
+  {% include figure.liquid
+     path="assets/img/2026-10-kathmandu-madhu-bajra-bajracharya.jpg"
+     alt="Portrait of Dr Madhu Bajra Bajracharya wearing a patterned Nepali dhaka topi and a grey tweed jacket"
+     caption="Dr Madhu Bajra Bajracharya."
+     class="img-fluid rounded z-depth-1"
+     zoomable=true
+  %}
+</div>
+
 I had the opportunity to talk to Madhu Bajra Bajracharya about the future of the collection. He feels that his children are not particularly interested in it, and he himself no longer needs it, now that he has fifty years of experience as an ayurvedic doctor. He told me that texts are useful for those learning Ayurveda because they provide general information, but that the most valuable knowledge comes from practising Ayurveda, through which one learns how to diagnose and treat people according to their peculiarities. Doctors, he said, need to treat people rather than illnesses; experience provides knowledge of both, whereas texts are limited to the latter. His father tried to address this issue by recording notes in diaries about specific cases. Madhu Bajra Bajracharya showed me these diaries, which are written in Nepāl Bhāṣā, and said they are the only books on Ayurveda that he now consults.
+
+<div style="clear: both;"></div>
 
 ## The future of the collection
 
