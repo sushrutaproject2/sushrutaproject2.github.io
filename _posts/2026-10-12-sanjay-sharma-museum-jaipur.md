@@ -8,11 +8,10 @@ tags: [Jaipur, Suśrutasaṃhitā, rasaśāstra, āyurveda, Rajasthan, Sanjay-Sh
 excerpt: "On 11 October 2026 we visited the Shree Sanjay Sharma Museum and Research Institute in Jaipur, in search of manuscripts of the Suśrutasaṃhitā and illustrated works on Indian alchemy."
 ---
 
-
-![Façade of the Shree Sanjay Sharma Museum and Research Institute, opposite the Jal Mahal on the Amer Road](https://shop.museumsofindia.org/sites/default/files/2017-10/Front%20elivation%20of%20museum%20%20%20jalmahal.jpg)
-*The museum building on the Amer Road, opposite the Jal Mahal. (Image: Museums of India.)*
-
 On Sunday, 11 October 2026, the two of us — Dominik Wujastyk and Jason Birch — made our first visit to the **Shree Sanjay Sharma Museum and Research Institute** in Jaipur. The museum stands on the Amer Road at Gujarghati, Parasrampuri, looking across the lake to the Jal Mahal. We came with two questions in mind: what manuscripts of the *Suśrutasaṃhitā* does the collection hold, and are there illustrated manuscripts on alchemy (*rasaśāstra*)?
+
+![The museum building on the Amer Road. ]({{ site.baseurl }}/assets/img/Dominik and Jason in front of the Sanjay Sharma Museum.jpg)
+*The museum building on the Amer Road, opposite the Jal Mahal. (Image: Dominik Wujastyk and Jason Birch)*
 
 We were warmly received by **Chaitanya Sharma**, grandson of the museum's founder, **Ram Kṛpālu Sharma**, who took us through the galleries.  Chaitanya's  father, **Shri Tilak Sharma**, the Director of the Museum, joined us later and the following day. 
 
