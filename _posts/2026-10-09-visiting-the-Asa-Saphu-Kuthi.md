@@ -11,7 +11,7 @@ In early October 2026 I visited the Āśā Saphū Kuthi in Kathmandu to look for
 
 ## Finding the library
 
-It is impossible to see the library building from the main road (Cittadhar Mārg), which is lined with two-storey shopfronts. Between two of the shops, a doorway with a carved wooden architrave opens onto a corridor that leads to a courtyard behind them. High above the doorway, and hard to see from street level, a sign in a stylised typeface reads _Āśā Saphūkuthi_.
+It is impossible to see the library building from the main road (Cittadhar Mārg), which is lined with two-storey shopfronts. Between two of the shops, a doorway with a carved wooden architrave opens onto a corridor that leads to a courtyard behind them. High above the doorway, and hard to see from street level, a sign in a [Rañjanā](https://en.wikipedia.org/wiki/Ranjana_script#) script reads _Āśā Saphūkuthi_.
 
 As one emerges from the corridor, a three-storeyed library building in traditional Newar style towers above. Over the porch the name is set in gilt letters, in the Nepāl script, with "The Āśā Archives" in English beside it.
 
@@ -40,9 +40,9 @@ As one emerges from the corridor, a three-storeyed library building in tradition
 
 ## A library for Nepāl Bhāṣā
 
-The Āśā Saphū Kuthi (आशा सफू कुथि, "Āśā's book house"), also called the Āśā Archives, is a free public library devoted to Nepāl Bhāṣā (Newar) books and manuscripts. It stands beside the Raktakālī temple, within the Manka Dhuku premises.
+The Āśā Saphū Kuthi (आशा सफू कुथि, "Āśā's book house"), also called the Āśā Archives, is a free public library devoted to Nepāl Bhāṣā (Newar) books and manuscripts. It stands near the Raktakālī temple, within the Manka Dhuku premises.
 
-It is named after Āśā Mān Siṃh Kansakar (1916–1990), who founded the Nepāl Bhāṣā publisher Cwāsā Pāsā in 1950. He hoped to create a "literary temple" where people could read Newar books. After seeing manuscripts sold to foreigners in Basantapur, he resolved that Nepal should keep its own. His son, the politician Prem Bahadur Kansakar, carried the project forward.
+As Rhishav Sapkota described {% cite sapk-2021 -A %}, it is named after Āśā Mān Siṃh Kansakar (1916–1990), who founded the Nepāl Bhāṣā publisher Cwāsā Pāsā in 1950. He hoped to create a "literary temple" where people could read Newar books. After seeing manuscripts sold to foreigners in Basantapur, he resolved that Nepal should keep its own. His son, the politician Prem Bahadur Kansakar, carried the project forward.
 
 The core collection came from Prem Bahadur Kansakar and from the American scholar Ian Alsop, who gave almost 500 manuscripts to the elder Kansakar as _gurudakṣiṇā_. The present building was funded by the Toyota Foundation and inaugurated on 7 December 1987. A 16-member board of trustees governs the library, which runs on an endowment, fees and donations.
 
@@ -50,7 +50,7 @@ The core collection came from Prem Bahadur Kansakar and from the American schola
 
 The early collection holds over 7,000 manuscripts dating from the fifteenth to the nineteenth century. They are palm-leaf and paper *pothī*s, accordion books (Newar _thyāsaphū_), ritual handbooks and codices. The languages are Sanskrit, Nepāl Bhāṣā, Nepali, and mixtures of these. Subjects range across Hindu and Buddhist religion, poetics, astronomy, astrology and medicine. The upper floor also holds inscriptions, chronicles and about 1,200 palm-leaf land-grant documents.
 
-The assistant showed me the library's printed catalogue, _Āśā Saphūkuthiyā Saphū Dhalaḥ: A Short Catalogue of Āśā Archives_ (Āśā Saphūkuthi Pithanā 5), compiled by Rājā Śākya, then librarian, and published in N.S. 1120 (2000 CE). It is arranged by subject. Each entry gives a DPN number, title, script, language, date, completeness, size, number of folios and material. An earlier descriptive catalogue of the inscriptions and documents, by Janak Lal Vaidya and Prem Bahadur Kansakar, appeared in 1991.
+The assistant showed me the library's printed catalogue, _Āśā Saphūkuthiyā Saphū Dhalaḥ: A Short Catalogue of Āśā Archives_ (Āśā Saphūkuthi Pithanā 5), compiled by Rājā Śākya, then librarian, and published in N.S. 1120 (2000 CE). It is arranged by subject. Each entry gives a DPN5 number, title, script, language, date, completeness, size, number of folios and material. An earlier descriptive catalogue of the inscriptions and documents, by Janak Lal Vaidya and Prem Bahadur Kansakar, appeared in 1991 {% cite vaid-1991 -A %}.
 
 <div class="row justify-content-center">
   <div class="col-sm-4 mt-3 mt-md-0">
@@ -106,14 +106,13 @@ _Details from Rājā Śākya's_ Short Catalogue _(2000), pp. 182–190._
 
 The library opens at 11 am every day except Saturday. The front door is not locked but needs a good push; visitors who don't know this may end up waiting outside, as I did, until someone who does arrives. In the morning the library is staffed by an assistant, who showed me the catalogue. The librarian does not arrive until after 3 pm, so my visit was punctuated by a long lunch at a nearby restaurant.
 
-I got the impression that the whole manuscript collection has been digitised and is stored on hard drives in a locked cabinet. The librarian, who holds the key, did indeed arrive at 3 pm. She was very friendly and let me look at whatever manuscript scans I wanted. There is a fee of 100 NPR an hour to view the scans on the library's computer. Books can also be photocopied or printed.
+I got the impression that the whole manuscript collection has been digitised and is stored on hard drives in a locked cabinet. The librarian, who holds the key, did indeed arrive at 3 pm. She was very friendly and let me look at whatever manuscript scans I wanted. There is a fee of 100 NPR an hour to view the scans on the library's computer.  There is a photocopier; it is possible that digital images of manuscripts may be purchased, but I did not broach that topic. 
 
 For anyone working on Sanskrit or Newar medicine, the Āśā Saphū Kuthi repays the afternoon's wait.
 
-## Sources
+## Web sources
 
 - [Āśā Saphūkuthi (DPN)](https://hmml.org/collections/repositories/nepal/%C4%81%C5%9B%C4%81-saph%C5%ABkuthidpn/), Hill Museum & Manuscript Library
 - [Asa Safu Kuthi](https://en.wikipedia.org/wiki/Asa_Safu_Kuthi), Wikipedia
-- [The life and times of Asa Archives, a Nepal Bhasa library](https://www.nepallivetoday.com/2021/08/11/the-life-and-times-of-asa-archives-a-nepal-bhasa-library/), _Nepal Live Today_, 11 August 2021
-- Janak Lal Vaidya and Prem Bahadur Kansakar, [_Asha Saphookuthiya Abhilekh Granthaya Varnanatmak Dhalah_](http://archive.org/details/asha-saphookuthiya-abhilekh-granthaya-varnanatmak-dhalah-by-janak-lal-vaidya-and) (Kathmandu, 1991)
-- Rājā Śākya, _Āśā Saphūkuthiyā Saphū Dhalaḥ: A Short Catalogue of Āśā Archives_ (Kathmandu: Āśā Archives, N.S. 1120 / 2000)
+
+{% bibliography -cited --group_by none %}
