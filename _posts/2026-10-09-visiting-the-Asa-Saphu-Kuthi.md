@@ -111,12 +111,13 @@ The early collection holds over 7,000 manuscripts from the fifteenth to the nine
   </div>
 </div>
 
-The scans I saw are the fruit of several digitization projects: a first phase led by Shucho Takaoka in 1987; the University of Hamburg's _Preserving the Written Heritage of Nepal_ (2018–2022); and the [Hill Museum & Manuscript Library](https://hmml.org/collections/repositories/nepal/%C4%81%C5%9B%C4%81-saph%C5%ABkuthidpn/)'s digitization of 1,332 items from the "new collection" (2019–2024, DPN 07172–08121).
+The scans I saw are the fruit of several digitization projects: a first phase led by Shucho Takaoka in 1987; the University of Hamburg's _Preserving the Written Heritage of Nepal_ (2018–2022); and the [Hill Museum & Manuscript Library](https://hmml.org/collections/repositories/nepal/%C4%81%C5%9B%C4%81-saph%C5%ABkuthidpn/)'s digitization of 1,332 items from the "new collection" (2019–2024, DPN 07172–08121).  Many manuscript scans are now available through the [Āśā Archives page at Archive.org](https://archive.org/details/asa-archives?tab=collection).
 
 ## Web sources
 
 - [Āśā Saphūkuthi (DPN)](https://hmml.org/collections/repositories/nepal/%C4%81%C5%9B%C4%81-saph%C5%ABkuthidpn/), Hill Museum & Manuscript Library
 - [Asa Safu Kuthi](https://en.wikipedia.org/wiki/Asa_Safu_Kuthi), Wikipedia
+-  [Āśā Archives page at Archive.org](https://archive.org/details/asa-archives?tab=collection)
 
 ## References
 <div class="post-bibliography">
