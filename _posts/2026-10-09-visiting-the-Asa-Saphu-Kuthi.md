@@ -50,7 +50,7 @@ The core collection came from Prem Bahadur Kansakar and from the American schola
 
 The early collection holds over 7,000 manuscripts dating from the fifteenth to the nineteenth century. They are palm-leaf and paper *pothī*s, accordion books (Newar _thyāsaphū_), ritual handbooks and codices. The languages are Sanskrit, Nepāl Bhāṣā, Nepali, and mixtures of these. Subjects range across Hindu and Buddhist religion, poetics, astronomy, astrology and medicine. The upper floor also holds inscriptions, chronicles and about 1,200 palm-leaf land-grant documents.
 
-The assistant showed me the library's printed catalogue, _Āśā Saphūkuthiyā Saphū Dhalaḥ: A Short Catalogue of Āśā Archives_ (Āśā Saphūkuthi Pithanā 5), compiled by Rājā Śākya, then librarian, and published in N.S. 1120 (2000 CE) {% cite saky-2000 %}. It is arranged by subject. Each entry gives a DPN5 number, title, script, language, date, completeness, size, number of folios and material. An earlier descriptive catalogue of the inscriptions and documents, by Janak Lal Vaidya and Prem Bahadur Kansakar, appeared in 1991 {% cite vaid-1991 -A %}.
+The assistant showed me the library's printed catalogue, _Āśā Saphūkuthiyā Saphū Dhalaḥ: A Short Catalogue of Āśā Archives_ (Āśā Saphūkuthi Pithanā 5), compiled by Rājā Śākya, then librarian, and published in N.S. 1120 (2000 CE) {% cite saky-2000 %}. It is arranged by subject. Each entry gives a DPN5 number, title, script, language, date, completeness, size, number of folios and material. An earlier descriptive catalogue of the inscriptions and documents, by Janak Lal Vaidya and Prem Bahadur Kansakar, appeared in 1991 {% cite vaid-1991 %}.
 
 <div class="row justify-content-center">
   <div class="col-sm-4 mt-3 mt-md-0">
