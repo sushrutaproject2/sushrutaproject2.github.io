@@ -89,7 +89,7 @@ The Museum is negotiating with [Gyan Bharatam](https://gyanbharatam.gov.in/), an
 
 The museum is open daily from 9:00 am to 5:30 pm; allow one to two hours. Photography is not permitted inside. Contact details are on the [museum's website](https://www.sanjaymuseum.com/).
 
-## Sources
+## Online sources
 
 - [Shree Sanjay Sharma Museum & Research Institute — Museums of India](https://shop.museumsofindia.org/node/403)
 - [Museum Info — Sanjay Museum](https://www.sanjaymuseum.com/museum-info/)
@@ -100,4 +100,3 @@ The museum is open daily from 9:00 am to 5:30 pm; allow one to two hours. Photog
 <div class="post-bibliography">
 {% bibliography --cited --group_by none %}
 </div>	
-
