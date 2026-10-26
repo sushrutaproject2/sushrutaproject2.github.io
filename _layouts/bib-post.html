@@ -3,6 +3,16 @@
 {%- comment -%}
   Compact bibliography entry for the end of a blog post: the formatted reference only
   (style set in _config.yml), without the DOI/BibTeX boxes of the main bibliography page.
+  An ARK identifier (eprinttype or archiveprefix = ark) is added as a link via n2t.net.
   Use in a post with:  {% bibliography --cited --group_by none --template bib-post %}
 {%- endcomment -%}
-<div class="bib-ref">{{ reference }}</div>
+{%- assign ep = entry.eprint | strip -%}
+{%- assign eptype = entry.eprinttype | default: entry.archiveprefix | downcase | strip -%}
+{%- assign ark_url = "" -%}
+{%- if ep contains '://' -%}
+  {%- assign ark_url = ep -%}
+{%- elsif ep != "" and eptype == 'ark' or ep contains 'ark:' -%}
+  {%- unless ep contains 'ark:' %}{% assign ep = ep | prepend: 'ark:/' %}{% endunless -%}
+  {%- assign ark_url = ep | prepend: 'https://n2t.net/' -%}
+{%- endif -%}
+<div class="bib-ref">{{ reference }}{% if ark_url != "" %} <a href="{{ ark_url }}">{{ ark_url }}</a>{% endif %}</div>

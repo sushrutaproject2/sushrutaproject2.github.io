@@ -9,6 +9,17 @@
   <div class="bib-links">
     {%- if entry.doi %}<a href="https://doi.org/{{ entry.doi }}">DOI</a>{% endif -%}
     {%- if entry.url and entry.doi == nil %}<a href="{{ entry.url }}">URL</a>{% endif -%}
+    {%- comment -%} ARK identifiers (eprinttype or archiveprefix = ark), linked through the n2t.net resolver {%- endcomment -%}
+    {%- assign ep = entry.eprint | strip -%}
+    {%- assign eptype = entry.eprinttype | default: entry.archiveprefix | downcase | strip -%}
+    {%- if ep != "" and ep != nil -%}
+      {%- if ep contains '://' -%}
+        <a href="{{ ep }}">{% if ep contains 'ark:' %}ARK{% else %}Link{% endif %}</a>
+      {%- elsif eptype == 'ark' or ep contains 'ark:' -%}
+        {%- unless ep contains 'ark:' %}{% assign ep = ep | prepend: 'ark:/' %}{% endunless -%}
+        <a href="https://n2t.net/{{ ep }}">ARK</a>
+      {%- endif -%}
+    {%- endif -%}
     {%- if entry.pdf -%}
       {%- if entry.pdf contains '://' -%}{%- assign pdf_url = entry.pdf -%}{%- else -%}{%- assign pdf_url = entry.pdf | prepend: '/assets/pdf/' | relative_url -%}{%- endif -%}
       <a href="{{ pdf_url }}">PDF</a>
