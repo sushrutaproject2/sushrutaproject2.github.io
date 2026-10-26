@@ -40,7 +40,7 @@ As one emerges from the corridor, a three-storeyed library building in tradition
 
 ## A library for Nepāl Bhāṣā
 
-The Āśā Saphū Kuthi (आशा सफू कुथि, "Āśā's book house"), also called the Āśā Archives, is a free public library devoted to Nepāl Bhāṣā (Newar) books and manuscripts. It stands near the Raktakālī temple, within the Manka Dhuku premises.
+The Āśā Saphū Kuthi (आशा सफू कुथि, "Āśā's book house"), also called the Āśā Archives, is a free public library devoted to Nepāl Bhāṣā (Newar) books and manuscripts. It is located across the road (Cittadhar Mārg) from the Raktakālī temple.
 
 As Rhishav Sapkota described {% cite sapk-2021 -A %}, it is named after Āśā Mān Siṃh Kansakar (1916–1990), who founded the Nepāl Bhāṣā publisher Cwāsā Pāsā in 1950. He hoped to create a "literary temple" where people could read Newar books. After seeing manuscripts sold to foreigners in Basantapur, he resolved that Nepal should keep its own. His son, the politician Prem Bahadur Kansakar, carried the project forward.
 
@@ -50,7 +50,7 @@ The core collection came from Prem Bahadur Kansakar and from the American schola
 
 The early collection holds over 7,000 manuscripts dating from the fifteenth to the nineteenth century. They are palm-leaf and paper *pothī*s, accordion books (Newar _thyāsaphū_), ritual handbooks and codices. The languages are Sanskrit, Nepāl Bhāṣā, Nepali, and mixtures of these. Subjects range across Hindu and Buddhist religion, poetics, astronomy, astrology and medicine. The upper floor also holds inscriptions, chronicles and about 1,200 palm-leaf land-grant documents.
 
-The assistant showed me the library's printed catalogue, _Āśā Saphūkuthiyā Saphū Dhalaḥ: A Short Catalogue of Āśā Archives_ (Āśā Saphūkuthi Pithanā 5), compiled by Rājā Śākya, then librarian, and published in N.S. 1120 (2000 CE). It is arranged by subject. Each entry gives a DPN5 number, title, script, language, date, completeness, size, number of folios and material. An earlier descriptive catalogue of the inscriptions and documents, by Janak Lal Vaidya and Prem Bahadur Kansakar, appeared in 1991 {% cite vaid-1991 -A %}.
+The assistant showed me the library's printed catalogue, _Āśā Saphūkuthiyā Saphū Dhalaḥ: A Short Catalogue of Āśā Archives_ (Āśā Saphūkuthi Pithanā 5), compiled by Rājā Śākya, then librarian, and published in N.S. 1120 (2000 CE) {% cite saky-2000 %}. It is arranged by subject. Each entry gives a DPN5 number, title, script, language, date, completeness, size, number of folios and material. An earlier descriptive catalogue of the inscriptions and documents, by Janak Lal Vaidya and Prem Bahadur Kansakar, appeared in 1991 {% cite vaid-1991 -A %}.
 
 <div class="row justify-content-center">
   <div class="col-sm-4 mt-3 mt-md-0">
@@ -114,5 +114,7 @@ For anyone working on Sanskrit or Newar medicine, the Āśā Saphū Kuthi repays
 
 - [Āśā Saphūkuthi (DPN)](https://hmml.org/collections/repositories/nepal/%C4%81%C5%9B%C4%81-saph%C5%ABkuthidpn/), Hill Museum & Manuscript Library
 - [Asa Safu Kuthi](https://en.wikipedia.org/wiki/Asa_Safu_Kuthi), Wikipedia
+
+## References
 
 {% bibliography -cited --group_by none %}
