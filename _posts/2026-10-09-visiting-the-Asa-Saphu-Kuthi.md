@@ -116,5 +116,6 @@ For anyone working on Sanskrit or Newar medicine, the Āśā Saphū Kuthi repays
 - [Asa Safu Kuthi](https://en.wikipedia.org/wiki/Asa_Safu_Kuthi), Wikipedia
 
 ## References
-
+<div class="post-bibliography">
 {% bibliography -cited --group_by none %}
+</div>	
