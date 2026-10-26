@@ -9,22 +9,25 @@ tags: Kathmandu Suśrutasaṃhitā Carakasaṃhitā Ayurveda manuscripts
 
 Madhu Bajra Bajracharya is an ayurvedic doctor who was trained by his father, the late Mana Bajra Bajracharya. They descend from a famous lineage of Buddhist priests, as Mana recounts in his autobiography:
 
+<div class="row align-items-start">
+  <div class="col-sm-4 mt-3 mt-md-0">
+      {% include figure.liquid
+         loading="eager"
+         path="assets/img/2026-10-kathmandu-madhu-bajra-bajracharya.jpg"
+         alt="Portrait of Madhu Bajra Bajracharya wearing a patterned Nepali dhaka topi and a grey tweed jacket"
+         caption="Madhu Bajra Bajracharya."
+         class="img-fluid rounded z-depth-1"
+         zoomable=true
+      %}
+  </div>
+  <div class="col-sm-8" markdown="1">
+
 > By caste, we are Shakya related to the Shakya of Kapilavastu, the birthplace of Lord Gautama Buddha. During the medieval period, following the principles of Bajrayana, the third advanced stage of Buddhism (following Hinayana and Mahayana), our ancestors received the consecration of Bajrayana. This consecration bestows the title of Bajracharya. To have this title, one must follow the principles of the “Heruka Chaka Samvara Tantra.” Those with the title of Bajracharya are the priests of the Newari Buddhists, one of the ancient inhabitants of Kathmandu Valley.
 >
 > In 1937, I received my formal initiation as a Bajracharya, which I needed to be a member of the Bihara. In 1944, I received my consecration as Bajrayana, which I needed to be an authorized Bajracharya. In 1945, I married with Gyani Devi Bajracharya. Marriage is essential for Bajrayana practice. We have a son and four daughters.
 >
 > — [Mana Bajra Bajracharya, “Introduction”](https://www.ayurvedainnepal.com/introduction/mana-bajra-bajracharya/)
 
-<div class="row justify-content-center">
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid
-       loading="eager"
-       path="assets/img/2026-10-kathmandu-madhu-bajra-bajracharya.jpg"
-       alt="Portrait of Madhu Bajra Bajracharya wearing a patterned Nepali dhaka topi and a grey tweed jacket"
-       caption="Madhu Bajra Bajracharya."
-       class="img-fluid rounded z-depth-1"
-       zoomable=true
-    %}
   </div>
 </div>
 
