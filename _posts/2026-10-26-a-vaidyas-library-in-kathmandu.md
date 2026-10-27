@@ -39,11 +39,11 @@ According to Madhu Bajra Bajracharya, his father learnt Sanskrit and collected m
 
 Many years ago, Madhu Bajra Bajracharya compiled a handlist of the collection, which he kindly sent to Dominik Wujastyk in private correspondence. <!-- TODO: add date of correspondence --> This handlist indicates that the collection contains many hundreds of manuscripts, at least forty-four of which are on medicine.
 
-I visited Madhu Bajra Bajracharya’s house, where he kindly showed me the collection. It is kept in three large metal cabinets, with each manuscript wrapped in cloth and tied with string. Unfortunately, the manuscripts are currently piled up and jumbled together, so it is impossible to find any particular item without unpacking the cabinets.
+I visited Madhu Bajra Bajracharya’s house, where he kindly showed me the collection. It is kept in three large metal cabinets, with each manuscript wrapped in cloth and tied with string. Unfortunately, the manuscripts are currently piled up and jumbled together, so it is impossible to find any particular item without unpacking the cabinets.  A handwritten [handlist was made in 2014](https://nextcloud.computecanada.ca/index.php/s/yfwp8XFRtmnQ8Mr?dir=%2F00%20not%20in%20Biswas%2FKathmandu%20-%20private%20collection).
 
 ## A palm-leaf *Carakasaṃhitā*
 
-Fortunately, during my visit Madhu Bajra Bajracharya managed to find a palm-leaf manuscript of the *Carakasaṃhitā*, which is recorded as the first entry in the *vaidyaśāstra* section of his handlist. It is incomplete and undated, but judging from the condition of the palm leaves and the style of writing, it looked very old to me, possibly earlier than the fifteenth century. This manuscript left me with the impression that the collection likely holds some very old and valuable material.
+Fortunately, during my visit Madhu Bajra Bajracharya managed to find a palm-leaf manuscript of the *Carakasaṃhitā*, which is recorded as the first entry in the *vaidyaśāstra* section of his [handlist](https://nextcloud.computecanada.ca/index.php/s/yfwp8XFRtmnQ8Mr?dir=%2F00%20not%20in%20Biswas%2FKathmandu%20-%20private%20collection). It is incomplete and undated, but judging from the condition of the palm leaves and the style of writing, it looked very old to me, possibly earlier than the fifteenth century. This manuscript left me with the impression that the collection likely holds some very old and valuable material.
 
 ## Texts and experience
 
@@ -71,3 +71,4 @@ The handlist does not mention a manuscript of the *Suśrutasaṃhitā*, but Madh
 
 - [Mana Bajra Bajracharya](https://www.ayurvedainnepal.com/introduction/mana-bajra-bajracharya/), Ayurveda in Nepal
 - [Endangered Archives Programme](https://eap.bl.uk/), British Library
+- [2014 Handlist of manuscripts](https://nextcloud.computecanada.ca/index.php/s/yfwp8XFRtmnQ8Mr?dir=%2F00%20not%20in%20Biswas%2FKathmandu%20-%20private%20collection)
