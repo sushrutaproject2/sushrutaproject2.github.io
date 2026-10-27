@@ -15,7 +15,7 @@ Madhu Bajra Bajracharya is an ayurvedic doctor who was trained by his father, th
          loading="eager"
          path="assets/img/2026-10-kathmandu-mana-bajra-bajracharya.jpg"
          alt="Portrait of Vaidya Mana Bajra Bajracharya in spectacles and a pale shirt, against a background of foliage"
-         caption="Vaidya Mana Bajra Bajracharya. (Image: <a href='https://www.ayurvedainnepal.com/introduction/mana-bajra-bajracharya/'>Ayurveda in Nepal</a>.)"
+         caption="Vaidya Mana Bajra Bajracharya. (Image: Alan Keith Tillotson 1983, <a href='https://www.ayurvedainnepal.com/introduction/mana-bajra-bajracharya/'>Ayurveda in Nepal</a>.)"
          class="img-fluid rounded z-depth-1"
          zoomable=true
       %}
