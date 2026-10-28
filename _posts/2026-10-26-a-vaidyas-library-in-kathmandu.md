@@ -31,7 +31,7 @@ Madhu Bajra Bajracharya is an ayurvedic doctor who was trained by his father, th
   </div>
 </div>
 
-Vaidya Mana Bajra Bajracharya's Ayurvedic teachings were the subject of the book first published in 2009 {% cite bajr-2009 %}.  In 2015, one of the book's editors, Alan Tilloton, wrote to Dominik Wujastyk, about the Bajra Bajracharya library of books and manuscripts, noting that the collection was of important cultural value and its future was uncertain. 
+Vaidya Mana Bajra Bajracharya's Ayurvedic teachings were the subject of a book first published in 2009 {% cite bajr-2009 %}.  In 2015, one of the book's editors, Alan Tilloton, wrote to Dominik Wujastyk, about the Bajra Bajracharya library of books and manuscripts, noting that the collection was of important cultural value and its future was uncertain. 
 
 ## The collection
 

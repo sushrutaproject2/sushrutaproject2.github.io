@@ -39,30 +39,25 @@ The museum is laid out in several galleries: glass painting and porcelain; minia
 ![A Devanāgarī manuscript page, Jaipur, dated 1588 CE](https://shop.museumsofindia.org/sites/default/files/2017-11/08_1.JPG)
 *A Devanāgarī manuscript from Jaipur, dated 1588 CE. (Image: Museums of India.)*
 
-Among the illustrated material is a late nineteenth-century cosmological painting from Jaipur depicting the fourteen worlds (*caturdaśabhuvana*), from a series catalogued as the *Viśvavijñāna-citrāvalī* (1895). The *tantra* holdings include *yantra*s such as an eighteenth-century Śani-yantra from Marwar.
+<figure class="profile left" style="max-width: 250px;">
+  <a href="https://shop.museumsofindia.org/sites/default/files/2017-11/07_1.JPG" class="zoom"><img src="https://shop.museumsofindia.org/sites/default/files/2017-11/07_1.JPG" alt="Painting of the fourteen worlds from the Viśvavijñāna-citrāvalī, Jaipur, 1895" class="rounded z-depth-1" loading="lazy"></a>
+  <figcaption>The fourteen worlds (<em>caturdaśabhuvana</em>), Jaipur, 1895. (Image: Museums of India.)</figcaption>
+</figure>
 
-<div class="row justify-content-center">
-  <div style="flex: 0 0 auto; width: 45%; max-width: 230px;">
-    {% include figure.liquid
-       path="https://shop.museumsofindia.org/sites/default/files/2017-11/07_1.JPG"
-       alt="Painting of the fourteen worlds from the Viśvavijñāna-citrāvalī, Jaipur, 1895"
-       caption="The fourteen worlds (<em>caturdaśabhuvana</em>), Jaipur, 1895. (Image: Museums of India.)"
-       class="img-fluid rounded z-depth-1"
-       zoomable=true
-    %}
-  </div>
-  <div style="flex: 0 0 auto; width: 45%; max-width: 230px;">
-    {% include figure.liquid
-       path="https://shop.museumsofindia.org/sites/default/files/2017-11/09_1.JPG"
-       alt="Śani-yantra, Marwar, 18th century"
-       caption="Śani-yantra, Marwar, 18th century. (Image: Museums of India.)"
-       class="img-fluid rounded z-depth-1"
-       zoomable=true
-    %}
-  </div>
-</div>
+Among the illustrated material is a late nineteenth-century cosmological painting from Jaipur depicting the fourteen worlds (*caturdaśabhuvana*), from a series catalogued as the *Viśvavijñāna-citrāvalī* (1895).
+
+<div style="clear: both;"></div>
+
+<figure class="profile" style="max-width: 250px;">
+  <a href="https://shop.museumsofindia.org/sites/default/files/2017-11/09_1.JPG" class="zoom"><img src="https://shop.museumsofindia.org/sites/default/files/2017-11/09_1.JPG" alt="Śani-yantra, Marwar, 18th century" class="rounded z-depth-1" loading="lazy"></a>
+  <figcaption>Śani-yantra, Marwar, 18th century. (Image: Museums of India.)</figcaption>
+</figure>
+
+The *tantra* holdings include *yantra*s such as an eighteenth-century Śani-yantra from Marwar.
 
 In the Museum, photography is strictly prohibited, so we are unfortunately unable to illustrate any of the following remarks.
+
+<div style="clear: both;"></div>
 
 ## What we were looking for
 
