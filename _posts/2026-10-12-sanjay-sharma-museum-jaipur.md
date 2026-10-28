@@ -57,13 +57,15 @@ The *tantra* holdings include *yantra*s such as an eighteenth-century Śani-yant
 
 In the Museum, photography is strictly prohibited, so we are unfortunately unable to illustrate any of the following remarks.
 
-<div style="clear: both;"></div>
+
 
 ## What we were looking for
 
 ### The *Suśrutasaṃhitā*
 
 As the [Suśruta Project website](https://sushrutaproject2.github.io) explains, our project is focused on the textual and doctrinal differences between *The Compendium* as it existed in the earliest manuscript of 878 CE and the later “vulgate” version that was edited and reshaped by medieval commentators over the centuries.  Manuscripts matter to the project, helping us to understand the history of this foundational work of medicine.  We are trying to include as many manuscripts as possible in our research. 
+
+<div style="clear: both;"></div>
 
 During our visit on 11 and 12 October, we saw a *Suśrutasaṃhitā* manuscript on display, but unfortunately we were not permitted to examine it.  It is numbered [MS Jaipur Sanjay Sharma Museum RN4MSS 4720](https://panditproject.org/node/117021).  The single leaf on display had text that appeared to be a commentary on the main work, in a section about the Ayurvedic concept of "appropriateness" (Skt. *sātmya*).  One passage cited the author Caraka.  On the second day of our visit, Shri Tilak Sharma, the Museum's Director, shared with us a photocopy of the last two folios of the manuscript. They showed it to be the ending of the last chapter of the Uttaratantra, with the final "Candraṭa"  verse that we have discussed in [another blog](https://sushrutaproject2.github.io/blog/2026/candrata/).   We hope the Museum will see a way to share a digital image of the whole MS with us in due course.
 
