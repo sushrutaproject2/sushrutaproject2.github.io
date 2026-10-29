@@ -20,4 +20,6 @@ children:
     permalink: https://sushrutaproject.github.io/TEI-scholar-Codium-plugin/
   - title: "Sūcī: A bibliography manager with Indic characteristics"
     permalink: https://wujastyk.github.io/suci/
+  - title: "Index to Singh & Chunekar's Glossary of Bṛhattrayī"
+    permalink: https://sushrutaproject.github.io/glossaries/singh-chunekar-1972/
 ---
