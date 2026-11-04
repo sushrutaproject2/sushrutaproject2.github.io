@@ -1,4 +1,78 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sushrutaproject2.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sushrutaproject2.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2026-10-29T19:11:01+00:00</updated><id>https://sushrutaproject2.github.io/feed.xml</id><title type="html">The Compendium of Suśruta in Time and Space</title><subtitle>A project on the history of medicine at the University of Alberta, studying the evolution of the Compendium of Suśruta between the ninth and nineteenth centuries.</subtitle><author><name>Dominik Wujastyk</name></author><entry><title type="html">A Vaidya’s Library in Kathmandu</title><link href="https://sushrutaproject2.github.io/blog/2026/a-vaidyas-library-in-kathmandu/" rel="alternate" type="text/html" title="A Vaidya’s Library in Kathmandu" /><published>2026-10-26T00:00:00+00:00</published><updated>2026-10-26T00:00:00+00:00</updated><id>https://sushrutaproject2.github.io/blog/2026/a-vaidyas-library-in-kathmandu</id><content type="html" xml:base="https://sushrutaproject2.github.io/blog/2026/a-vaidyas-library-in-kathmandu/"><![CDATA[<p>Madhu Bajra Bajracharya is an ayurvedic doctor who was trained by his father, the late Mana Bajra Bajracharya (d. 2001). They descend from a famous lineage of Buddhist priests, as Mana recounts in his autobiography:</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sushrutaproject2.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sushrutaproject2.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2026-11-04T14:15:26+00:00</updated><id>https://sushrutaproject2.github.io/feed.xml</id><title type="html">The Compendium of Suśruta in Time and Space</title><subtitle>A project on the history of medicine at the University of Alberta, studying the evolution of the Compendium of Suśruta between the ninth and nineteenth centuries.</subtitle><author><name>Dominik Wujastyk</name></author><entry><title type="html">An Update to the Blog Post “Experiments with Claude” (17 July 2026)</title><link href="https://sushrutaproject2.github.io/blog/2026/Claude-experiments-update/" rel="alternate" type="text/html" title="An Update to the Blog Post “Experiments with Claude” (17 July 2026)" /><published>2026-11-04T00:00:00+00:00</published><updated>2026-11-04T00:00:00+00:00</updated><id>https://sushrutaproject2.github.io/blog/2026/Claude-experiments-update</id><content type="html" xml:base="https://sushrutaproject2.github.io/blog/2026/Claude-experiments-update/"><![CDATA[<p>On 17 July 2026, Dominik Wujastyk posted <a href="https://sushrutaproject2.github.io/blog/2026/Claude-experiments/">Experiments with
+Claude</a> on the Project’s blog,
+reporting the preliminary results of an experiment in using Claude to edit <em>Suśrutasaṃhitā</em>,
+Sūtrasthāna 6 (<em>Ṛtucaryā</em>). He asked Claude to study 23 chapters critically edited by the Suśruta
+team, alongside the witnesses on which they are based, to derive a set of rules or patterns capturing their editorial practices, and then to apply those rules to Saktumiva’s mechanical collation of chapter 1.6. The results were posted <a href="https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/Claude/provisional-edition_sutrasthana-06_machine-assisted.xml">here</a>.</p>
+
+<p>Since then, Jason Birch has critically edited chapter 1.6 on <em>ṛtucaryā</em> without consulting Claude’s
+edition. He has recently compared his draft edition of the first 20 passages with Claude’s and offers the following general observations.</p>
+
+<ol>
+  <li>
+    <p>Claude improved on Saktumiva’s mechanical collation of the witnesses by adopting K in more instances where the witnesses differ. In at least one instance, it correctly chose a reading of K that was the <em>lectio difficilior</em> and wrote a footnote explaining why the reading is plausible.</p>
+  </li>
+  <li>
+    <p>Claude’s edition was limited by its inability to check the draft transcripts against the manuscripts. This might be possible in the future if Claude is given access to the manuscript images. Many of the defects in Claude’s edition resulted from mistakes in the draft transcripts; examples are given in the detailed comments below.</p>
+  </li>
+  <li>
+    <p>Claude often uncritically favoured K (perhaps because it was told that K is the most important witness). As a result, it adopted incorrect readings of K. In quite a few instances, these incorrect readings were errors in the draft transcript, which Claude failed to identify. For example, it adopted <em>triṃśatmuhūrttam</em> (instead of <em>triṃśanmuhūrttam</em>), <em>evauṣadhyau grīṣmaniḥsārā … bhavaty</em> (instead of <em>evauṣadhyo grīṣme … bhavanty</em>) and <em>śleṣmikāṇāṃ</em> (instead of <em>ślaiṣmikāṇān</em>). Further instances are noted below.</p>
+  </li>
+  <li>
+    <p>Claude included an additional passage in K that is not part of the original work and is marked as
+an insertion in the TEI code of the draft transcript). This passage does not fit the syntax of the sentence into which it was inserted. It is a clear example of Claude uncritically accepting the reading of K.</p>
+  </li>
+  <li>
+    <p>Other problems include incorrect word division (e.g., <em>dvimāsike naivaṃ</em> instead of <em>dvimāsikenaivaṃ</em>), unnecessary footnotes, and incorrect punctuation of the edited text (although punctuation may not have been explicitly mentioned in the prompt).</p>
+  </li>
+</ol>
+
+<h2 id="significant-differences-in-16120">Significant differences in 1.6.1–20</h2>
+
+<p>Significant differences between Claude’s and Birch’s editions of 1.6.1–20 are listed below.</p>
+
+<h3 id="163">1.6.3</h3>
+
+<p>Claude and Birch both adopt <em>saṅkalayati</em> and both write footnotes on this sentence, which is a <em>nirukti</em> of <em>kāla</em>. Claude’s footnote simply points out that K preserves the correct form <em>saṅkalayati</em> (as opposed to <em>saṅkālayati</em> in N and H). Birch considered this obvious and instead commented in his footnote on Ḍalhaṇa’s understanding of <em>kāla</em>.</p>
+
+<h3 id="165">1.6.5</h3>
+
+<p>Claude adopts <em>triṃśatmuhūrttam</em>, which is incorrect sandhi. K and N actually read <em>triṃśanmuhūrttam</em>, but the draft transcripts used by Claude had <em>triṃśatmuhūrttam</em> for these witnesses.</p>
+
+<h3 id="167">1.6.7</h3>
+
+<p>Claude did not insert an avagraha in <em>āpyāyate ’rkaḥ</em>. Claude and Birch both accept <em>balavattarā</em>, the reading of K<sup>pc</sup> and H, which is the <em>lectio difficilior</em>, and Claude adds a footnote explaining why this reading is plausible. Further on, however, Claude adopts <em>uttarottaraś ca</em>, K’s reading in the draft transcript, which does not make sense. In fact, K, H and the vulgate read <em>uttarottarañ ca</em>.</p>
+
+<h3 id="169">1.6.9</h3>
+
+<p>Claude adopts <em>varṣasaṃvatsaraḥ</em>, the reading of K<sup>pc</sup> in the draft transcript, which is unsatisfactory. K<sup>pc</sup> actually reads <em>varṣaḥ saṃvatsaraḥ</em>, which is better.</p>
+
+<h3 id="1610">1.6.10</h3>
+
+<p>Claude reads <em>dvimāsike naivaṃ</em> instead of <em>dvimāsikenaivaṃ</em>, an incorrect word division. Further on, Claude adopts <em>sa vidāhāt</em>, the reading of K, H and N, even though these witnesses have a plural verb. Birch adopts the vulgate reading <em>vidāhāt</em>, which is better.</p>
+
+<h3 id="1611">1.6.11</h3>
+
+<p>Claude incorrectly includes the passage <em>tatra … uttarāyaṇe</em>, which was added to K and breaks the syntax of the original sentence. Claude states in a footnote that the passage was added by a later hand, an observation probably based on the transcriber’s TEI markup rather than on direct examination of the manuscript. Further on, Claude adopts <em>evauṣadhyau grīṣmaniḥsārā … bhavaty</em>, K’s reading in the draft transcript, but K and H in fact read <em>evauṣadhyo grīṣme … bhavanty</em>, the correct reading, which Birch adopts. Claude’s footnote points out the problem with the singular verb, but explains that it understands <em>evauṣadhyau</em> as a dual subject.</p>
+
+<h3 id="1613">1.6.13</h3>
+
+<p>Claude adopts <em>śleṣmikāṇāṃ</em>, an incorrect transcription of K, which (like N and the vulgate) reads <em>ślaiṣmikāṇān</em>. Claude also adopts <em>sañcayaprakopaśamā</em>, a reading wrongly attributed to K in the draft transcript, and then writes a footnote stating that the correct reading, <em>sañcayaprakopopaśamā</em>, is found in H and N. In fact, K has the same reading as H and N.</p>
+
+<h3 id="1614">1.6.14</h3>
+
+<p>Claude adopts <em>haimanam</em>, the reading of K, and then writes an unnecessary footnote noting that H and N read <em>hemantam</em> and <em>hemanam</em> respectively.</p>
+
+<h3 id="1615">1.6.15</h3>
+
+<p>Claude adopts <em>tūpayayujyamānāḥ</em>, an incorrect reading of K, but then states in a footnote that this reading is incorrect. The error is in the draft transcript of K. Birch corrected the transcript and adopted <em>tūpayujyamānāḥ</em>, the reading of K, N and H.</p>
+
+<h3 id="1616">1.6.16</h3>
+
+<p>Claude adopts <em>tāsām</em>, the correct reading of K, and writes an unnecessary footnote explaining why.</p>
+
+<h3 id="1619">1.6.19</h3>
+
+<p>Claude adopts K’s <em>uṣasyante</em> (a transcription error for <em>udhvaṃsyante</em>). The better reading is H’s <em>udhvasyante</em>.</p>]]></content><author><name>Dominik Wujastyk</name></author><category term="SuśrutaProject" /><category term="AI" /><category term="Claude" /><summary type="html"><![CDATA[Jason Birch compares Claude’s machine-assisted edition of Sūtrasthāna 6 with his own critical edition]]></summary></entry><entry><title type="html">A Vaidya’s Library in Kathmandu</title><link href="https://sushrutaproject2.github.io/blog/2026/a-vaidyas-library-in-kathmandu/" rel="alternate" type="text/html" title="A Vaidya’s Library in Kathmandu" /><published>2026-10-26T00:00:00+00:00</published><updated>2026-10-26T00:00:00+00:00</updated><id>https://sushrutaproject2.github.io/blog/2026/a-vaidyas-library-in-kathmandu</id><content type="html" xml:base="https://sushrutaproject2.github.io/blog/2026/a-vaidyas-library-in-kathmandu/"><![CDATA[<p>Madhu Bajra Bajracharya is an ayurvedic doctor who was trained by his father, the late Mana Bajra Bajracharya (d. 2001). They descend from a famous lineage of Buddhist priests, as Mana recounts in his autobiography:</p>
 
 <div class="row align-items-start">
   <div class="col-sm-4 mt-3 mt-md-0">
@@ -1060,77 +1134,4 @@ A recording of the round table is available [here](URL).
       <p>See, for example, catalogue no. 82 in <a class="citation" href="#balbir2006a">(Balbir et al., 2006, p. 62)</a>; <a href="https://www.jaina-prosopography.org/">Jaina Prosopography</a>, which records four scribes belonging to this community; <a href="https://www-archiv.fdm.uni-hamburg.de/ngmcp/A_353-8_Han%25C5%25ABmann%25C4%2581%25E1%25B9%25ADaka.html">NGMCP MS A 353-8</a>; and several Vedic manuscripts discussed by <a class="citation" href="#kim2021">(Kim, 2021)</a>. <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
   </ol>
-</div>]]></content><author><name>Andrey Klebanov</name></author><category term="manuscripts" /><category term="Gayadāsa" /><category term="Nyāyacandrikā" /><category term="Suśrutasaṃhitā" /><category term="RORI" /><category term="Jaipur" /><summary type="html"><![CDATA[A codicological description of RORI 6838 and its scribal colophons]]></summary></entry><entry><title type="html">The Suśruta Project - 2025 Annual Report on Technical Infrastructure</title><link href="https://sushrutaproject2.github.io/blog/2026/susruta-project-2025-annual-report/" rel="alternate" type="text/html" title="The Suśruta Project - 2025 Annual Report on Technical Infrastructure" /><published>2026-08-24T00:00:00+00:00</published><updated>2026-08-24T00:00:00+00:00</updated><id>https://sushrutaproject2.github.io/blog/2026/susruta-project-2025-annual-report</id><content type="html" xml:base="https://sushrutaproject2.github.io/blog/2026/susruta-project-2025-annual-report/"><![CDATA[<p><em>Prepared from the public record of the GitHub organization <a href="https://github.com/sushrutaproject1">sushrutaproject1</a>, the project website <a href="https://sushrutaproject1.github.io/">sushrutaproject1.github.io</a>, Zenodo, and the INDOLOGY mailing list. Covers activity from January 1 to December 31, 2025. Compiled by Claude AI.</em></p>
-
-<h2 id="overview">Overview</h2>
-
-<p>2025 was a transition year for the Suśruta Project. It marked the formal close of “The Suśruta Project 1.0” (2020–2024) — the SSHRC-funded study of the palm-leaf manuscript MS Kathmandu KL 699 (878 CE) and related witnesses of the <em>Suśrutasaṃhitā</em> — and the launch of its successor, “The Compendium of Suśruta in Time and Space: Mapping a Medical Tradition” (2025–2029). Both phases are led by Dominik Wujastyk (University of Alberta).</p>
-
-<h2 id="major-achievements">Major achievements</h2>
-
-<p><strong>New five-year grant secured.</strong> SSHRC awarded Insight Grant 435-2025-0604, funding “Mapping a Medical Tradition” from 2025 through 2029, based at the University of Alberta. This is the project’s principal 2025 milestone: it converts the completed Phase 1 diplomatic transcription work into a funded program of critical editions, translations, and comparative study of the text’s transmission across South Asia, China, and Southeast Asia. The successor project maintains its own site and GitHub presence at sushrutaproject2.github.io.</p>
-
-<p><strong>Phase 1 edition brought to completion and re-archived.</strong> On May 15, 2025 the <em>Sushrutasamhita_Saktumiva1</em> repository (the critical edition and its apparatus) reached release v.6.1, “Completed IIIF pointers for all witnesses” — every manuscript witness in the edition now links live to its IIIF facsimile images. A companion release on May 8, 2025 triggered Zenodo archiving of the repository for long-term preservation. Separately, an earlier edition state (v.4.3, the completed meta-editing of the Sūtrasthāna) was re-archived on Zenodo on April 9, 2025 (DOI 10.5281/zenodo.15184815), noting eleven pull requests of translation and structural work behind that release.</p>
-
-<p><strong>Web infrastructure consolidated.</strong> In a message to the INDOLOGY list dated December 16, 2025, Wujastyk announced the reorganization of the project’s online presence: legacy content moved to sushrutaproject1.github.io (with a further simplification to sushrutaproject.github.io completed in early 2026), the old sushrutaproject.org domain now redirects to the new site, and the successor project’s material lives separately at sushrutaproject2.github.io. This tidied up several years of accumulated web infrastructure into a clear two-phase structure.</p>
-
-<p><strong>Continued editing and translation.</strong> Commit activity through the year shows steady, hands-on philological work rather than large batch imports: individual <em>adhyāya</em> (chapter) files were revised piece by piece — for example passages in Nidānasthāna, Cikitsāsthāna 4.4, and chapters such as 2.1, 3.1, 5.1, 5.8, and 6.65 — interspersed with translation-PDF regenerations, typo fixes, and footnotes (e.g., on the philosophical schools referenced in the text). A concentrated run of this work in early-to-mid December 2025 (at least 39 commits between December 4 and 22) followed what commit messages describe as project seminars and editing sessions. Collaborator Deepro Chakraborty contributed a cleanup of the Nidānasthāna text, merged via pull request #327 on December 20. Routine XML regeneration was handled by an automated “Wujastyk Bot” process rather than by hand.</p>
-
-<p><strong>Groundwork for a new presentation platform.</strong> A new repository, <em>Sushrutasamhita_Saktumiva2</em>, was created to present the same critical edition through “Saktumiva 2.0,” an updated version of the project’s custom manuscript-collation viewer — the beginning of a migration away from the original Saktumiva 1.0 interface.</p>
-
-<h2 id="releases-in-2025">Releases in 2025</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>Date</th>
-      <th>Repository</th>
-      <th>Tag</th>
-      <th>Note</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>May 8, 2025</td>
-      <td>Sushrutasamhita_Saktumiva1</td>
-      <td>6.1</td>
-      <td>Release to trigger Zenodo archiving</td>
-    </tr>
-    <tr>
-      <td>May 15, 2025</td>
-      <td>Sushrutasamhita_Saktumiva1</td>
-      <td>v.6.1</td>
-      <td>IIIF pointers completed for all manuscript witnesses</td>
-    </tr>
-    <tr>
-      <td>Apr 9, 2025 (Zenodo record date)</td>
-      <td>Sushrutasamhita_Saktumiva1</td>
-      <td>v.4.3</td>
-      <td>Re-archived on Zenodo; 11 PRs of translation/structural work</td>
-    </tr>
-  </tbody>
-</table>
-
-<h2 id="repositories-active-during-the-year">Repositories active during the year</h2>
-
-<p>The sushrutaproject1 organization currently comprises five public repositories: <em>Sushrutasamhita_Saktumiva1</em> (the main critical edition, TEI XML/TeX), the new <em>Sushrutasamhita_Saktumiva2</em> (edition on the updated platform), <em><a href="https://sushrutaproject1.github.io">sushrutaproject1.github.io</a></em> (the project website), and a <em>.github</em> profile repository. All of the recorded 2025 activity above falls within the first two.</p>
-
-<h2 id="a-note-on-the-data">A note on the data</h2>
-
-<p>This report draws on what GitHub’s public pages and unauthenticated API allow without login credentials. Release, Zenodo, and mailing-list dates are exact. Commit figures, however, are drawn from spot samples (a full quarter and a three-week December window) rather than a complete year-long count, because GitHub’s unauthenticated API rate limit was reached repeatedly during research and search/date-filtered pages are blocked to automated fetches by GitHub’s own robots.txt. The one complete quarter that could be checked (April–June 2025) recorded 20 commits. Issue and pull-request history for 2025 could not be reliably retrieved for the same reason; PR #327 (merged December 20, 2025) is the one confirmed by name. A GitHub-authenticated review — for instance by connecting a personal access token, or by reviewing the repositories’ Insights pages directly in a browser — would allow a complete count.</p>
-
-<h2 id="outlook">Outlook</h2>
-
-<p>With Phase 1 archived and consolidated, 2026 activity is likely to concentrate on the newly funded Mapping a Medical Tradition project (sushrutaproject2) and on finishing the migration of the edition to the Saktumiva 2.0 platform.</p>
-
-<h2 id="sources">Sources</h2>
-
-<ul>
-  <li><a href="https://sushrutaproject1.github.io/">sushrutaproject1.github.io</a> — project website</li>
-  <li><a href="https://sushrutaproject2.github.io/">sushrutaproject2.github.io</a> — successor project website</li>
-  <li><a href="https://github.com/sushrutaproject1">github.com/sushrutaproject1</a> — GitHub organization</li>
-  <li><a href="https://github.com/sushrutaproject1/Sushrutasamhita_Saktumiva1">github.com/sushrutaproject1/Sushrutasamhita_Saktumiva1</a> — critical edition repository and releases</li>
-  <li><a href="https://github.com/sushrutaproject1/Sushrutasamhita_Saktumiva2">github.com/sushrutaproject1/Sushrutasamhita_Saktumiva2</a> — Saktumiva 2.0 repository</li>
-  <li><a href="https://zenodo.org/records/15184815">Zenodo record 10.5281/zenodo.15184815</a> — v.4.3 archive</li>
-  <li><a href="http://www.mail-archive.com/indology@list.indology.info/msg06131.html">INDOLOGY mailing list, Dec 16, 2025</a> — website restructuring announcement</li>
-</ul>]]></content><author><name>Dominik Wujastyk and Claude AI</name></author><category term="SuśrutaProject" /><category term="annual_report" /><summary type="html"><![CDATA[annual report]]></summary></entry></feed>
+</div>]]></content><author><name>Andrey Klebanov</name></author><category term="manuscripts" /><category term="Gayadāsa" /><category term="Nyāyacandrikā" /><category term="Suśrutasaṃhitā" /><category term="RORI" /><category term="Jaipur" /><summary type="html"><![CDATA[A codicological description of RORI 6838 and its scribal colophons]]></summary></entry></feed>
