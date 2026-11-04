@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sushrutaproject2.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sushrutaproject2.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2026-11-04T21:28:28+00:00</updated><id>https://sushrutaproject2.github.io/feed.xml</id><title type="html">The Compendium of Suśruta in Time and Space</title><subtitle>A project on the history of medicine at the University of Alberta, studying the evolution of the Compendium of Suśruta between the ninth and nineteenth centuries.</subtitle><author><name>Dominik Wujastyk</name></author><entry><title type="html">An Update to the Blog Post “Experiments with Claude” (17 July 2026)</title><link href="https://sushrutaproject2.github.io/blog/2026/Claude-experiments-update/" rel="alternate" type="text/html" title="An Update to the Blog Post “Experiments with Claude” (17 July 2026)" /><published>2026-11-04T00:00:00+00:00</published><updated>2026-11-04T00:00:00+00:00</updated><id>https://sushrutaproject2.github.io/blog/2026/Claude-experiments-update</id><content type="html" xml:base="https://sushrutaproject2.github.io/blog/2026/Claude-experiments-update/"><![CDATA[<p>On 17 July 2026, Dominik Wujastyk posted <a href="https://sushrutaproject2.github.io/blog/2026/Claude-experiments/">Experiments with Claude</a> on the Project’s blog,
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sushrutaproject2.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sushrutaproject2.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2026-11-04T21:55:35+00:00</updated><id>https://sushrutaproject2.github.io/feed.xml</id><title type="html">The Compendium of Suśruta in Time and Space</title><subtitle>A project on the history of medicine at the University of Alberta, studying the evolution of the Compendium of Suśruta between the ninth and nineteenth centuries.</subtitle><author><name>Dominik Wujastyk</name></author><entry><title type="html">An Update to the Blog Post “Experiments with Claude” (17 July 2026)</title><link href="https://sushrutaproject2.github.io/blog/2026/Claude-experiments-update/" rel="alternate" type="text/html" title="An Update to the Blog Post “Experiments with Claude” (17 July 2026)" /><published>2026-11-04T00:00:00+00:00</published><updated>2026-11-04T00:00:00+00:00</updated><id>https://sushrutaproject2.github.io/blog/2026/Claude-experiments-update</id><content type="html" xml:base="https://sushrutaproject2.github.io/blog/2026/Claude-experiments-update/"><![CDATA[<p>On 17 July 2026, Dominik Wujastyk posted <a href="https://sushrutaproject2.github.io/blog/2026/Claude-experiments/">Experiments with Claude</a> on the Project’s blog,
 reporting the preliminary results of an experiment in using Claude to edit <em>Suśrutasaṃhitā</em>,
 Sūtrasthāna 6 (<em>Ṛtucaryā</em>). He asked Claude to study 23 chapters critically edited by the Suśruta
 team, alongside the witnesses on which they are based, to derive a set of rules or patterns capturing their editorial practices, and then to apply those rules to Saktumiva’s mechanical collation of chapter 1.6. The results were posted <a href="https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/Claude/provisional-edition_sutrasthana-06_machine-assisted.xml">here</a>.</p>
@@ -25,7 +25,32 @@ an insertion in the TEI code of the draft transcript). This passage does not fit
   </li>
 </ol>
 
-<h2 id="significant-differences-in-16120">Significant differences in 1.6.1–20</h2>
+<h2 id="conclusion">Conclusion</h2>
+
+<p>It is clear that Claude has something to offer; its edition was better than Saktumiva’s mechanical collation. When it can do OCR of the manuscripts, it may improve further on its current edition. Nonetheless, its present effort resembles that of Housman’s donkey-editor, who, stuck between two bundles of hay, escapes the paralysis by uncritically choosing one bundle, arbitrarily called the “best,” which in this case was the oldest manuscript, K <a class="citation" href="#hous-1937">(Housman, 1937, p. xxxi)</a>.</p>
+
+<h3 id="references">References</h3>
+
+<ol class="bibliography"><li><div class="bib-entry">
+  <div class="bib-ref"><span id="hous-1937">Housman, A. E. (1937). <i>M. Manilii Astronomicon Liber Primus</i>. Cambridge University Press.</span></div>
+  <div class="bib-links"><a href="https://n2t.net/ark:/13960/t44r5sp1k">ARK</a>
+    <details><summary>BibTeX</summary><pre>@book{hous-1937,
+  creationdate = {2026-11-04T15:46:44},
+  author = {Housman, A. E.},
+  modificationdate = {2026-11-04T15:52:31},
+  title = {M. Manilii Astronomicon Liber Primus},
+  year = {1937},
+  address = {London},
+  publisher = {Cambridge University Press},
+  eprint = {ark:/13960/t44r5sp1k},
+  eprinttype = {ark}
+}
+</pre></details>
+  </div>
+</div>
+</li></ol>
+
+<h1 id="significant-differences-in-16120">Significant differences in 1.6.1–20</h1>
 
 <p>Significant differences between Claude’s and Birch’s editions of 1.6.1–20 are listed below.</p>
 
