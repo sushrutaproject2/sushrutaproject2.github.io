@@ -16,8 +16,10 @@ children:
     permalink: https://wujastyk.github.io/bibliographies
   - title: Experimental search interface for SARIT and GRETIL
     permalink: https://wujastyk.github.io/SARIT-corpus/
-  - title: TEI Scholar for editing XML Suśruta Project files
+  - title: TEI Scholar plugin for editing XML Suśruta Project files
     permalink: https://sushrutaproject.github.io/TEI-scholar-Codium-plugin/
+  - title: Dedicated editing interface for Saktumiva 2
+    permalink: https://sushrutaproject.github.io/saktumiva2-editor/
   - title: "Sūcī: A bibliography manager with Indic characteristics"
     permalink: https://wujastyk.github.io/suci/
   - title: "Index to Singh & Chunekar's Glossary of ... Bṛhattrayī"
