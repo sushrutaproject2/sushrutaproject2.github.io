@@ -8,20 +8,22 @@ dropdown: true
 children:
   - title: Project-specific bibliography
     permalink: /bibliography/
-  - title: Legacy Resources from Suśruta Project 1.0
-    permalink: /sushrutaproject1/
   - title: Search medical eTexts from published editions
     permalink: https://sushrutaproject.github.io/eTexts/
   - title: Indexes of materia medica and more bibliography
     permalink: https://wujastyk.github.io/bibliographies
-  - title: New search interface for SARIT and GRETIL
+  - title: SARIT and GRETIL corpus search
     permalink: https://wujastyk.github.io/SARIT-corpus/
+  - title: "Index to Singh & Chunekar's Glossary of ... Bṛhattrayī"
+    permalink: https://sushrutaproject.github.io/glossaries/singh-chunekar-1972/
+    divider:true
   - title: TEI Scholar plugin for editing XML Suśruta Project files
     permalink: https://sushrutaproject.github.io/TEI-scholar-Codium-plugin/
   - title: Dedicated editing interface for Saktumiva 2
     permalink: https://sushrutaproject.github.io/saktumiva2-editor/
   - title: "Sūcī: A bibliography manager with Indic characteristics"
     permalink: https://wujastyk.github.io/suci/
-  - title: "Index to Singh & Chunekar's Glossary of ... Bṛhattrayī"
-    permalink: https://sushrutaproject.github.io/glossaries/singh-chunekar-1972/
+  - title: Legacy Resources from Suśruta Project 1.0
+    permalink: /sushrutaproject1/
+  
 ---
