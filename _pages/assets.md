@@ -14,7 +14,7 @@ children:
     permalink: https://sushrutaproject.github.io/eTexts/
   - title: Indexes of materia medica and more bibliography
     permalink: https://wujastyk.github.io/bibliographies
-  - title: Experimental search interface for SARIT and GRETIL
+  - title: New search interface for SARIT and GRETIL
     permalink: https://wujastyk.github.io/SARIT-corpus/
   - title: TEI Scholar plugin for editing XML Suśruta Project files
     permalink: https://sushrutaproject.github.io/TEI-scholar-Codium-plugin/
