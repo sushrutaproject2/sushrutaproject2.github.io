@@ -2,7 +2,8 @@
   Top of every page: the thin strip linking the Suśruta Project websites
   (from _data/navigation.yml), then this site's own menu. A page appears in
   the menu when its front matter has "nav: true"; "nav_order" sets the order;
-  "dropdown: true" with a "children:" list makes a drop-down menu.
+  "dropdown: true" with a "children:" list makes a drop-down menu; a child
+  written as "- divider: true" draws a horizontal line between groups.
 {%- endcomment -%}
 {%- assign site_root = site.url | append: '/' -%}
 <header class="site-header">
@@ -36,8 +37,12 @@
           <summary{% if open_here or page.url == p.url %} class="current"{% endif %}>{{ p.title }}</summary>
           <ul class="dropdown-menu">
             {%- for child in p.children %}
+            {%- if child.divider %}
+            <li class="divider" role="separator"></li>
+            {%- else -%}
             {%- if child.permalink contains '://' -%}{%- assign child_url = child.permalink -%}{%- else -%}{%- assign child_url = child.permalink | relative_url -%}{%- endif %}
             <li><a href="{{ child_url }}"{% if child.permalink == page.url %} aria-current="page"{% endif %}>{{ child.title }}</a></li>
+            {%- endif -%}
             {%- endfor %}
           </ul>
         </details>

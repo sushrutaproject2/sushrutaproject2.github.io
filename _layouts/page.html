@@ -19,8 +19,12 @@ layout: default
     {%- if page.dropdown and body == "" %}
     <ul class="link-list">
       {%- for child in page.children %}
+      {%- if child.divider %}
+      <li class="divider" role="separator"></li>
+      {%- else -%}
       {%- if child.permalink contains '://' -%}{%- assign child_url = child.permalink -%}{%- else -%}{%- assign child_url = child.permalink | relative_url -%}{%- endif %}
       <li><a href="{{ child_url }}">{{ child.title }}</a></li>
+      {%- endif -%}
       {%- endfor %}
     </ul>
     {%- endif %}

@@ -16,7 +16,7 @@ children:
     permalink: https://wujastyk.github.io/SARIT-corpus/
   - title: "Index to Singh & Chunekar's Glossary of ... Bṛhattrayī"
     permalink: https://sushrutaproject.github.io/glossaries/singh-chunekar-1972/
-    divider:true
+  - divider: true
   - title: TEI Scholar plugin for editing XML Suśruta Project files
     permalink: https://sushrutaproject.github.io/TEI-scholar-Codium-plugin/
   - title: Dedicated editing interface for Saktumiva 2
