@@ -6,8 +6,6 @@ nav: true
 nav_order: 7
 dropdown: true
 children:
-  - title: Project-specific bibliography
-    permalink: /bibliography/
   - title: Search medical eTexts from published editions
     permalink: https://sushrutaproject.github.io/eTexts/
   - title: Indexes of materia medica and more bibliography
@@ -23,6 +21,9 @@ children:
     permalink: https://sushrutaproject.github.io/saktumiva2-editor/
   - title: "Sūcī: A bibliography manager with Indic characteristics"
     permalink: https://wujastyk.github.io/suci/
+  - divider: true  
+  - title: Website bibliography
+    permalink: /bibliography/
   - title: Legacy Resources from Suśruta Project 1.0
     permalink: /sushrutaproject1/
   
