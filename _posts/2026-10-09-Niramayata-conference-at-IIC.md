@@ -38,7 +38,7 @@ The _Nirāmayatā_ conference was organised by the IRD in collaboration with the
 
 ## Our presentations
 
-**Keynote address.** After the inaugural addresses by Shri K. N. Shrivastava (Director, IIC), Dr Sudha Gopalakrishnan, Shri Anil Rajput (Bharat ki Soch) and Shri Shyam Saran (President, IIC), Dominik Wujastyk gave the keynote address, "Achieving Healthiness and the Absence of Illness in Ayurveda." The title takes up the theme of the conference itself, since _nirāmayatā_ means "freedom from disease."
+**Keynote address.** After the inaugural addresses by Shri K. N. Shrivastava (Director, IIC), Dr Sudha Gopalakrishnan, Shri Anil Rajput (Bharat ki Soch) and Shri Shyam Saran (President, IIC), Dominik Wujastyk gave the keynote address, "[https://youtu.be/KdltxmFjcIY?si=G8ode0JODAh3AJDn&t=2785](https://youtu.be/KdltxmFjcIY?si=G8ode0JODAh3AJDn&t=2785)." The title takes up the theme of the conference itself, since _nirāmayatā_ means "freedom from disease."
 
 <!-- Add a few sentences summarising the argument of the keynote, and a link to slides or a recording if available. -->
 
@@ -62,18 +62,17 @@ The _Nirāmayatā_ conference was organised by the IRD in collaboration with the
     %}
   </div>
 </div>
-
-**Dissection in the _Suśrutasaṃhitā_.** In the first session, "Texts and Concepts on Medical Thought," chaired by Prof. G. G. Gangadharan, Kenneth Zysk spoke on "What Medical Literature Can Reveal: Dissection in the _Suśruta Saṃhitā_, Internal and External Transmission." The _Suśrutasaṃhitā_'s instructions for preparing and examining a human body in the _Śārīrasthāna_ are unique in early Indian literature, and raise questions both about how this knowledge was passed on within the medical tradition and about its relations with knowledge from outside it.
+**Dissection in the _Suśrutasaṃhitā_.** In the first session, "Texts and Concepts on Medical Thought," chaired by Prof. G. G. Gangadharan, Kenneth Zysk spoke on "[What Medical Literature Can Reveal: Dissection in the _Suśruta Saṃhitā_, Internal and External Transmission](https://youtu.be/T94OagJki2U?si=_vrwHiIZSqlOWD0_&t=1209)." The _Suśrutasaṃhitā_'s instructions for preparing and examining a human body in the _Śārīrasthāna_ are unique in early Indian literature, and raise questions both about how this knowledge was passed on within the medical tradition and about its relations with knowledge from outside it.
 
 <!-- Add a short summary of Ken's argument if desired. -->
 
-**Suśruta on preserving health.** In the afternoon session, "Mind and Body in Asian Medical Traditions," chaired by Dr S. Irfan Habib, Jason Birch spoke on "From _Svastharakṣaṇīya_ to _Svasthavṛtti_: How Suśruta's Chapter on Preserving a Person's Health Changed." The paper traced how the _Suśrutasaṃhitā_'s teaching on keeping a healthy person healthy was reshaped over the course of the work's transmission.
+**Suśruta on preserving health.** In the afternoon session, "Mind and Body in Asian Medical Traditions," chaired by Dr S. Irfan Habib, Jason Birch spoke on "[From _Svastharakṣaṇīya_ to _Svasthavṛtti_: How Suśruta's Chapter on Preserving a Person's Health Changed](https://youtu.be/Db1eqPApzlU?si=KpMfQ_tkmYzXExkA&t=3298)." The paper traced how the _Suśrutasaṃhitā_'s teaching on keeping a healthy person healthy was reshaped over the course of the work's transmission.
 
 <!-- Add a short summary of Jason's argument if desired. -->
 
 ## Other contributions
 
-Our papers sat alongside a wide range of others ([program](https://aws-static.iicdelhi.in/s3fs-public/2026-10/Niramayata-Programme-Schedule-No-Food-Breaks.pdf)). Among them were Dr S. A. S. Sarma on Gāruḍa Tantra traditions of snakebite medicine in Kerala; Dr Mehsaan Barawaz on the Persian _Majmūʿah-i Żiyāʾī_ and the meeting of Unani and Ayurvedic learning; Dr Padma Gurmet on Sowa Rigpa; Sugi Lanus on herbal and ritual healing in Balinese _lontar_ manuscripts; Dr Annamma Spudich on European documents about South Indian medicine in the sixteenth to eighteenth centuries; and Prof. Nupur Dasgupta on regional environmental knowledge in Cakrapāṇidatta's _Dravyaguṇasaṃgraha_ and Mādhavakara's _Paryāyaratnamālā_. A session on traditional and modern medicine, with Prof. Bhushan Patwardhan and Prof. Rama Jayasundar, and a closing round table on future directions for traditional knowledge, chaired by Vaidya Rajesh Kotecha, brought the perspectives of science and public policy into the discussion.
+Our papers sat alongside a wide range of others ([program](https://aws-static.iicdelhi.in/s3fs-public/2026-10/Niramayata-Programme-Schedule-No-Food-Breaks.pdf), [videos](https://www.youtube.com/@iicprogrammes/search?query=Nir%C4%81mayat%C4%81)). Among them were Dr S. A. S. Sarma on Gāruḍa Tantra traditions of snakebite medicine in Kerala; Dr Mehsaan Barawaz on the Persian _Majmūʿah-i Żiyāʾī_ and the meeting of Unani and Ayurvedic learning; Dr Padma Gurmet on Sowa Rigpa; Sugi Lanus on herbal and ritual healing in Balinese _lontar_ manuscripts; Dr Annamma Spudich on European documents about South Indian medicine in the sixteenth to eighteenth centuries; and Prof. Nupur Dasgupta on regional environmental knowledge in Cakrapāṇidatta's _Dravyaguṇasaṃgraha_ and Mādhavakara's _Paryāyaratnamālā_. A session on traditional and modern medicine, with Prof. Bhushan Patwardhan and Prof. Rama Jayasundar, and a closing round table on future directions for traditional knowledge, chaired by Vaidya Rajesh Kotecha, brought the perspectives of science and public policy into the discussion.
 
 ## Thanks
 
