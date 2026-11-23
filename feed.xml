@@ -1,4 +1,225 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sushrutaproject2.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sushrutaproject2.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2026-11-22T16:37:57+00:00</updated><id>https://sushrutaproject2.github.io/feed.xml</id><title type="html">The Compendium of Suśruta in Time and Space</title><subtitle>A project on the history of medicine at the University of Alberta, studying the evolution of the Compendium of Suśruta between the ninth and nineteenth centuries.</subtitle><author><name>Dominik Wujastyk</name></author><entry><title type="html">A Visit to Mahesh Raj Pant at the Saṃśodhana Maṇḍala, Kathmandu</title><link href="https://sushrutaproject2.github.io/blog/2026/visit-to-the-samshodhana-mandal/" rel="alternate" type="text/html" title="A Visit to Mahesh Raj Pant at the Saṃśodhana Maṇḍala, Kathmandu" /><published>2026-11-05T03:15:00+00:00</published><updated>2026-11-05T03:15:00+00:00</updated><id>https://sushrutaproject2.github.io/blog/2026/visit-to-the-samshodhana-mandal</id><content type="html" xml:base="https://sushrutaproject2.github.io/blog/2026/visit-to-the-samshodhana-mandal/"><![CDATA[<p>On 30 September 2026 we were invited by Prof. Diwakar Acharya to visit Mahesh Raj Pant at the Saṃśodhana Maṇḍala, the research institute founded by his father in Kathmandu. We were kindly received and deeply impressed by his wide knowledge of international scholarship and scholars. We were also impressed by his library, and by the work now under way to digitize his manuscript collection and publish the manuscript images on the internet.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://sushrutaproject2.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sushrutaproject2.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2026-11-23T19:56:18+00:00</updated><id>https://sushrutaproject2.github.io/feed.xml</id><title type="html">The Compendium of Suśruta in Time and Space</title><subtitle>A project on the history of medicine at the University of Alberta, studying the evolution of the Compendium of Suśruta between the ninth and nineteenth centuries.</subtitle><author><name>Dominik Wujastyk</name></author><entry><title type="html">Sūcī: A Bibliography Manager with Indic Characteristics</title><link href="https://sushrutaproject2.github.io/blog/2026/asset-suci-bibliography-manager/" rel="alternate" type="text/html" title="Sūcī: A Bibliography Manager with Indic Characteristics" /><published>2026-11-23T09:06:00+00:00</published><updated>2026-11-23T09:06:00+00:00</updated><id>https://sushrutaproject2.github.io/blog/2026/asset-suci-bibliography-manager</id><content type="html" xml:base="https://sushrutaproject2.github.io/blog/2026/asset-suci-bibliography-manager/"><![CDATA[<p>This post is the last of a series on the items in the <a href="https://sushrutaproject2.github.io/resources/">Assets</a> menu of this website, which I have written over the last two months together with Claude.</p>
+
+<h2 id="what-it-is">What it is</h2>
+
+<p><a href="https://wujastyk.github.io/suci/">Sūcī</a> is a program for managing a bibliography. The name is the Sanskrit word सूची, which means “list” or “index,” and also “needle.”</p>
+
+<p>It works with bibliography files in the BibTeX and BibLaTeX formats. These were created for use with LaTeX, but the format is simple plain text and has become a general standard that many online services and other bibliography programs can read and write, so Sūcī may be useful even to people who do not use LaTeX. It runs on Linux, macOS and Windows.</p>
+
+<h2 id="background">Background</h2>
+
+<p>The Suśruta Project’s publications, and the citations on this website, are generated from a BibLaTeX file of about 6,700 entries (it can be <a href="https://wujastyk.github.io/bibliographies">searched online</a>, as described in an <a href="https://sushrutaproject2.github.io/blog/2026/asset-bibliographies-and-materia-medica/">earlier post</a>). For many years I have maintained it with <a href="https://www.jabref.org/">JabRef</a>, a capable program to which I owe a great deal.  I unhesitatingly recommend JabRef to anyone working on a bibliography, and it many situations it will be a better choice than Sūcī. But general-purpose bibliography managers are not designed with Indology in mind. They do not know that <em>śāstra</em> should be found when one types “sastra,” or that ā follows a and not z, or that a title such as <em>Nyāya-vaiśeṣika</em> should not be “corrected” when titles are capitalised. They look up books in catalogues that are weak on Indian publications. And much of our older literature is now read as scans at the Internet Archive, which need to be cited by a stable identifier.</p>
+
+<p>Sūcī was started in October 2026 to deal with these things.</p>
+
+<h2 id="what-it-does">What it does</h2>
+
+<ul>
+  <li><strong>Speed.</strong> The 6,700-entry library opens in about a quarter of a second.</li>
+  <li><strong>Care with the file.</strong> Entries that have not been edited are saved exactly as they were, byte for byte. Sūcī reads and writes the same files as JabRef, so one can move between the two freely. A backup is kept at every save.</li>
+  <li><strong>Searching without diacritics.</strong> “sastra” finds <em>śāstra</em>. One can also search for phrases, particular fields and ranges of years.</li>
+  <li><strong>Sanskrit alphabetical order</strong> is available as a sort order: a ā i ī u ū ṛ … k kh g gh ṅ … ś ṣ s h.</li>
+  <li><strong>Adding an entry from a DOI or ISBN.</strong> ISBNs are looked up in the K10plus/GVK union catalogue, Open Library and Google Books together, and one chooses the best record.</li>
+  <li><strong>Finding a DOI or ISBN from a title.</strong> Open-access copies are offered first, and book reviews are not mistaken for the book.</li>
+  <li><strong>Internet Archive scans.</strong> The ARK identifier of a scan is stored in the entry and opens in the browser with one click. Multi-volume works can have a separate identifier for each volume.</li>
+  <li><strong>Formatted citations</strong> in Chicago, New Hart’s Rules and other styles, with italics, ready to paste into an email or a word-processor document.</li>
+  <li><strong>Capitalisation of English titles</strong> that leaves Sanskrit terms, and titles in other languages and scripts, alone.</li>
+  <li><strong>Conversion of LaTeX accents to Unicode</strong> and back.</li>
+  <li><strong>An integrity check</strong> that finds missing fields, duplicate keys, bad ISBNs and similar problems, and can repair many of them.</li>
+</ul>
+
+<p>Sūcī does not have JabRef’s groups or full-text search of PDFs, and it does not connect directly to Word or LibreOffice.</p>
+
+<h2 id="getting-it">Getting it</h2>
+
+<p>There are installers for Linux and Windows on the <a href="https://github.com/wujastyk/suci/releases">releases page</a>, and instructions for building the program on macOS. The source code, under the MIT licence, is at <a href="https://github.com/wujastyk/suci">github.com/wujastyk/suci</a>. Sūcī is written in Rust with the GTK 4 toolkit, and citations are formatted by the <a href="https://github.com/typst/hayagriva">hayagriva</a> engine using styles from the Citation Style Language project. Please post bugs and suggestions to <a href="https://github.com/wujastyk/suci/issues">Issues</a>.</p>]]></content><author><name>Dominik Wujastyk</name></author><category term="SuśrutaProject" /><category term="assets" /><category term="bibliography" /><category term="BibLaTeX" /><category term="software" /><category term="Claude" /><summary type="html"><![CDATA[A fast BibTeX and BibLaTeX manager designed for humanities work on South Asia]]></summary></entry><entry><title type="html">An Editing Screen for Saktumiva 2</title><link href="https://sushrutaproject2.github.io/blog/2026/asset-saktumiva2-editor/" rel="alternate" type="text/html" title="An Editing Screen for Saktumiva 2" /><published>2026-11-23T09:05:00+00:00</published><updated>2026-11-23T09:05:00+00:00</updated><id>https://sushrutaproject2.github.io/blog/2026/asset-saktumiva2-editor</id><content type="html" xml:base="https://sushrutaproject2.github.io/blog/2026/asset-saktumiva2-editor/"><![CDATA[<p>This post is one of a series on the items in the <a href="https://sushrutaproject2.github.io/resources/">Assets</a> menu of this website, which I have written over the last two months together with Claude.</p>
+
+<h2 id="the-problem">The problem</h2>
+
+<p>Our edition of the Nepalese version of the <em>Suśrutasaṃhitā</em> is made with Charles Li’s <a href="https://github.com/chchch/saktumiva">Saktumiva</a>. Saktumiva takes the TEI transcriptions of the manuscripts, aligns them with the edition, and generates the critical apparatus. It has changed what a small team can do with a large text.</p>
+
+<p>But the daily work of editing was still divided between three tools. The edition and its notes were written by hand in an XML editor. Saktumiva collated the files and produced the apparatus. The result was checked in a web browser. If, on reading the apparatus, one decided that manuscript K had the better reading, one went back to the XML editor, found the passage, changed the text, ran the collation again, and looked at the result again. Every decision meant a trip round all three.</p>
+
+<p>At the end of October 2026 I wrote a short proposal for something better: a single screen on which the editor reads the critical text, the apparatus and the manuscripts side by side, makes decisions by direct action, and has every decision written back into the TEI files while Saktumiva rebuilds the apparatus in the background. The <a href="https://sushrutaproject.github.io/saktumiva2-editor/">Saktumiva editor</a> is the result.</p>
+
+<h2 id="what-it-does">What it does</h2>
+
+<p>The screen has three parts. On the left is the list of passages. In the centre is the text of the current passage as it stands in the edition, with the apparatus below it. On the right is each witness’s text of the same passage, with a button that opens the image of the manuscript page.</p>
+
+<ul>
+  <li>Words that have variants are underlined. Pointing at a reading in the apparatus and pressing <strong>use</strong> puts it into the text. The passage is collated again, and the former reading takes its place among the variants.</li>
+  <li>The text can be typed into directly. A reading that no witness has can be recorded as an emendation, with its note.</li>
+  <li>To add a note, one selects a word and writes. The anchor and the note are created together with matching identifiers, so the cross-reference errors described in the <a href="https://sushrutaproject2.github.io/blog/2026/asset-tei-scholar-plugin/">previous post</a> cannot arise.</li>
+  <li>A mistake in a witness’s transcription can be corrected on the spot, in the witness’s own file.</li>
+  <li>When the automatic alignment of the witnesses has gone wrong, it can be corrected by hand, and the correction is kept through later collations.</li>
+  <li>Passages can be split and merged in the edition and in every witness file at once.</li>
+  <li><strong>Publish</strong> writes the edition with a fresh apparatus, ready to go online.</li>
+</ul>
+
+<h2 id="principles">Principles</h2>
+
+<p>A few decisions were made at the start and have proved their worth.</p>
+
+<p>The TEI files are the only real data. The screen is a view of them, and nothing is kept only in the program. A file opened in another editor after a session shows exactly what was done.</p>
+
+<p>Saving changes as little as possible. Only the elements that were edited are rewritten, and every other character of the file is left as it was.</p>
+
+<p>Every save is a commit in git, so that each editorial decision is recorded and can be undone. Nothing goes online until the editor chooses to push it.</p>
+
+<p>The collation is done by Saktumiva’s own code, running in the background on one passage at a time. A verse with five or six witnesses is a small problem, so the apparatus follows the editor’s changes almost at once.</p>
+
+<p>Everything runs on the editor’s own computer. The only traffic to the outside is the browser fetching manuscript images from the libraries’ servers.</p>
+
+<h2 id="using-it">Using it</h2>
+
+<p>The program was written for the <em>Suśrutasaṃhitā</em>, but nothing in it is specific to that work. It will open any project that is laid out as folders of TEI files; my colleagues and I are also using it for other texts. There are ready-made programs for Linux, macOS and Windows on the <a href="https://github.com/sushrutaproject/saktumiva2-editor/releases/latest">releases page</a>, and a <a href="https://github.com/sushrutaproject/saktumiva2-editor/blob/main/docs/tutorial.md">tutorial</a> for those who are new to Saktumiva, TEI or GitHub.  Bug reports and suggestions to <a href="https://github.com/sushrutaproject/saktumiva2-editor/issues">Issues</a>, please.</p>
+
+<p>The editor is under active development. It reached version 0.6.7 on 19 November, and members of the project are now using it for their daily editing. We are grateful to Charles Li, on whose work it entirely depends.</p>]]></content><author><name>Dominik Wujastyk</name></author><category term="SuśrutaProject" /><category term="assets" /><category term="Saktumiva" /><category term="TEI" /><category term="critical_edition" /><category term="software" /><category term="Claude" /><summary type="html"><![CDATA[A local program that shows the edition, its apparatus and the witnesses side by side, and writes every editorial decision back into the TEI files]]></summary></entry><entry><title type="html">TEI Scholar: A Plugin for Editing the Project’s XML Files</title><link href="https://sushrutaproject2.github.io/blog/2026/asset-tei-scholar-plugin/" rel="alternate" type="text/html" title="TEI Scholar: A Plugin for Editing the Project’s XML Files" /><published>2026-11-23T09:04:00+00:00</published><updated>2026-11-23T09:04:00+00:00</updated><id>https://sushrutaproject2.github.io/blog/2026/asset-tei-scholar-plugin</id><content type="html" xml:base="https://sushrutaproject2.github.io/blog/2026/asset-tei-scholar-plugin/"><![CDATA[<p>This post is one of a series on the items in the <a href="https://sushrutaproject2.github.io/resources/">Assets</a> menu of this website, which I have written over the last two months together with Claude.</p>
+
+<h2 id="the-problem">The problem</h2>
+
+<p>The Suśruta Project’s transcriptions and editions are TEI XML files. They are collated and published with Charles Li’s <a href="https://chchch.github.io/saktumiva/docs/">Saktumiva</a>. In a Saktumiva edition, an editor’s note on a passage is not typed at the place where it applies. A small <code>&lt;anchor&gt;</code> element is put in the text, and the note itself goes into a <code>&lt;standOff&gt;</code> element at the end of the file, connected to the anchor by matching identifiers:</p>
+
+<pre><code class="language-xml">&lt;anchor xml:id="SS.3.1.4-n1"/&gt;
+  ...
+&lt;standOff corresp="#SS.3.1.4" type="Note"&gt;
+    &lt;note xml:lang="en" target="#SS.3.1.4-n1"&gt;Text of the note.&lt;/note&gt;
+&lt;/standOff&gt;
+</code></pre>
+
+<p>This is a sound design, but it is laborious to do by hand. The editor has to invent an identifier, type it twice without a slip, and scroll to the end of a long file and back, perhaps hundreds of times in a chapter. Mistakes are inevitable. When we recently checked the provisional edition files of the <em>Suśrutasaṃhitā</em> we found about 110 problems of this kind: anchors without notes, notes without anchors, and duplicated identifiers.</p>
+
+<h2 id="what-the-plugin-does">What the plugin does</h2>
+
+<p><a href="https://sushrutaproject.github.io/TEI-scholar-Codium-plugin/">TEI Scholar</a> is an extension for the free editors VS Code and VSCodium. Its main purpose is to make a Saktumiva note behave like a footnote in a word processor. One presses a key at the point in the text where the note belongs, types the note in a pane at the bottom of the window, and saves it. The plugin creates the anchor and the note together, numbers them, and puts the note in the right place at the end of the file. Hovering over an anchor shows its note, and one can jump from an anchor to its note and back. Deleting the anchor deletes the note. Notes can be of different types, such as Note, Emendation and Testimonia, which Saktumiva displays separately.</p>
+
+<p>It does several other things that we found we wanted:</p>
+
+<ul>
+  <li>Hovering over any TEI element shows what it means, which attributes it takes and where it may be used, with a link to the TEI Guidelines.</li>
+  <li>Files are validated as one types, against the TEI schema or the project’s own. The validation is done by Red Hat’s XML extension, using the same validator as oXygen.</li>
+  <li>It warns about duplicate identifiers and about pointers to identifiers that do not exist.</li>
+  <li>A menu switches between font settings suited to markup, to IAST, to Devanāgarī, and to Tibetan and South Indian scripts.</li>
+  <li>Selected text can be converted between IAST, Devanāgarī, Harvard-Kyoto and Velthuis.</li>
+</ul>
+
+<h2 id="background">Background</h2>
+
+<p>For many years most of us have used the oXygen XML Editor, which is excellent, but it is a commercial program and its licence is a real cost for students and for colleagues without institutional support. VS Code and VSCodium are free and run on every system. What they lacked was a knowledge of the conventions of our files. The first version of the plugin was written in October 2026.</p>
+
+<p>The plugin is not specific to the <em>Suśrutasaṃhitā</em>. It should be useful to anybody editing TEI transcriptions of Sanskrit manuscripts, and especially to other users of Saktumiva. It can be downloaded from <a href="https://github.com/sushrutaproject/TEI-scholar-Codium-plugin">github.com/sushrutaproject/TEI-scholar-Codium-plugin</a>, where there are instructions for installing it.  Please post bugs or corrections to <a href="https://github.com/sushrutaproject/TEI-scholar-Codium-plugin/issues">Issues</a>.</p>
+
+<p>For those who would prefer not to see the XML at all, the next post in this series describes a different approach.</p>]]></content><author><name>Dominik Wujastyk</name></author><category term="SuśrutaProject" /><category term="assets" /><category term="TEI" /><category term="Saktumiva" /><category term="software" /><category term="Claude" /><summary type="html"><![CDATA[A VS Code and VSCodium extension that handles Saktumiva footnotes, TEI help, and fonts for Indian scripts]]></summary></entry><entry><title type="html">An Index to Singh and Chunekar’s Glossary of Vegetable Drugs in Bṛhattrayī</title><link href="https://sushrutaproject2.github.io/blog/2026/asset-singh-and-chunekar-glossary/" rel="alternate" type="text/html" title="An Index to Singh and Chunekar’s Glossary of Vegetable Drugs in Bṛhattrayī" /><published>2026-11-23T09:03:00+00:00</published><updated>2026-11-23T09:03:00+00:00</updated><id>https://sushrutaproject2.github.io/blog/2026/asset-singh-and-chunekar-glossary</id><content type="html" xml:base="https://sushrutaproject2.github.io/blog/2026/asset-singh-and-chunekar-glossary/"><![CDATA[<p>This post is one of a series on the items in the <a href="https://sushrutaproject2.github.io/resources/">Assets</a> menu of this website, which I have written over the last two months together with Claude.</p>
+
+<h2 id="the-book">The book</h2>
+
+<p>Thakur Balwant Singh and K. C. Chunekar’s <em>Glossary of Vegetable Drugs in Bṛhattrayī</em> (Varanasi: Chowkhamba Sanskrit Series Office, 1972) is one of the books that is always open on the desk of anyone translating Sanskrit medical literature. It lists every plant name in the <em>Carakasaṃhitā</em>, the <em>Suśrutasaṃhitā</em> and the <em>Aṣṭāṅgahṛdaya</em> in Nāgarī alphabetical order. For each name the authors give a discussion of the plant’s identity, often drawing on the commentators and on their own knowledge of the plants and of the drug markets, and then a list of every place in the three works where the name occurs.</p>
+
+<p>Those lists of occurrences are extremely valuable, but in a printed book they can only be used in one direction, from the plant name to the passages. One cannot ask the book which plants are mentioned in a particular chapter, or which Sanskrit names the authors connect with a particular botanical species, without a great deal of page turning.</p>
+
+<h2 id="the-index">The index</h2>
+
+<p>The <a href="https://sushrutaproject.github.io/glossaries/singh-chunekar-1972/">online index</a> makes these questions easy. It contains:</p>
+
+<ul>
+  <li>1,848 entries, with 2,187 headwords in Devanāgarī and IAST;</li>
+  <li>30,342 citations of the three works, each one parsed into text, <em>sthāna</em>, chapter and verse;</li>
+  <li>669 distinct botanical names.</li>
+</ul>
+
+<p>One can search by headword, by botanical name or by passage. Typing a reference such as Suśruta, Sūtrasthāna 38, shows every plant that Singh and Chunekar cite from that chapter.</p>
+
+<p>The book is still in copyright, so we have not reproduced its text. The repository holds index data only: headwords, page numbers, botanical names and citations. When an entry is opened, the search page shows that entry’s own part of the printed page, fetched directly from the <a href="https://archive.org/details/Singh-Chunekar-1972">scan at the Internet Archive</a> by means of IIIF. The authors’ discussion is therefore read in the original, as it should be.</p>
+
+<h2 id="how-it-was-made-and-how-far-to-trust-it">How it was made, and how far to trust it</h2>
+
+<p>All 568 pages of the scan were read by OCR. The headwords in the book are printed twice, once in Devanāgarī and once in spaced roman capitals, and this was a great help: the two readings were compared letter by letter, and each headword is marked according to whether they agree. About three quarters agree exactly, and about a tenth disagree and should be checked against the page image, which is always one click away.</p>
+
+<p>The citation numbers come from OCR of small type. Errors are rare but they exist, so please look at the scan before quoting a reference. The botanical names are those of the book, in the nomenclature of 1972.  Many formal botanical names have since changed under the supervision of the <a href="https://www.iaptglobal.org/">International Association for Plant Taxonomy</a>.  Wikipedia is a surprisingly excellent source of up-to-date plant names (e.g., <a href="https://en.wikipedia.org/wiki/Centella_asiatica">Centella asiatica (L.) Urban</a>).</p>
+
+<p>The data and the programs are at <a href="https://github.com/sushrutaproject/glossaries">github.com/sushrutaproject/glossaries</a>, together with a fuller account of the method. The repository is laid out so that other reference works on Indian materia medica can be added in the same way. Corrections are very welcome.</p>
+
+<p>For the scholarship, please cite the book itself.  Corrections to <a href="https://github.com/sushrutaproject/glossaries/issues">Issues</a>, please.</p>]]></content><author><name>Dominik Wujastyk</name></author><category term="SuśrutaProject" /><category term="assets" /><category term="materia_medica" /><category term="plants" /><category term="IIIF" /><category term="Claude" /><summary type="html"><![CDATA[A searchable concordance of headwords, botanical names and citations, linked to page images at the Internet Archive]]></summary></entry><entry><title type="html">Searching the SARIT and GRETIL Corpora</title><link href="https://sushrutaproject2.github.io/blog/2026/asset-sarit-and-gretil-search/" rel="alternate" type="text/html" title="Searching the SARIT and GRETIL Corpora" /><published>2026-11-23T09:02:00+00:00</published><updated>2026-11-23T09:02:00+00:00</updated><id>https://sushrutaproject2.github.io/blog/2026/asset-sarit-and-gretil-search</id><content type="html" xml:base="https://sushrutaproject2.github.io/blog/2026/asset-sarit-and-gretil-search/"><![CDATA[<p>This post is one of a series on the items in the <a href="https://sushrutaproject2.github.io/resources/">Assets</a> menu of this website, which I have written over the last two months together with Claude.</p>
+
+<h2 id="what-it-is">What it is</h2>
+
+<p><a href="https://wujastyk.github.io/SARIT-corpus/">SARIT and GRETIL Corpus Search</a> is a search page for two large collections of electronic texts in Sanskrit and other Indian languages.</p>
+
+<p>One can search for a phrase, for all or any of a set of words, or with a regular expression. The search can be told to ignore diacritics, word division, and the difference between anusvāra and the class nasals, which matters a great deal when the same word may have been typed <em>saṃkhyā</em> in one text and <em>saṅkhyā</em> in another. The search term can be typed in IAST, Devanāgarī, Harvard-Kyoto, Velthuis, SLP1 or ITRANS, and the results shown in IAST or Devanāgarī.</p>
+
+<p>Every hit comes with a scholarly reference to the text and the place in it, ready to be copied into a footnote. The results can be downloaded as a table.</p>
+
+<h2 id="background">Background</h2>
+
+<p>SARIT (“Search and Retrieval of Indic Texts”) is a library of Indian texts, mainly in Sanskrit, encoded according to the guidelines of the Text Encoding Initiative. I started it a long time ago, with technical help from Richard Mahoney. In 2013 Birgit Kellner and Sheldon Pollock joined, and the project grew considerably with support from the NEH/DFG Bilateral Digital Humanities Programme and the work of Patrick McAllister, Andrew Ollett, Jens Østergaard Petersen, Liudmila Olalde, Claudius Teodorescu, Dheepa Sundaram and others. The SARIT library includes several of the texts closest to our project, including the <em>Carakasaṃhitā</em> with Cakrapāṇidatta’s <em>Āyurvedadīpikā</em>, the <em>Aṣṭāṅgahṛdaya</em> and the <em>Aṣṭāṅgasaṅgraha</em>.</p>
+
+<p>GRETIL, the Göttingen Register of Electronic Texts in Indian Languages, was started by Reinhold Grünendahl in 2001 and is much the larger of the two collections. Since 2016, Maximilian Mehner and colleagues produced <a href="https://github.com/mmehner/gretil-corpus-tei">TEI/XML versions of its texts</a>, “Corpus TEI.”  Support for GRETIL was withdrawn by Göttingen University after 2020 and it is now a <a href="https://gretil.sub.uni-goettingen.de/gretil.html">static collection</a>.</p>
+
+<p>The texts of both collections have always been freely available. The difficulty has been the search. SARIT’s own search interface depended on a database server that somebody had to keep running, and such services are fragile once project funding has ended. For the Suśruta Project we need to be able to ask whether an unusual word or phrase in our manuscripts occurs anywhere else in Sanskrit literature, and we need the answer in a form that can be cited.</p>
+
+<h2 id="how-it-works">How it works</h2>
+
+<p>The new page has no server behind it. The texts are prepared for searching when the site is built, and the search itself is done in the reader’s browser. Because it is a static website it can be hosted free of charge and copied anywhere.</p>
+
+<p>The page is built from my fork of the SARIT repository, <a href="https://github.com/wujastyk/SARIT-corpus">github.com/wujastyk/SARIT-corpus</a>, and from a copy of the <a href="https://github.com/wujastyk/GRETIL-corpus">GRETIL TEI files</a>. The licence of each text is given in its own header and should be consulted before reuse. The About page of the site gives fuller credits for both collections.  Bugs and corrections to <a href="https://github.com/wujastyk/SARIT-corpus/issues">Issues</a> please.</p>]]></content><author><name>Dominik Wujastyk</name></author><category term="SuśrutaProject" /><category term="assets" /><category term="SARIT" /><category term="GRETIL" /><category term="TEI" /><category term="Claude" /><summary type="html"><![CDATA[A search page for the TEI texts of SARIT and GRETIL that runs in the browser and gives a citable reference for every hit]]></summary></entry><entry><title type="html">A Searchable Bibliography and Indexes of Materia Medica</title><link href="https://sushrutaproject2.github.io/blog/2026/asset-bibliographies-and-materia-medica/" rel="alternate" type="text/html" title="A Searchable Bibliography and Indexes of Materia Medica" /><published>2026-11-23T09:01:00+00:00</published><updated>2026-11-23T09:01:00+00:00</updated><id>https://sushrutaproject2.github.io/blog/2026/asset-bibliographies-and-materia-medica</id><content type="html" xml:base="https://sushrutaproject2.github.io/blog/2026/asset-bibliographies-and-materia-medica/"><![CDATA[<p>This post is one of a series on the items in the <a href="https://sushrutaproject2.github.io/resources/">Assets</a> menu of this website, which I have written over the last two months together with Claude.</p>
+
+<h2 id="what-it-is">What it is</h2>
+
+<p>The site <a href="https://wujastyk.github.io/bibliographies">Dominik Wujastyk’s Bibliographies</a> has two parts.</p>
+
+<p>The first is a searchable index of my working bibliography for Sanskrit studies, Āyurveda and South Asian textual history. It has about 6,700 entries. One can search it in plain text or with regular expressions, filter by type of publication, language and year, and sort by author, year or title.</p>
+
+<p>The second, under the tab <a href="https://wujastyk.github.io/bibliographies/materia-medica/">Materia medica</a>, searches the glossary databases of plants, animals and minerals that the Suśruta Project uses in its translations. At the time of writing there are about 750 plants, 220 animals and a handful of minerals. Each entry gives the Sanskrit name and the identification we have adopted, with references to the literature that supports it.</p>
+
+<h2 id="background">Background</h2>
+
+<p>I have kept my bibliography as a BibLaTeX file for many years, and it is the source of the citations in the project’s publications and on this website. Colleagues sometimes ask me for a reference, or for the file itself. The file has been in a public GitHub repository for a while, but a 4.6 megabyte plain-text file is not an inviting thing to consult. A search page seemed a better way of sharing it.</p>
+
+<p>The materia medica files have a more particular history. When translating the <em>Suśrutasaṃhitā</em> we meet hundreds of names of plants, and the identification of each one is a small research problem. Early in the project we decided to record our decisions in one place, so that a plant would be identified in the same way wherever it occurred and so that the evidence for the identification would be kept with it. The files are written for the LaTeX <em>glossaries-extra</em> package, which prints the glossary at the end of our translations. Until now, the only way to read them was in those printed glossaries or in the raw files. The new page makes them available to anyone who wants to know what we think <em>śleṣmātaka</em> is, and why.</p>
+
+<h2 id="how-it-works">How it works</h2>
+
+<p>A short script converts the BibLaTeX files into data files whenever the repository is updated, and the search is done by the reader’s browser. There is no server or database, so the site costs nothing to run and should need little maintenance.</p>
+
+<p>A word of caution. The citations are displayed in a simple author–date style that is generated automatically, and they have not been checked one by one. The bibliography is a working tool, with the gaps and inconsistencies that implies.  Bugs and suggestions to <a href="https://github.com/wujastyk/bibliographies/issues">Issues</a>, please.<br />
+The underlying files are at <a href="https://github.com/wujastyk/bibliographies">github.com/wujastyk/bibliographies</a> and are released into the public domain (CC0).</p>]]></content><author><name>Dominik Wujastyk</name></author><category term="SuśrutaProject" /><category term="assets" /><category term="bibliography" /><category term="materia_medica" /><category term="Claude" /><summary type="html"><![CDATA[Dominik Wujastyk's working bibliography and the project's plant, animal and mineral glossaries, searchable online]]></summary></entry><entry><title type="html">eTexts: Searching the Printed Editions of the Medical Classics</title><link href="https://sushrutaproject2.github.io/blog/2026/asset-etexts-search/" rel="alternate" type="text/html" title="eTexts: Searching the Printed Editions of the Medical Classics" /><published>2026-11-23T09:00:00+00:00</published><updated>2026-11-23T09:00:00+00:00</updated><id>https://sushrutaproject2.github.io/blog/2026/asset-etexts-search</id><content type="html" xml:base="https://sushrutaproject2.github.io/blog/2026/asset-etexts-search/"><![CDATA[<p>This is the first of a short series of posts describing the items in the <a href="https://sushrutaproject2.github.io/resources/">Assets</a> menu of this website. Over the last two months I have written a number of utilities and online services together with Claude, Anthropic’s AI system. Each was made to solve a problem that came up in the Suśruta Project’s daily work, and each seemed useful enough to share.</p>
+
+<h2 id="what-it-is">What it is</h2>
+
+<p><a href="https://sushrutaproject.github.io/eTexts/">eTexts</a> is a collection of digital reading editions of the classical Sanskrit medical treatises, each with its commentaries, in IAST transliteration:</p>
+
+<ul>
+  <li><em>Carakasaṃhitā</em>, with Cakrapāṇidatta’s commentary</li>
+  <li><em>Suśrutasaṃhitā</em>, with Ḍalhaṇa’s commentary (and Gayadāsa on the Nidānasthāna)</li>
+  <li><em>Aṣṭāṅgahṛdaya</em>, with the commentaries of Aruṇadatta and Hemādri</li>
+  <li><em>Mādhavanidāna</em>, with the <em>Madhukośa</em> and <em>Ātaṅkadarpaṇa</em></li>
+  <li><em>Śārṅgadharasaṃhitā</em>, with the commentaries of Āḍhamalla and Kāśīrāma</li>
+  <li><em>Aṣṭāṅgasaṅgraha</em>, mūla only</li>
+</ul>
+
+<p>These are the texts of the published editions, the printed books, what we call the vulgates (not Vulgate!), and not the result of our own critical editing. The About page of each text names the printed edition and the online source from which it was taken.</p>
+
+<h2 id="why-we-wanted-it">Why we wanted it</h2>
+
+<p>This tool arose directly out of the work of <a href="https://sushrutaproject.github.io">the Suśruta Project</a>.  When editing, translating and discussing the Nepalese version of the <em>Suśrutasaṃhitā</em>, we constantly need to look things up in the vulgate and in the other medical classics. Where else does this word occur? Does Caraka have a parallel to this passage? What did Ḍalhaṇa say about it, and did Cakrapāṇi say the same? The texts have been available online for years, most notably through the e-Saṃhitā pages of the National Institute of Indian Medical Heritage, but they are spread over several websites, each with its own interface, and some can only be searched in Devanāgarī or not searched across chapters at all.  While the content of the NIIMH sites is excellent, the websites themselves have been quite unstable in the past.</p>
+
+<p>What we wanted was a single, fast, stable search box for all of them.</p>
+
+<h2 id="how-it-works">How it works</h2>
+
+<p>The search page looks in the whole collection, in a single text, or in a single <em>sthāna</em> of a text. One can search the root text, the commentaries and the notes separately or together. Diacritics can be ignored, so that typing <em>dosa</em> finds <em>doṣa</em>, and regular expressions are available for those who like them. Clicking on a result opens the chapter with the matches highlighted. For the root text of the <em>Suśrutasaṃhitā</em>, each result also gives the page of the 1938 printed edition.</p>
+
+<p>The search runs entirely in the reader’s browser. There is no server and no database. The first search downloads the index of the collection, and after that searching is immediate.</p>
+
+<p>Each text can also be downloaded as a TEI XML file, either the root text alone or with its commentaries.</p>
+
+<h2 id="background">Background</h2>
+
+<p>The collection began in September 2026 as five separate websites, each built from pages gathered from an existing online edition. The TEI files were generated afterwards from those pages. In November we reversed the direction. The TEI file of each text is now the master copy, and the reading pages, the search index and the downloads are all generated from it automatically whenever the file changes. To correct a reading or improve the word division, one edits the TEI file and nothing else.</p>
+
+<p>A useful consequence is that a new text can be added by putting a TEI file into a new folder of the repository. The converter was tested on all the texts of the SARIT library as well as on our own files.</p>
+
+<p>The source is at <a href="https://github.com/sushrutaproject/eTexts">github.com/sushrutaproject/eTexts</a>. Corrections are welcome: please send them as <a href="https://github.com/sushrutaproject/eTexts/issues">Issues</a>.</p>]]></content><author><name>Dominik Wujastyk</name></author><category term="SuśrutaProject" /><category term="assets" /><category term="eTexts" /><category term="TEI" /><category term="Ayurveda" /><category term="Claude" /><summary type="html"><![CDATA[Reading editions of six Sanskrit medical works with their commentaries, in IAST, with one search across them all]]></summary></entry><entry><title type="html">A Visit to Mahesh Raj Pant at the Saṃśodhana Maṇḍala, Kathmandu</title><link href="https://sushrutaproject2.github.io/blog/2026/visit-to-the-samshodhana-mandal/" rel="alternate" type="text/html" title="A Visit to Mahesh Raj Pant at the Saṃśodhana Maṇḍala, Kathmandu" /><published>2026-11-05T03:15:00+00:00</published><updated>2026-11-05T03:15:00+00:00</updated><id>https://sushrutaproject2.github.io/blog/2026/visit-to-the-samshodhana-mandal</id><content type="html" xml:base="https://sushrutaproject2.github.io/blog/2026/visit-to-the-samshodhana-mandal/"><![CDATA[<p>On 30 September 2026 we were invited by Prof. Diwakar Acharya to visit Mahesh Raj Pant at the Saṃśodhana Maṇḍala, the research institute founded by his father in Kathmandu. We were kindly received and deeply impressed by his wide knowledge of international scholarship and scholars. We were also impressed by his library, and by the work now under way to digitize his manuscript collection and publish the manuscript images on the internet.</p>
 
 <div class="row justify-content-center">
   <div class="col-sm-5 mt-3 mt-md-0">
@@ -189,731 +410,4 @@ an insertion in the TEI code of the draft transcript. This passage does not fit 
   <li><a href="https://www.ayurvedainnepal.com/introduction/mana-bajra-bajracharya/">Mana Bajra Bajracharya</a>, Ayurveda in Nepal</li>
   <li><a href="https://eap.bl.uk/">Endangered Archives Programme</a>, British Library</li>
   <li><a href="https://nextcloud.computecanada.ca/index.php/s/yfwp8XFRtmnQ8Mr?dir=%2F00%20not%20in%20Biswas%2FKathmandu%20-%20private%20collection">2014 Handlist of manuscripts</a></li>
-</ul>]]></content><author><name>Jason Birch</name></author><category term="Kathmandu" /><category term="Suśrutasaṃhitā" /><category term="Carakasaṃhitā" /><category term="Ayurveda" /><category term="manuscripts" /><summary type="html"><![CDATA[Jason Birch visited the manuscript collection of the ayurvedic doctor Madhu Bajra Bajracharya]]></summary></entry><entry><title type="html">A Visit to the Sanjay Sharma Museum, Jaipur</title><link href="https://sushrutaproject2.github.io/blog/2026/sanjay-sharma-museum-jaipur/" rel="alternate" type="text/html" title="A Visit to the Sanjay Sharma Museum, Jaipur" /><published>2026-10-25T00:00:00+00:00</published><updated>2026-10-25T00:00:00+00:00</updated><id>https://sushrutaproject2.github.io/blog/2026/sanjay-sharma-museum-jaipur</id><content type="html" xml:base="https://sushrutaproject2.github.io/blog/2026/sanjay-sharma-museum-jaipur/"><![CDATA[<p>On Sunday, 11 October 2026, the two of us — Dominik Wujastyk and Jason Birch — made our first visit to the <strong>Shree Sanjay Sharma Museum and Research Institute</strong> in Jaipur. The museum stands on the Amer Road at Gujarghati, Parasrampuri, looking across the lake to the Jal Mahal. We came with two questions in mind: what manuscripts of the <em>Suśrutasaṃhitā</em> does the collection hold, and are there illustrated manuscripts on alchemy (<em>rasaśāstra</em>)?</p>
-
-<p><img src="/assets/img/Dominik and Jason in front of the Sanjay Sharma Museum.jpg" alt="The museum building on the Amer Road. " />
-<em>The museum building on the Amer Road, opposite the Jal Mahal. (Image: Dominik Wujastyk and Jason Birch)</em></p>
-
-<p>We were warmly received by <strong>Chaitanya Sharma</strong>, grandson of the museum’s founder, <strong>Ram Kṛpālu Sharma</strong>, who took us through the galleries.  Chaitanya’s  father, <strong>Shri Tilak Sharma</strong>, the Director of the Museum, joined us later and the following day.</p>
-
-<h2 id="a-collection-that-began-with-four-manuscripts">A collection that began with four manuscripts</h2>
-
-<p>The museum’s origins are literary. In the 1950s Ram Kṛpālu Sharma, who began his career as a schoolteacher, struggled to get his own writings published: a book of prose and verse, <em>Prāñjali</em>, appeared only after great difficulty, and a second, <em>Vāṅmayī</em>, never saw print for lack of funds. That experience led him, from 1955, to start collecting and preserving manuscripts — beginning with just four. The collection was first known as the Sharma Grantha Saṅgrahālaya. After the untimely death of his younger son, and Tilak’s brother, Sanjay Sharma, in 1982, it took its present name. With his wife Padmavati Sharma and the wider family, the founder went on to build the museum and library collections, and the institution remains a private, family-run foundation.</p>
-
-<p>The family now describes the collection as numbering around a hundred thousand manuscripts, together with artefacts that illustrate their subjects. According to the <a href="https://shop.museumsofindia.org/node/403">Museums of India</a> listing, the holdings span more than 200 subjects in some 16 languages and scripts — among them Brāhmī, Śāradā, Tibetan, Arabic, Persian, Tirhutā, Bengali, Telugu, Gujarati, Oriya, Gurmukhi and Devanāgarī — on palm leaf, birch bark and paper. Subject areas named include Vedic literature, <em>jyotiṣa</em>, <em>tantra</em>, <em>dhanurveda</em>, āyurveda and medicine, and “alchemy and chemistry”.</p>
-
-<p><img src="/assets/img/art1-1-300x240.jpg" alt="Glass-fronted cabinets of manuscripts in the museum library" />
-<em>Manuscript cabinets in the library. (Image: Sanjay Sharma Museum.)</em></p>
-
-<h2 id="the-galleries">The galleries</h2>
-
-<p><img src="/assets/img/art7-1.jpg" alt="A gallery hung with paintings, with porcelain and a silver swing in a central display case" />
-<em>One of the painting galleries, with porcelain and a silver swing (hiṇḍolā) in the central case. (Image: Sanjay Sharma Museum.)</em></p>
-
-<p>We were stunned by the extent and quality of the manuscripts, paintings and artifacts on display in the museum’s numerous spacious and marble-tiled galleries.  Any visitor to Jaipur with an interest in Indian history and culture must not leave without a visit to this extraordinary collection.</p>
-
-<p>The museum is laid out in several galleries: glass painting and porcelain; miniature painting (fifteenth to nineteenth centuries, from Jaipur, Kishangarh, Kota, Bundi, Bikaner, Nathdwara and elsewhere); textiles and costumes, largely from the Jaipur court; cloth paintings and <em>picchvāī</em>s; an art gallery; illustrated manuscripts; and the manuscript library itself.</p>
-
-<p><img src="/assets/img/art10-1-300x240.jpg" alt="A long pillared gallery lined with large framed cloth paintings" />
-<em>The long gallery of large cloth paintings. (Image: Sanjay Sharma Museum.)</em></p>
-
-<p><img src="https://shop.museumsofindia.org/sites/default/files/2017-11/08_1.JPG" alt="A Devanāgarī manuscript page, Jaipur, dated 1588 CE" />
-<em>A Devanāgarī manuscript from Jaipur, dated 1588 CE. (Image: Museums of India.)</em></p>
-
-<figure class="profile left" style="max-width: 250px;">
-  <a href="https://shop.museumsofindia.org/sites/default/files/2017-11/07_1.JPG" class="zoom"><img src="https://shop.museumsofindia.org/sites/default/files/2017-11/07_1.JPG" alt="Painting of the fourteen worlds from the Viśvavijñāna-citrāvalī, Jaipur, 1895" class="rounded z-depth-1" loading="lazy" /></a>
-  <figcaption>The fourteen worlds (<em>caturdaśabhuvana</em>), Jaipur, 1895. (Image: Museums of India.)</figcaption>
-</figure>
-
-<p>Among the illustrated material is a late nineteenth-century cosmological painting from Jaipur depicting the fourteen worlds (<em>caturdaśabhuvana</em>), from a series catalogued as the <em>Viśvavijñāna-citrāvalī</em> (1895).</p>
-
-<div style="clear: both;"></div>
-
-<figure class="profile" style="max-width: 250px;">
-  <a href="https://shop.museumsofindia.org/sites/default/files/2017-11/09_1.JPG" class="zoom"><img src="https://shop.museumsofindia.org/sites/default/files/2017-11/09_1.JPG" alt="Śani-yantra, Marwar, 18th century" class="rounded z-depth-1" loading="lazy" /></a>
-  <figcaption>Śani-yantra, Marwar, 18th century. (Image: Museums of India.)</figcaption>
-</figure>
-
-<p>The <em>tantra</em> holdings include <em>yantra</em>s such as an eighteenth-century Śani-yantra from Marwar.</p>
-
-<p>In the Museum, photography is strictly prohibited, so we are unfortunately unable to illustrate any of the following remarks.</p>
-
-<h2 id="what-we-were-looking-for">What we were looking for</h2>
-
-<h3 id="the-suśrutasaṃhitā">The <em>Suśrutasaṃhitā</em></h3>
-
-<p>As the <a href="https://sushrutaproject2.github.io">Suśruta Project website</a> explains, our project is focused on the textual and doctrinal differences between <em>The Compendium</em> as it existed in the earliest manuscript of 878 CE and the later “vulgate” version that was edited and reshaped by medieval commentators over the centuries.  Manuscripts matter to the project, helping us to understand the history of this foundational work of medicine.  We are trying to include as many manuscripts as possible in our research.</p>
-
-<div style="clear: both;"></div>
-
-<p>During our visit on 11 and 12 October, we saw a <em>Suśrutasaṃhitā</em> manuscript on display, but unfortunately we were not permitted to examine it.  It is numbered <a href="https://panditproject.org/node/117021">MS Jaipur Sanjay Sharma Museum RN4MSS 4720</a>.  The single leaf on display had text that appeared to be a commentary on the main work, in a section about the Ayurvedic concept of “appropriateness” (Skt. <em>sātmya</em>).  One passage cited the author Caraka.  On the second day of our visit, Shri Tilak Sharma, the Museum’s Director, shared with us a photocopy of the last two folios of the manuscript. They showed it to be the ending of the last chapter of the Uttaratantra, with the final “Candraṭa”  verse that we have discussed in <a href="https://sushrutaproject2.github.io/blog/2026/candrata/">another blog</a>.   We hope the Museum will see a way to share a digital image of the whole MS with us in due course.</p>
-
-<h3 id="illustrated-rasaśāstra">Illustrated <em>rasaśāstra</em></h3>
-
-<p>Professor Dagmar Wujastyk has been researching the history of Indian alchemy for several years.  She has published several research articles on the history of rasaśāstra and on illustrated rasaśāstra manuscripts <a class="citation" href="#wujad-2024">(Wujastyk, 2024)</a>. Her most recent book on the history of Indian alchemy was published by Oxford University Press in 2025 <a class="citation" href="#wujad-2025">(Wujastyk, 2025)</a>.  Professor Wujastyk had asked me to look out for illustrated alchemical manuscripts and I was delighted to see a richly illustrated copy of an unnamed alchemical rasaśāstra text in bhāṣā in one of the display cabinets. However, photography was not allowed and for the time being, since manuscripts are not being made available for study, research has to stop there.</p>
-
-<h2 id="next-steps">Next steps</h2>
-
-<p>This was not my first visit to the Museum. In 2011, while working on the Vienna project on the <em>Carakasaṃhitā</em>, I visited the Museum in its former premises inside the Pink City.  I went there to buy Ram Kṛpālu Sharma’s catalogue of the Museum’s Hindi manuscripts, a fine book with good illustrations. Shri Tilak Sharma kindly showed me some of the rooms that were then being reorganised, among them a room with fifteen to twenty almirahs (cupboards) full of manuscripts, two of them holding palm-leaf manuscripts alone. The collection was in the middle of a move, and there was as yet no way of searching it systematically. When I asked about manuscripts of the <em>Carakasaṃhitā</em>, I was assured that a collection of this size, one of the largest in India, would certainly contain them: Shri Ram Kṛpālu Sharma recalled one complete copy and several partial ones, probably of the eighteenth or nineteenth century. We parted on warm terms, having even discussed the idea of preparing, with Ram Kṛpālu Sharma and perhaps David White, a catalogue of the Museum’s richly illustrated <em>rasaśāstra</em> manuscripts.  The Caraka Project came to an end some years ago and funding ended for the project, so the chance to collaborate with the Sanjay Sharma Museum remained unfulfilled.</p>
-
-<p>Director Tilak Sharma said that there was no handlist of the 125,000 manuscripts in the collection, so it is difficult to know whether there are more copies of the <em>Suśrutasaṃhitā</em>, <em>Rasaratnākara</em>, or other interesting works in the collection.   As in 2011, it seems very likely that the library holds a substantial body of Āyurvedic manuscripts, including copies of the <em>Carakasaṃhitā</em> and other classic works.</p>
-
-<p>The Museum is negotiating with <a href="https://gyanbharatam.gov.in/">Gyan Bharatam</a>, and it is to be hoped that a mutually beneficial MOU can be signed in the future that will help the library collection become accessible to research scholars.</p>
-
-<h2 id="visiting">Visiting</h2>
-
-<p>The museum is open daily from 9:00 am to 5:30 pm; allow one to two hours. Photography is not permitted inside. Contact details are on the <a href="https://www.sanjaymuseum.com/">museum’s website</a>.</p>
-
-<h2 id="online-sources">Online sources</h2>
-
-<ul>
-  <li><a href="https://shop.museumsofindia.org/node/403">Shree Sanjay Sharma Museum &amp; Research Institute — Museums of India</a></li>
-  <li><a href="https://www.sanjaymuseum.com/museum-info/">Museum Info — Sanjay Museum</a></li>
-</ul>
-
-<h2 id="references">References</h2>
-
-<div class="post-bibliography">
-<ol class="bibliography"><li><div class="bib-entry">
-  <div class="bib-ref"><span id="wujad-2025">Wujastyk, D. (Ed.). (2025). <i>Indian Alchemy: Sources and Contexts</i>. Oxford University Press. https://doi.org/10/hcpvqp</span></div>
-  <div class="bib-links"><a href="https://doi.org/10/hcpvqp">DOI</a>
-    <details><summary>BibTeX</summary><pre>@book{wujad-2025,
-  editor = {Wujastyk, Dagmar},
-  publisher = {Oxford University Press},
-  title = {Indian Alchemy: Sources and Contexts},
-  year = {2025},
-  address = {New York},
-  isbn = {9780197805800},
-  month = aug,
-  date = {2025},
-  doi = {10/hcpvqp}
-}
-</pre></details>
-  </div>
-</div>
-</li>
-<li><div class="bib-entry">
-  <div class="bib-ref"><span id="wujad-2024">Wujastyk, D. (2024). The Forge and the Crucible. In P. A. Maas &amp; A. Cerulli (Eds.), <i>Suhṛdayasaṃhitā. A Compendium of Studies on South Asian Culture, Philosophy, and Religion. Dedicated to Dominik Wujastyk</i> (pp. 127–163). Heidelberg Asian Studies Publishing. https://doi.org/10/hcpvqn</span></div>
-  <div class="bib-links"><a href="https://doi.org/10/hcpvqn">DOI</a>
-    <details><summary>BibTeX</summary><pre>@incollection{wujad-2024,
-  author = {Wujastyk, Dagmar},
-  booktitle = {Suhṛdayasaṃhitā. A Compendium of Studies on South Asian Culture, Philosophy, and Religion. Dedicated to Dominik Wujastyk},
-  publisher = {Heidelberg Asian Studies Publishing},
-  title = {The Forge and the Crucible},
-  year = {2024},
-  address = {Heidelberg},
-  chapter = {5},
-  editor = {Maas, Philipp A. and Cerulli, Anthony},
-  pages = {127--163},
-  doi = {10/hcpvqn}
-}
-</pre></details>
-  </div>
-</div>
-</li></ol>
-</div>]]></content><author><name>Dominik Wujastyk</name></author><category term="manuscripts" /><category term="fieldwork" /><category term="Jaipur" /><category term="Suśrutasaṃhitā" /><category term="rasaśāstra" /><category term="āyurveda" /><category term="Rajasthan" /><category term="Sanjay-Sharma-Museum" /><summary type="html"><![CDATA[On 11 October 2026 we visited the Shree Sanjay Sharma Museum and Research Institute in Jaipur, in search of manuscripts of the Suśrutasaṃhitā and illustrated works on Indian alchemy.]]></summary></entry><entry><title type="html">A Visit to the Āmer Śāstra Bhaṇḍār, Jaipur</title><link href="https://sushrutaproject2.github.io/blog/2026/visit-to-the-Amer-Sastra-Bhandar/" rel="alternate" type="text/html" title="A Visit to the Āmer Śāstra Bhaṇḍār, Jaipur" /><published>2026-10-12T03:30:00+00:00</published><updated>2026-10-12T03:30:00+00:00</updated><id>https://sushrutaproject2.github.io/blog/2026/visit-to-the-Amer-Sastra-Bhandar</id><content type="html" xml:base="https://sushrutaproject2.github.io/blog/2026/visit-to-the-Amer-Sastra-Bhandar/"><![CDATA[<p>On 12 October 2026, Jason Birch and I visited the Āmer Śāstra Bhaṇḍār in Jaipur, a Digambara Jain manuscript library. Our aim was to see a manuscript of the <em>Suśrutasaṃhitā</em> that had been recorded there in the mid-twentieth century.</p>
-
-<h2 id="the-library">The library</h2>
-
-<p>The Āmer Śāstra Bhaṇḍār has been housed in several places in Rajasthan over its history. It was formerly known as the Bhaṭṭāraka Devendrakīrti Bhaṇḍār and was originally kept in the Digambara Jain temple of Neminātha at Amber. It was later moved to the Mahāvīra Jaina Bhavana in Jaipur, and then to Śrī Mahāvīrjī.</p>
-
-<p>Today the collection is hosted by the Apabhraṃśa Sāhitya Akādamī evaṃ Pustakālaya (the Apabhraṃśa Literary Academy and Library), an institution of the Digambar Jain Atishay Kshetra Shri Mahaviraji dedicated to teaching Apabhraṃśa, the language of many Jain literary and religious works. The address is <a href="https://maps.app.goo.gl/VnTJ1jh2jxebgD6m8">Block B, Malviya Nagar, Jaipur, Rajasthan 302017</a>, not far from Jaipur’s airport.</p>
-
-<div class="row justify-content-center">
-  <div class="col-sm-5 mt-3 mt-md-0">
-    <figure class="figure"><a href="/assets/img/2026-10-12-apabhramsa-akademi-entrance.jpeg" class="zoom"><img src="/assets/img/2026-10-12-apabhramsa-akademi-entrance.jpeg" class="img-fluid rounded z-depth-1" alt="The front of the Sanmati Bhavan building, with Hindi inscriptions naming the Apabhraṃśa Sāhitya Akādamī evaṃ Pustakālaya" loading="eager" /></a>
-  <figcaption class="caption">The Sanmati Bhavan, home of the Apabhraṃśa Sāhitya Akādamī evaṃ Pustakālaya, Malviya Nagar, Jaipur.</figcaption>
-</figure>
-
-  </div>
-  <div class="col-sm-7 mt-3 mt-md-0">
-    <figure class="figure"><a href="/assets/img/2026-10-12-apabhramsa-akademi-interior.jpeg" class="zoom"><img src="/assets/img/2026-10-12-apabhramsa-akademi-interior.jpeg" class="img-fluid rounded z-depth-1" alt="An interior atrium with galleries on two floors and glass balustrades" loading="eager" /></a>
-  <figcaption class="caption">Inside the Akādamī.</figcaption>
-</figure>
-
-  </div>
-</div>
-
-<h2 id="catalogues-and-studies">Catalogues and studies</h2>
-
-<p>The library was catalogued by Kastūrcanda Kāslīvāl in 1949, in the first volume of his <em>Rājasthān ke Jaina Śāstra Bhaṇḍārom kī grantha sūcī</em> (Biswas, no. 0891, vol. 1):</p>
-
-<figure class="figure"><a href="/assets/img/biswas-0891-kaslivala-1949.png" class="zoom"><img src="/assets/img/biswas-0891-kaslivala-1949.png" class="img-fluid rounded z-depth-1" alt="Entry 0891 in the Biswas bibliography of Indic manuscript catalogues, describing Kasliwal&#39;s 1949 catalogue of the Amer Sastra Bhandara" loading="lazy" /></a>
-  <figcaption class="caption">The entry for Kāslīvāl's 1949 catalogue in Biswas's bibliography of Indic manuscript catalogues.</figcaption>
-</figure>
-
-<p>A year later Kāslīvāl published a companion volume, the <em>Praśasti Saṅgraha</em>, collecting the colophons (<em>praśasti</em>) of manuscripts in the same collection (Biswas, no. 0427):</p>
-
-<figure class="figure"><a href="/assets/img/biswas-0427-kaslivala-1950.png" class="zoom"><img src="/assets/img/biswas-0427-kaslivala-1950.png" class="img-fluid rounded z-depth-1" alt="Entry 0427 in the Biswas bibliography, describing Kasliwal&#39;s Prasasti Sangraha of 1950" loading="lazy" /></a>
-  <figcaption class="caption">The entry for Kāslīvāl's <em>Praśasti Saṅgraha</em> (1950) in Biswas's bibliography.</figcaption>
-</figure>
-
-<p>Important contemporary information on the library, its contents and its history is given by Ulrich Timme Kragh:</p>
-
-<ul>
-  <li>Kragh, Ulrich Timme (2013), ‘<a href="https://www.soas.ac.uk/sites/default/files/2022-06/Localized%20Literary%20History%20Sub-text%20and%20Cultural%20Heritage%20in%20the%20%C4%80mer%20%C5%9A%C4%81strabha%E1%B9%87%E1%B8%8D%C4%81r%2C%20A%20Digambara%20Manuscript%20Repository%20in%20Jaipur%20file86526.pdf">Localized Literary History: Sub-Text and Cultural Heritage in the Āmer Śāstrabhaṇḍār, a Digambara Manuscript Repository in Jaipur</a>’, <em>International Journal of Jaina Studies</em> 9/3: 1–53.</li>
-  <li>Kragh, Ulrich Timme, and Abhishek Jain (2019), ‘A Preliminary Study on the Indian Grammar Manuscripts of the Āmer Śāstrabhaṇḍār in Jaipur’, <em>Przegląd Orientalistyczny</em> 2019/1: 3–21.</li>
-</ul>
-
-<h2 id="the-suśrutasaṃhitā-manuscript">The Suśrutasaṃhitā manuscript</h2>
-
-<p>Kāslīvāl’s list (p. 154) records a single manuscript of the <em>Suśrutasaṃhitā</em>, containing only the Kalpasthāna, in 21 folios:</p>
-
-<figure class="figure"><a href="/assets/img/kaslivala-susrutasamhita-entry.png" class="zoom"><img src="/assets/img/kaslivala-susrutasamhita-entry.png" class="img-fluid rounded z-depth-1" alt="A faint printed Hindi catalogue entry headed Suśrutasaṃhitā" loading="lazy" /></a>
-  <figcaption class="caption">Kāslīvāl's entry for the <em>Suśrutasaṃhitā</em> manuscript.</figcaption>
-</figure>
-
-<p>The entry reads:</p>
-
-<blockquote>
-  <p>भाषा-संस्कृत। पत्र संख्या २१. साइज १०॥×४॥ इञ्च। लिपि संवत् १७०२. केवल कल्पस्थान ही है।</p>
-</blockquote>
-
-<p>That is: language Sanskrit; 21 folios; size 10½ × 4½ inches; copied in Saṃvat 1702 (1645/46 CE); contains only the Kalpasthāna.</p>
-
-<h2 id="our-visit">Our visit</h2>
-
-<p>At the library we met the Director, Smt. Shakuntala Jain, who received us kindly.</p>
-
-<div class="row justify-content-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    <figure class="figure"><a href="/assets/img/2026-10-12-amer-wujastyk-birch-jain.jpeg" class="zoom"><img src="/assets/img/2026-10-12-amer-wujastyk-birch-jain.jpeg" class="img-fluid rounded z-depth-1" alt="Dominik Wujastyk, Jason Birch and Shakuntala Jain seated in an office" loading="eager" /></a>
-  <figcaption class="caption">L–R: Dominik Wujastyk, Jason Birch, Smt. Shakuntala Jain.</figcaption>
-</figure>
-
-  </div>
-</div>
-
-<p>Unfortunately, the manuscript recorded in Kāslīvāl’s catalogue is no longer in the collection. Smt. Jain produced a handwritten list of the Āyurvedic titles held in the library, and the <em>Suśrutasaṃhitā</em> was not among them. We were not able to photograph the list. It seems, sadly, that <a href="https://panditproject.org/entity/109390/manuscript">MS Jaipur Āmer Śāstra Bhaṇḍār Kāslīvāl 154</a> was lost at some time between 1950 and 2026.</p>
-
-<p>We thank Smt. Shakuntala Jain for her welcome and for her help in searching the collection.</p>]]></content><author><name>Dominik Wujastyk</name></author><category term="manuscripts" /><category term="Jaipur" /><category term="Rajasthan" /><category term="Jain" /><category term="Amer-Sastra-Bhandar" /><category term="Kalpasthāna" /><summary type="html"><![CDATA[Looking for a seventeenth-century manuscript of the Kalpasthāna of the Suśrutasaṃhitā in a Digambara Jain library in Jaipur]]></summary></entry><entry><title type="html">Candraṭa’s editing of the Suśrutasaṃhitā, updated October 2026</title><link href="https://sushrutaproject2.github.io/blog/2026/candrata/" rel="alternate" type="text/html" title="Candraṭa’s editing of the Suśrutasaṃhitā, updated October 2026" /><published>2026-10-12T00:00:00+00:00</published><updated>2026-10-12T00:00:00+00:00</updated><id>https://sushrutaproject2.github.io/blog/2026/candrata</id><content type="html" xml:base="https://sushrutaproject2.github.io/blog/2026/candrata/"><![CDATA[<h2 id="update-of-2026-new-example-from-the-sanjay-sharma-museum-jaipur">Update of 2026: new example from the Sanjay Sharma Museum, Jaipur</h2>
-
-<p>To the original blog post (below), we can now add the colophon of
-<a href="https://panditproject.org/node/117021">MS Jaipur Sanjay Sharma Museum RN4MSS 4720</a>:</p>
-
-<div class="row">
-<div class="col-sm mt-3 mt-md-0">
-<figure class="figure"><img src="/assets/img/MS%20Jaipur%20SSM%20RN4MSS%204720.png" class="img-fluid rounded z-depth-1" alt="" title="Last folio of MS Jaipur Sanjay Sharma Museum RN4MSS 4720 ." loading="eager" />
-</figure>
-
-</div></div>
-
-<blockquote>
-  <p><em>sauśrute caṃdraṭeneha bhiṣakṭīsaṭasūnunā
-pāṭhaśuddhiḥ kṛtā taṃtro | ṭīkām ālokya jaijjaṭīṃ|
-iti sauśrute āyurvedaśāstre uttarasthānaṃ samāptaṃ // 1 // saṃ 1688 varṣe nabhasi mā</em></p>
-</blockquote>
-
-<p>The reading “tantro” for “tantre” is probably the scribe’s mistaken inclusion of the following daṇḍa in the syllable: तन्त्रे॥ -&gt; तन्त्रो।</p>
-
-<h2 id="original-post-of-september-2024">Original post of September 2024</h2>
-
-<p><a href="https://www.panditproject.org/entity/40937/person">Candraṭa</a> was a Sanskrit author on medical topics who lived in the period 900-1050 CE <a class="citation" href="#meul-hist">(Meulenbeld, 1999, pp. IIA: 122–125)</a>. He is perhaps best known for writing a commentary on his father Tīsaṭa’s treatise, <em><a href="https://www.panditproject.org/entity/42163/work">Cikitsākalikā</a></em>. But Candraṭa wrote several other works, and of most relevance to our project is his “Editorial Corrections to the Suśruta text” (<em><a href="https://www.panditproject.org/entity/108174/work">Suśrutapāṭhaśuddhi</a></em>). Candraṭa himself said that he created this work, in a verse included at the end of his commentary on the <em>Cikitsākalikā</em>:</p>
-
-<blockquote>
-  <p><em>cikitsākalikāṭīkāṃ yogaratnasamuccayam/<br />
-suśrute pāṭhaśuddhiṃ ca tritayaṃ candraṭo vyadhat//</em></p>
-
-  <p>“I created the following three works: the commentary on the <em>Cikitsākalikā</em>, the <em>Yogaratnasamuccaya</em> and the <em>Suśrutapāṭhaśuddhi</em> (`Correction of the Text of the Suśruta’).”</p>
-
-  <p><cite>— MS Oxford Bodleian Library Fraser 21 <a class="citation" href="#aufr-1864">(Aufrecht, 1864, pp. 358, entry no. 852)</a>, dated 1530 CE.</cite></p>
-</blockquote>
-
-<p>An authorial statement is also found in some colophons of the <em>Suśrutapāṭhaśuddhi</em> itself, as is shown on f. 59 of <a href="https://www.panditproject.org/entity/108178/manuscript">MS London IOLR Taylor 1842</a> (Eggeling catalogue no. 2646):</p>
-
-<div class="row">
-<div class="col-sm mt-3 mt-md-0">
-<figure class="figure"><img src="/assets/img/Screenshot-from-2023-07-03-19-42-28-1024x193.png" class="img-fluid rounded z-depth-1" alt="" title="f. 59 of MS London IOLR Taylor 1842." loading="eager" />
-</figure>
-
-</div></div>
-
-<blockquote>
-  <p>[corrected transcription:] &gt; <em>sauśrute caṃdraṭeneha bhiṣakṭīsaṭasūnunā /<br />
-pāṭhaśuddhiḥ kṛtā taṃtre ṭīkām ālokya jaijjaṭīṃ //</em></p>
-
-  <p>“The correction of readings (<em>pāṭhaśuddhi</em>) in the treatise of Suśruta was done by Candraṭa the son of the doctor Tīsaṭa, after studying the commentary of Jejjaṭa.”</p>
-</blockquote>
-
-<p>Another MS that has the same statement is <a href="https://panditproject.org/entity/108211/manuscript">MS Bikaner Anup 4391</a> (Kunhan Raja Catalogue p. 337):</p>
-
-<div class="row">
-<div class="col-sm mt-3 mt-md-0">
-<figure class="figure"><img src="/assets/img/image-4-1024x132.png" class="img-fluid rounded z-depth-1" alt="" title="MS Bikaner Anup 4391." loading="eager" />
-</figure>
-
-</div></div>
-
-<p>In an undated manuscript of the <em>Suśrutasaṃhitā</em>, śārīrasthāna, from Kurukṣetra, we find the same text in a section colophon, but in a slightly expanded form (<a href="https://www.panditproject.org/entity/113349/manuscript">MS Kurukṣetra Jawaharlal Nehru Library 19786</a>, f. 78v):</p>
-
-<div class="row">
-<div class="col-sm mt-3 mt-md-0">
-<figure class="figure"><img src="/assets/img/image-1024x154.png" class="img-fluid rounded z-depth-1" alt="" title="MS Kurukṣetra Nehru Library 19786." loading="eager" />
-</figure>
-
-</div></div>
-
-<blockquote>
-  <p><em>sūtrasthānaṃ nidānena śārīreṇa samanvitaṃ /<br />
-samāptaṃ vai turīyaṃ te vakṣyāmy atra cikitsitaṃ //<br />
-sauśrute caṃdraṭeneha bhiṣakṭīsaṭasūnunā /<br />
-pāṭhaśuddhiḥ kṛtā taṃtre ṭīkām ālokya jaijjaṭīṃ // ḥ // śrīḥ//</em></p>
-
-  <p>“The sūtrasthāna has been completed, with the nidāna and śārīra sthānas, and I will explain the fourth, the cikitsāsthāna. The <em>Correction of Readings</em> (<em>pāṭhaśuddhi</em>) in the treatise of Suśruta was done by Candraṭa the son of the doctor Tīsaṭa, after studying the commentary of Jejjaṭa.”</p>
-</blockquote>
-
-<p>The Kurukṣetra colophon above has the extra initial statement, “I will explain (<em>vakṣyāmi</em>).” It is not clear whose voice this is. Is it the scribe? But <em>vakṣyāmi</em> is normally an authorial expression, where a scribe would be more likely to say something like <em>likhyate mayā</em>. The second statement, which is the same as that of the London MS, is more straightforward: Candraṭa wrote <em>The Correction of Readings</em>. This sounds like a statement by Candraṭa himself. However, this raises the question of why the statement appears at the end of the Kurukṣetra manuscript, which contains only the <em>Suśrutasaṃhitā</em>, and does not include Candraṭa’s work. However, it is definitely of interest that the scribe of the Kurukṣetra manuscript was aware of Candraṭa’s work and thought of it as a relevant reference to raise in the context of a manuscript of the <em>Suśrutasaṃhitā</em>. This means that several centuries after Candraṭa, the <em>Suśrutasaṃhitā</em> was thought of as a work that he had corrected.</p>
-
-<h2 id="bibliography">Bibliography</h2>
-
-<ol class="bibliography"><li><div class="bib-entry">
-  <div class="bib-ref"><span id="aufr-1864">Aufrecht, T. (1864). <i>Codices Sanscriticas Complectens</i> (Issue 8.1). E Typographeo Clarendoniano.</span></div>
-  <div class="bib-links">
-    <details><summary>BibTeX</summary><pre>@book{aufr-1864,
-  author = {Aufrecht, Theodor},
-  publisher = {E Typographeo Clarendoniano},
-  title = {Codices Sanscriticas Complectens},
-  year = {1864},
-  address = {Oxford},
-  note = {\cite[\#0767]{bisw-1998}},
-  number = {8.1},
-  series = {Catalogi codicum manuscriptorum bibliothecæ Bodleianæ}
-}
-</pre></details>
-  </div>
-</div>
-</li>
-<li><div class="bib-entry">
-  <div class="bib-ref"><span id="meul-hist">Meulenbeld, G. J. (1999). <i>A History of Indian Medical Literature</i>. E. Forsten. http://n2t.net/ark:/13960/t4qk6558q</span></div>
-  <div class="bib-links"><a href="http://n2t.net/ark:/13960/t4qk6558q">URL</a>
-    <details><summary>BibTeX</summary><pre>@book{meul-hist,
-  author = {Meulenbeld, Gerrit Jan},
-  publisher = {E. Forsten},
-  title = {A History of Indian Medical Literature},
-  year = {1999},
-  address = {Groningen},
-  isbn = {9069801248},
-  url = {http://n2t.net/ark:/13960/t4qk6558q},
-  volumes = {5}
-}
-</pre></details>
-  </div>
-</div>
-</li></ol>]]></content><author><name>Dominik Wujastyk</name></author><category term="commentators" /><category term="Candraṭa" /><category term="manuscripts" /><category term="Jejjaṭa" /><summary type="html"><![CDATA[Update of 2026: new example from the Sanjay Sharma Museum, Jaipur]]></summary></entry><entry><title type="html">A Visit to the Kaiser Library, Kathmandu</title><link href="https://sushrutaproject2.github.io/blog/2026/visit-to-the-Kaiser-Library/" rel="alternate" type="text/html" title="A Visit to the Kaiser Library, Kathmandu" /><published>2026-10-10T03:15:00+00:00</published><updated>2026-10-10T03:15:00+00:00</updated><id>https://sushrutaproject2.github.io/blog/2026/visit-to-the-Kaiser-Library</id><content type="html" xml:base="https://sushrutaproject2.github.io/blog/2026/visit-to-the-Kaiser-Library/"><![CDATA[<p>On 30 September 2026 we visited the <a href="https://www.klib.gov.np/">Kaiser Library</a> in Kathmandu. The library is the home of MS Kathmandu KL 699, the palm-leaf manuscript of the <em>Suśrutasaṃhitā</em> copied in 878 CE, which has been at the centre of the Suśruta Project’s work since its first phase. The purpose of the visit was to meet the library’s staff, to see the manuscript, and to propose a collaboration on its publication.</p>
-
-<div class="row justify-content-center">
-  <div class="col-sm-5 mt-3 mt-md-0">
-    <figure class="figure"><a href="/assets/img/2026-09-30-kathmandu-from-the-air.jpeg" class="zoom"><img src="/assets/img/2026-09-30-kathmandu-from-the-air.jpeg" class="img-fluid rounded z-depth-1" alt="The Kathmandu Valley seen from an aircraft window" loading="eager" /></a>
-  <figcaption class="caption">Arriving in Kathmandu.</figcaption>
-</figure>
-
-  </div>
-</div>
-
-<h2 id="the-kaiser-library">The Kaiser Library</h2>
-
-<p>The library was founded in 1907 by the Rana prime minister Chandra Shumsher for his son, Kaiser Shumsher Rana, who built it into one of the great private collections of South Asia. After Kaiser Shumsher’s death the library passed to the Government of Nepal, and it opened to the public in 1969. It is housed in the Kaiser Mahal palace complex on Kantipath, in the centre of Kathmandu. Alongside some 50,000 printed books, it holds an important collection of manuscripts on palm leaf and paper (see <a href="https://www.aai.uni-hamburg.de/en/forschung/ngmcp/news/_pdf/newsletter3-e-e.pdf">Dimitrov and Tamot 2007</a>). KL 699 is the most celebrated of these, and is listed in UNESCO’s Memory of the World Asia-Pacific Register.</p>
-
-<div class="row justify-content-center">
-  <div class="col-sm-6 mt-3 mt-md-0">
-    <figure class="figure"><a href="/assets/img/2026-09-30-garden-of-dreams.jpeg" class="zoom"><img src="/assets/img/2026-09-30-garden-of-dreams.jpeg" class="img-fluid rounded z-depth-1" alt="A formal garden with pavilions, fountains and balustrades beside the Kaiser Mahal" loading="eager" /></a>
-  <figcaption class="caption">The Garden of Dreams (Svapna Bagaicā), laid out by Kaiser Shumsher beside his palace.</figcaption>
-</figure>
-
-  </div>
-  <div class="col-sm-6 mt-3 mt-md-0">
-    <figure class="figure"><a href="/assets/img/2026-09-30-kaiser-mahal.jpeg" class="zoom"><img src="/assets/img/2026-09-30-kaiser-mahal.jpeg" class="img-fluid rounded z-depth-1" alt="The white neoclassical buildings of the Kaiser Mahal complex" loading="eager" /></a>
-  <figcaption class="caption">The Kaiser Mahal complex, Kantipath.</figcaption>
-</figure>
-
-  </div>
-</div>
-
-<h2 id="our-hosts">Our hosts</h2>
-
-<p>We were received by the Chief Librarian, Mr Pradip Bhattarai, and by Ms Binita Giri of the library staff. Both were cordial and welcoming, and generous with their time. We also had the pleasure of meeting Ambika Prasad Regmi, who is preparing a Nepali translation of the <em>Suśrutasaṃhitā</em> based on KL 699. It is very good to know that the manuscript’s text is being made available to readers in Nepal in their own language.</p>
-
-<p>We were accompanied and introduced by Prof. Diwakar Acharya, Spalding Professor of Eastern Religions and Ethics at the University of Oxford. His help in making introductions and in explaining our goals in Nepali was invaluable, and we are most grateful to him.</p>
-
-<h2 id="seeing-kl-699">Seeing KL 699</h2>
-
-<p>At our request, the manuscript was fetched from the stack and carefully unwrapped and laid out for us on the Chief Librarian’s table. It is a beautiful object. The scribe wrote in small, neat letters, evenly spaced across the long palm leaves, and the text is a pleasure to read.</p>
-
-<p>The leaves are now somewhat dry and fragile, however, and we discussed with Mr Bhattarai the importance of handling the manuscript as little as possible. This is one of the strongest arguments for a good photographic record: once high-quality images are published, scholars will rarely need to consult the original leaves at all.</p>
-
-<div class="row justify-content-center">
-  <div class="col-sm-6 mt-3 mt-md-0">
-    <figure class="figure"><a href="/assets/img/2026-09-30-kaiser-library-kl699-group.jpeg" class="zoom"><img src="/assets/img/2026-09-30-kaiser-library-kl699-group.jpeg" class="img-fluid rounded z-depth-1" alt="Pradip Bhattarai, Jason Birch, Diwakar Acharya, Ambika Prasad Regmi and Binita Giri around the unwrapped palm leaves of MS KL 699" loading="eager" /></a>
-  <figcaption class="caption">L–R: Pradip Bhattarai, Jason Birch, Diwakar Acharya, Ambika Prasad Regmi, Binita Giri.</figcaption>
-</figure>
-
-  </div>
-  <div class="col-sm-6 mt-3 mt-md-0">
-    <figure class="figure"><a href="/assets/img/2026-09-30-kaiser-library-kl699-group-2.jpeg" class="zoom"><img src="/assets/img/2026-09-30-kaiser-library-kl699-group-2.jpeg" class="img-fluid rounded z-depth-1" alt="Pradip Bhattarai, Dominik Wujastyk, Diwakar Acharya, Ambika Prasad Regmi and Binita Giri around the unwrapped palm leaves of MS KL 699" loading="eager" /></a>
-  <figcaption class="caption">L–R: Pradip Bhattarai, Dominik Wujastyk, Diwakar Acharya, Ambika Prasad Regmi, Binita Giri.</figcaption>
-</figure>
-
-  </div>
-</div>
-<div class="caption">
-  MS Kathmandu KL 699 unwrapped on the Chief Librarian's table at the Kaiser Library, 30 September 2026.
-</div>
-
-<figure class="figure"><a href="/assets/img/KL699-219v.jpeg" class="zoom"><img src="/assets/img/KL699-219v.jpeg" class="img-fluid rounded z-depth-1" alt="A single long palm leaf densely written in early Nepalese script, with two string holes" loading="lazy" /></a>
-  <figcaption class="caption">MS Kathmandu KL 699, folio 219v.</figcaption>
-</figure>
-
-<p>The library also keeps a register of the manuscripts photographed under its Kaiser Library Manuscript Collection Project, recording for each item its accession number, the corresponding NGMPP microfilm reel, title, subject, extent, size, script and condition.</p>
-
-<div class="row justify-content-center">
-  <div class="col-sm-5 mt-3 mt-md-0">
-    <figure class="figure"><a href="/assets/img/2026-09-30-kaiser-library-register.jpeg" class="zoom"><img src="/assets/img/2026-09-30-kaiser-library-register.jpeg" class="img-fluid rounded z-depth-1" alt="A page from the Kaiser Library Manuscript Collection Project register, with entries for KL 715 and KL 729" loading="lazy" /></a>
-  <figcaption class="caption">A page from the register of the Kaiser Library Manuscript Collection Project. The upper entry, KL 715, is an Āyurvedic work recorded as <em>Nidānagrantha</em>.</figcaption>
-</figure>
-
-  </div>
-</div>
-
-<h2 id="a-proposed-facsimile-edition">A proposed facsimile edition</h2>
-
-<p>We proposed to the Chief Librarian that the Kaiser Library and the Suśruta Project collaborate on a facsimile edition of MS Kathmandu KL 699. The facsimile would be accompanied by a diplomatic transcription of the text, building on the <a href="/projects/4_ss_project_diplomatic/">transcription prepared during the first phase of the project</a>. Such an edition would make this unique witness to the early history of Indian medicine available to scholars everywhere, while protecting the original from further handling.</p>
-
-<p>Mr Bhattarai responded positively to the proposal. He will pass the plan to the library’s legal office and to the Ministry of Education for approval. We look forward to hearing from him and, we hope, to beginning work together.</p>
-
-<p>We thank Mr Pradip Bhattarai, Ms Binita Giri and Ambika Prasad Regmi for their warm welcome, and Prof. Diwakar Acharya for making the meeting possible.</p>]]></content><author><name>Dominik Wujastyk</name></author><category term="manuscripts" /><category term="KL-699" /><category term="Kaiser-Library" /><category term="Kathmandu" /><category term="Nepal" /><category term="facsimile" /><summary type="html"><![CDATA[Seeing MS Kathmandu KL 699 again, and a proposal for a facsimile edition with diplomatic transcription]]></summary></entry><entry><title type="html">Nirāmayatā: Healing and Wellbeing at the India International Centre, New Delhi</title><link href="https://sushrutaproject2.github.io/blog/2026/Niramayata-conference-at-IIC/" rel="alternate" type="text/html" title="Nirāmayatā: Healing and Wellbeing at the India International Centre, New Delhi" /><published>2026-10-09T08:30:00+00:00</published><updated>2026-10-09T08:30:00+00:00</updated><id>https://sushrutaproject2.github.io/blog/2026/Niramayata-conference-at-IIC</id><content type="html" xml:base="https://sushrutaproject2.github.io/blog/2026/Niramayata-conference-at-IIC/"><![CDATA[<p>On 6–7 October 2026, three members of the Suśruta Project, Dominik Wujastyk, Jason Birch and Kenneth Zysk, took part in the international conference <em>Nirāmayatā</em> (निरामयता): <em>Healing and Wellbeing in South Asian Texts and Practices</em>, held at the <a href="https://iicdelhi.in/overview">India International Centre</a> (IIC) in New Delhi. We were the guests of the IIC–International Research Division (IRD) and its Executive Director, Dr Sudha Gopalakrishnan, who conceived the conference and invited us to speak.</p>
-
-<div class="row justify-content-center">
-  <div class="col-sm-5 mt-3 mt-md-0">
-    <figure class="figure"><a href="/assets/img/2026-10-06-niramayata-programme-cover.jpg" class="zoom"><img src="/assets/img/2026-10-06-niramayata-programme-cover.jpg" class="img-fluid rounded z-depth-1" alt="Cover of the programme for the Nirāmayatā conference, showing a Tibetan painting of the Medicine Buddha Palace" loading="eager" /></a>
-  <figcaption class="caption">The conference programme. The cover shows a modern copy of the Medicine Buddha Palace, the first of the Tibetan Medical Paintings from the Mentsikhang, Lhasa (Rubin Museum of Himalayan Art).</figcaption>
-</figure>
-
-  </div>
-</div>
-
-<h2 id="the-ird-and-the-samhita-programme">The IRD and the SAMHiTA programme</h2>
-
-<p>The International Research Division grew out of the IIC-Asia Project, which from 1997 onward held annual conferences on the cultures of Asia, for many years under the guidance of Dr Kapila Vatsyayan. Since 2022 the Division has run <a href="https://samhita.iicdelhi.in/">SAMHiTA</a> (South Asian Manuscript Histories and Textual Archive), a programme supported by the Ministry of External Affairs to inventory, catalogue and digitise South Asian manuscripts held in libraries and archives outside India. Its knowledge partners include the PANDiT project, the Old Indian Institute at Oxford, SOAS, the Wellcome Collection, the Royal Danish Library and the Bibliothèque nationale de France.</p>
-
-<p>The <em>Nirāmayatā</em> conference was organised by the IRD in collaboration with the Indian Council for Cultural Relations and the Bharat ki Soch Foundation, within the framework of SAMHiTA. Its aim was to look at Indian and wider Asian medical traditions through manuscripts and living practice: how medical knowledge was produced, circulated and transformed, and how it moved between Sanskrit, Tamil, Persianate, Tibetan and Southeast Asian traditions. Over two days, six sessions brought together historians, philologists, practitioners of Ayurveda, Siddha, Unani and Sowa Rigpa, and biomedical scientists.</p>
-
-<figure class="figure"><a href="/assets/img/2026-10-06-iic-inaugural-group.jpeg" class="zoom"><img src="/assets/img/2026-10-06-iic-inaugural-group.jpeg" class="img-fluid rounded z-depth-1" alt="Dominik Wujastyk, Dr Sudha Gopalakrishnan and guests standing before the platform after the lamp-lighting" loading="lazy" /></a>
-  <figcaption class="caption">The inaugural session, after the lighting of the lamp: L-R: Dominik Wujastyk, K. N. Shrivastava, Sudha Gopalakrishnan, Anil Rajput, Shyam Saran.</figcaption>
-</figure>
-
-<h2 id="our-presentations">Our presentations</h2>
-
-<p><strong>Keynote address.</strong> After the inaugural addresses by Shri K. N. Shrivastava (Director, IIC), Dr Sudha Gopalakrishnan, Shri Anil Rajput (Bharat ki Soch) and Shri Shyam Saran (President, IIC), Dominik Wujastyk gave the keynote address, “<a href="https://youtu.be/KdltxmFjcIY?si=G8ode0JODAh3AJDn&amp;t=2785">https://youtu.be/KdltxmFjcIY?si=G8ode0JODAh3AJDn&amp;t=2785</a>.” The title takes up the theme of the conference itself, since <em>nirāmayatā</em> means “freedom from disease.”</p>
-
-<!-- Add a few sentences summarising the argument of the keynote, and a link to slides or a recording if available. -->
-
-<div class="row justify-content-center">
-  <div class="col-sm-6 mt-3 mt-md-0">
-    <figure class="figure"><a href="/assets/img/2026-10-06-iic-wujastyk-keynote.jpeg" class="zoom"><img src="/assets/img/2026-10-06-iic-wujastyk-keynote.jpeg" class="img-fluid rounded z-depth-1" alt="Dominik Wujastyk delivering the keynote address at the IIC lectern" loading="lazy" /></a>
-  <figcaption class="caption">Dominik Wujastyk delivering the keynote address.</figcaption>
-</figure>
-
-  </div>
-  <div class="col-sm-6 mt-3 mt-md-0">
-    <figure class="figure"><a href="/assets/img/2026-10-06-iic-wujastyk-honoured.jpeg" class="zoom"><img src="/assets/img/2026-10-06-iic-wujastyk-honoured.jpeg" class="img-fluid rounded z-depth-1" alt="Dr Sudha Gopalakrishnan presenting Dominik Wujastyk with a shawl" loading="lazy" /></a>
-  <figcaption class="caption">Dr Sudha Gopalakrishnan honouring the keynote speaker with a shawl.</figcaption>
-</figure>
-
-  </div>
-</div>
-<p><strong>Dissection in the <em>Suśrutasaṃhitā</em>.</strong> In the first session, “Texts and Concepts on Medical Thought,” chaired by Prof. G. G. Gangadharan, Kenneth Zysk spoke on “<a href="https://youtu.be/T94OagJki2U?si=_vrwHiIZSqlOWD0_&amp;t=1209">What Medical Literature Can Reveal: Dissection in the <em>Suśruta Saṃhitā</em>, Internal and External Transmission</a>.” The <em>Suśrutasaṃhitā</em>’s instructions for preparing and examining a human body in the <em>Śārīrasthāna</em> are unique in early Indian literature, and raise questions both about how this knowledge was passed on within the medical tradition and about its relations with knowledge from outside it.</p>
-
-<!-- Add a short summary of Ken's argument if desired. -->
-
-<p><strong>Suśruta on preserving health.</strong> In the afternoon session, “Mind and Body in Asian Medical Traditions,” chaired by Dr S. Irfan Habib, Jason Birch spoke on “<a href="https://youtu.be/Db1eqPApzlU?si=KpMfQ_tkmYzXExkA&amp;t=3298">From <em>Svastharakṣaṇīya</em> to <em>Svasthavṛtti</em>: How Suśruta’s Chapter on Preserving a Person’s Health Changed</a>.” The paper traced how the <em>Suśrutasaṃhitā</em>’s teaching on keeping a healthy person healthy was reshaped over the course of the work’s transmission.</p>
-
-<!-- Add a short summary of Jason's argument if desired. -->
-
-<h2 id="other-contributions">Other contributions</h2>
-
-<p>Our papers sat alongside a wide range of others (<a href="https://aws-static.iicdelhi.in/s3fs-public/2026-10/Niramayata-Programme-Schedule-No-Food-Breaks.pdf">program</a>, <a href="https://www.youtube.com/@iicprogrammes/search?query=Nir%C4%81mayat%C4%81">videos</a>). Among them were Dr S. A. S. Sarma on Gāruḍa Tantra traditions of snakebite medicine in Kerala; Dr Mehsaan Barawaz on the Persian <em>Majmūʿah-i Żiyāʾī</em> and the meeting of Unani and Ayurvedic learning; Dr Padma Gurmet on Sowa Rigpa; Sugi Lanus on herbal and ritual healing in Balinese <em>lontar</em> manuscripts; Dr Annamma Spudich on European documents about South Indian medicine in the sixteenth to eighteenth centuries; and Prof. Nupur Dasgupta on regional environmental knowledge in Cakrapāṇidatta’s <em>Dravyaguṇasaṃgraha</em> and Mādhavakara’s <em>Paryāyaratnamālā</em>. A session on traditional and modern medicine, with Prof. Bhushan Patwardhan and Prof. Rama Jayasundar, and a closing round table on future directions for traditional knowledge, chaired by Vaidya Rajesh Kotecha, brought the perspectives of science and public policy into the discussion.</p>
-
-<h2 id="thanks">Thanks</h2>
-
-<p>We are very grateful to Dr Sudha Gopalakrishnan and the staff of the International Research Division for their invitation, their careful organisation and their generous hospitality. The day after the conference, on 8 October, we also visited the Ministry of Culture and Gyan Bharatam, the national manuscript mission; that visit is described in <a href="/blog/2026/meeting-at-Gyan-Bharatam/">a separate post</a>.</p>]]></content><author><name>Dominik Wujastyk</name></author><category term="conference" /><category term="IIC" /><category term="SAMHiTA" /><category term="Delhi" /><category term="Suśrutasaṃhitā" /><category term="Ayurveda" /><category term="manuscripts" /><summary type="html"><![CDATA[Three members of the Suśruta Project speak at the IIC–International Research Division's conference on healing traditions in South Asia, held under the SAMHiTA programme]]></summary></entry><entry><title type="html">Visiting the Āśā Saphū Kuthi, Kathmandu</title><link href="https://sushrutaproject2.github.io/blog/2026/visiting-the-Asa-Saphu-Kuthi/" rel="alternate" type="text/html" title="Visiting the Āśā Saphū Kuthi, Kathmandu" /><published>2026-10-09T08:30:00+00:00</published><updated>2026-10-09T08:30:00+00:00</updated><id>https://sushrutaproject2.github.io/blog/2026/visiting-the-Asa-Saphu-Kuthi</id><content type="html" xml:base="https://sushrutaproject2.github.io/blog/2026/visiting-the-Asa-Saphu-Kuthi/"><![CDATA[<p>In early October 2026 I visited the Āśā Saphū Kuthi in Kathmandu, a library best known for its Nepāl Bhāṣā (Newar) books and manuscripts, to look for manuscripts of the <em>Suśrutasaṃhitā</em>.</p>
-
-<h2 id="finding-the-library">Finding the library</h2>
-
-<p>It is impossible to see the library building from the main road (Cittadhar Mārg), which is lined with two-storey shopfronts. Between two of the shops, a doorway with a carved wooden architrave opens onto a corridor that leads to a courtyard behind them. High above the doorway, and hard to see from street level, a sign in <a href="https://en.wikipedia.org/wiki/Ranjana_script#">Rañjanā</a> script reads <em>Āśā Saphūkuthi</em>.</p>
-
-<p>As one emerges from the corridor, a three-storeyed library building in traditional Newar style towers above. Over the porch the name is set in gilt letters in the same script, with “The Āśā Archives” in English beside it.</p>
-
-<div class="row justify-content-center">
-  <div class="col-sm-6 mt-3 mt-md-0">
-    <figure class="figure"><a href="/assets/img/2026-10-02-asa-saphu-kuthi-doorway.jpeg" class="zoom"><img src="/assets/img/2026-10-02-asa-saphu-kuthi-doorway.jpeg" class="img-fluid rounded z-depth-1" alt="A narrow doorway with a carved wooden frame between two shops on Cittadhar Mārg, with the library&#39;s name painted high above" loading="eager" /></a>
-  <figcaption class="caption">The entrance on Cittadhar Mārg, with the library's sign high above the carved doorway. (Image: Google Street View.)</figcaption>
-</figure>
-
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    <figure class="figure"><a href="/assets/img/2026-10-02-asa-saphu-kuthi-facade.jpeg" class="zoom"><img src="/assets/img/2026-10-02-asa-saphu-kuthi-facade.jpeg" class="img-fluid rounded z-depth-1" alt="The brick façade of the Āśā Saphū Kuthi, with carved wooden windows and the library&#39;s name in gilt Rañjanā letters over the porch" loading="eager" /></a>
-  <figcaption class="caption">The façade of the Āśā Saphū Kuthi, seen from the courtyard.</figcaption>
-</figure>
-
-  </div>
-</div>
-
-<h2 id="a-morning-with-the-catalogue">A morning with the catalogue</h2>
-
-<p>The library opens at 11 am. The front door is not locked but needs a good push; not knowing this, I waited outside until someone who did arrived. In the morning the library is staffed by an assistant, who showed me the printed catalogue of manuscripts <a class="citation" href="#saky-2000">(Śākya, 2000)</a>. It is arranged by subject, so I went straight to the medical (<em>vaidya</em>) section.</p>
-
-<p>The collection of medical works is fairly impressive. The section has nearly two hundred entries, many of them works in Nepāl Bhāṣā or bilingual Sanskrit–Nepāl Bhāṣā texts on diseases, diagnosis, pulse, remedies and mantras.</p>
-
-<div class="row justify-content-center">
-  <div class="col-sm-4 mt-3 mt-md-0">
-    <figure class="figure"><a href="/assets/img/2026-10-02-asa-saphu-kuthi-catalogue-p185.jpeg" class="zoom"><img src="/assets/img/2026-10-02-asa-saphu-kuthi-catalogue-p185.jpeg" class="img-fluid rounded z-depth-1" alt="Page 185 of the Short Catalogue of Āśā Archives, listing medical manuscripts including DPN 1599" loading="lazy" /></a>
-  <figcaption class="caption">Catalogue p. 185, with the entry for DPN 1599, Mādhava's <em>Cikitsākarma</em>.</figcaption>
-</figure>
-
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    <figure class="figure"><a href="/assets/img/2026-10-02-asa-saphu-kuthi-catalogue-p182.jpeg" class="zoom"><img src="/assets/img/2026-10-02-asa-saphu-kuthi-catalogue-p182.jpeg" class="img-fluid rounded z-depth-1" alt="Page 182 of the Short Catalogue of Āśā Archives, listing medical manuscripts including DPN 1517" loading="lazy" /></a>
-  <figcaption class="caption">Catalogue p. 182, with the entry for DPN 1517, the illustrated <em>Aśvacikitsā</em>.</figcaption>
-</figure>
-
-  </div>
-</div>
-
-<h2 id="viewing-the-scans">Viewing the scans</h2>
-
-<p>The librarian does not arrive until after 3 pm, so my visit was punctuated by a long lunch at a nearby restaurant. I got the impression that the whole manuscript collection has been digitised and is stored on hard drives kept in a locked cabinet. The librarian, who holds the key, did indeed arrive at 3 pm. She was very friendly and let me look at whatever manuscript scans I wanted, at a fee of 100 NPR an hour on the library’s computer.</p>
-
-<h2 id="what-i-found">What I found</h2>
-
-<p>Among the Sanskrit medical works, two stand out: a complete manuscript of the relatively rare <em>Mādhavacikitsā</em> (DPN 1599), and an incomplete one of Ravigupta’s <em>Siddhasāra</em> (DPN 1660, chapters 1–8). There is also a damaged fragment of an illustrated work on horse medicine (<em>aśvacikitsā</em>) with four hand-painted illustrations of horses. A second veterinary text, a <em>Śālihotra</em> in Sanskrit and Maithilī, is also listed in the catalogue.</p>
-
-<p>Unfortunately for us, there were no <em>Suśrutasaṃhitā</em> manuscripts.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>DPN</th>
-      <th>Title in the catalogue</th>
-      <th>Script · language</th>
-      <th>Date</th>
-      <th>Folios</th>
-      <th>Notes</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1599</td>
-      <td>Mādhava kṛta Cikitsā Karma</td>
-      <td>Nepāl · Sanskrit–Nepāl Bhāṣā</td>
-      <td>N.S. 844 (1723/24 CE)</td>
-      <td>345</td>
-      <td>Complete; 29 × 11.5 cm</td>
-    </tr>
-    <tr>
-      <td>1660</td>
-      <td>Siddhisāra Saṃhitā</td>
-      <td>Nepāl · Sanskrit</td>
-      <td>—</td>
-      <td>34</td>
-      <td>Incomplete; 22.5 × 9.7 cm</td>
-    </tr>
-    <tr>
-      <td>1517</td>
-      <td>Aśvacikitsā (sacitra)</td>
-      <td>Nepāl · Nepāl Bhāṣā</td>
-      <td>—</td>
-      <td>2</td>
-      <td>Accordion book; 4 paintings of horses</td>
-    </tr>
-    <tr>
-      <td>1659</td>
-      <td>Śālihotra</td>
-      <td>Nepāl · Sanskrit–Maithilī</td>
-      <td>—</td>
-      <td>46</td>
-      <td>Incomplete accordion book</td>
-    </tr>
-  </tbody>
-</table>
-
-<p><em>Details from Rājā Śākya’s</em> Short Catalogue <em>(2000), pp. 182–190.</em></p>
-
-<h2 id="practical-notes-for-visitors">Practical notes for visitors</h2>
-
-<ul>
-  <li>The library opens at 11 am every day except Saturday. Push the front door firmly.</li>
-  <li>The librarian, who controls access to the scans, arrives after 3 pm.</li>
-  <li>Viewing scans costs 100 NPR an hour.</li>
-  <li>There is a photocopier. Digital images of manuscripts may perhaps be purchased, but I did not broach that topic.</li>
-</ul>
-
-<p>For anyone working on Sanskrit or Newar medicine, the Āśā Saphū Kuthi repays the afternoon’s wait.</p>
-
-<h2 id="background-the-library-and-its-collection">Background: the library and its collection</h2>
-
-<p>The Āśā Saphū Kuthi (आशा सफू कुथि, “Āśā’s book house”), also called the Āśā Archives, is a free public library across Cittadhar Mārg from the Raktakālī temple. As Rhishav Sapkota describes <a class="citation" href="#sapk-2021">(Sapkota, 2021)</a>, it is named after Āśā Mān Siṃh Kansakar (1916–1990), founder of the Nepāl Bhāṣā publisher Cwāsā Pāsā, who resolved that Nepal should keep its own manuscripts rather than see them sold abroad. His son, the politician Prem Bahadur Kansakar, carried the project forward, and the American scholar Ian Alsop gave almost 500 manuscripts. The present building, funded by the Toyota Foundation, opened on 7 December 1987.</p>
-
-<p>The early collection holds over 7,000 manuscripts from the fifteenth to the nineteenth century, in Sanskrit, Nepāl Bhāṣā and Nepali, on religion, poetics, astronomy, astrology and medicine. The catalogue I used, <em>Āśā Saphūkuthiyā Saphū Dhalaḥ: A Short Catalogue of Āśā Archives</em>, was compiled by Rājā Śākya and published in N.S. 1120 (2000 CE) <a class="citation" href="#saky-2000">(Śākya, 2000)</a>; each entry gives a DPN number, script, language, date, size, folios and material. An earlier catalogue of the library’s inscriptions and documents appeared in 1991 <a class="citation" href="#vaid-1991">(Vaidya &amp; Kansakar, 1991)</a>.</p>
-
-<div class="row justify-content-center">
-  <div class="col-sm-4 mt-3 mt-md-0">
-    <figure class="figure"><a href="/assets/img/2026-10-02-asa-saphu-kuthi-catalogue-title-page.jpeg" class="zoom"><img src="/assets/img/2026-10-02-asa-saphu-kuthi-catalogue-title-page.jpeg" class="img-fluid rounded z-depth-1" alt="Title page of the Short Catalogue of Āśā Archives, compiled by Rājā Śākya" loading="lazy" /></a>
-  <figcaption class="caption">Title page of Rājā Śākya's <em>Short Catalogue of Āśā Archives</em> (2000).</figcaption>
-</figure>
-
-  </div>
-</div>
-
-<p>The scans I saw are the fruit of several digitization projects: a first phase led by Shucho Takaoka in 1987; the University of Hamburg’s <em>Preserving the Written Heritage of Nepal</em> (2018–2022); and the <a href="https://hmml.org/collections/repositories/nepal/%C4%81%C5%9B%C4%81-saph%C5%ABkuthidpn/">Hill Museum &amp; Manuscript Library</a>’s digitization of 1,332 items from the “new collection” (2019–2024, DPN 07172–08121).  Many manuscript scans are now available through the <a href="https://archive.org/details/asa-archives?tab=collection">Āśā Archives page at Archive.org</a>.</p>
-
-<h2 id="web-sources">Web sources</h2>
-
-<ul>
-  <li><a href="https://hmml.org/collections/repositories/nepal/%C4%81%C5%9B%C4%81-saph%C5%ABkuthidpn/">Āśā Saphūkuthi (DPN)</a>, Hill Museum &amp; Manuscript Library</li>
-  <li><a href="https://en.wikipedia.org/wiki/Asa_Safu_Kuthi">Asa Safu Kuthi</a>, Wikipedia</li>
-  <li><a href="https://archive.org/details/asa-archives?tab=collection">Āśā Archives page at Archive.org</a></li>
-</ul>
-
-<h2 id="references">References</h2>
-<div class="post-bibliography">
-<ol class="bibliography"><li><div class="bib-entry">
-  <div class="bib-ref"><span id="sapk-2021">Sapkota, R. (2021). The Life and Times of Asa Archives, a Nepal Bhasa Library. <i>Nepal Live Today</i>. https://web.archive.org/web/20251013063309/https://www.nepallivetoday.com/2021/08/11/the-life-and-times-of-asa-archives-a-nepal-bhasa-library/</span></div>
-  <div class="bib-links"><a href="https://web.archive.org/web/20251013063309/https://www.nepallivetoday.com/2021/08/11/the-life-and-times-of-asa-archives-a-nepal-bhasa-library/">URL</a>
-    <details><summary>BibTeX</summary><pre>@article{sapk-2021,
-  creationdate = {2026-10-25T18:12:46},
-  modificationdate = {2026-10-25T18:14:47},
-  title = {The Life and Times of Asa Archives, a Nepal Bhasa Library},
-  author = {Sapkota, Rhishav},
-  year = {2021},
-  month = aug,
-  date = {2021-08-11},
-  journal = {Nepal Live Today},
-  url = {https://web.archive.org/web/20251013063309/https://www.nepallivetoday.com/2021/08/11/the-life-and-times-of-asa-archives-a-nepal-bhasa-library/}
-}
-</pre></details>
-  </div>
-</div>
-</li>
-<li><div class="bib-entry">
-  <div class="bib-ref"><span id="vaid-1991">Vaidya, J. L., &amp; Kansakar, P. B. (1991). <i>आशा सफू कुथिया अभिलेख ग्रन्थया वर्नात्मक धलः = A Descriptive Catalogue of Selected Manuscripts Preserved at the Āśā Saphū Kunthi (Āśā Archives)</i>. Cvasāpāsā, Kulāṃbhulu Raktakālī.</span></div>
-  <div class="bib-links"><a href="https://n2t.net/ark:/13960/s2p83gbvk4j">ARK</a>
-    <details><summary>BibTeX</summary><pre>@book{vaid-1991,
-  creationdate = {2026-10-25T18:18:39},
-  author = {Vaidya, Janak Lal and Kansakar, Prem Bahadur},
-  modificationdate = {2026-10-25T18:52:03},
-  title = {आशा सफू कुथिया अभिलेख ग्रन्थया वर्नात्मक धलः = A Descriptive Catalogue of Selected Manuscripts Preserved at the Āśā Saphū Kunthi (Āśā Archives)},
-  year = {1991},
-  address = {Kathmandu},
-  eprint = {ark:/13960/s2p83gbvk4j},
-  eprinttype = {ark},
-  publisher = {Cvasāpāsā, Kulāṃbhulu Raktakālī}
-}
-</pre></details>
-  </div>
-</div>
-</li>
-<li><div class="bib-entry">
-  <div class="bib-ref"><span id="saky-2000">Śākya, R. (2000). <i>आशा सफूकुथिया सफू धलः = A Short Catalogue of Āśā Archives</i> (Issue 5).</span></div>
-  <div class="bib-links"><a href="https://n2t.net/ark:/13960/s2b68nq1xr5">ARK</a>
-    <details><summary>BibTeX</summary><pre>@book{saky-2000,
-  creationdate = {2026-10-25T18:52:07},
-  title = {आशा सफूकुथिया सफू धलः = A Short Catalogue of Āśā Archives},
-  modificationdate = {2026-10-25T18:55:33},
-  series = {Āśā Saphūkuthi Pithanā},
-  number = {5},
-  author = {Śākya, Rājā},
-  year = {2000},
-  eprint = {ark:/13960/s2b68nq1xr5},
-  eprinttype = {ark}
-}
-</pre></details>
-  </div>
-</div>
-</li></ol>
-</div>]]></content><author><name>Jason Birch</name></author><category term="Kathmandu" /><category term="Suśrutasaṃhitā" /><category term="Ayurveda" /><category term="manuscripts" /><summary type="html"><![CDATA[Jason Birch visited the library in search of Suśrutasaṃhitā manuscripts]]></summary></entry><entry><title type="html">A Visit to Gyan Bharatam and the Ministry of Culture, New Delhi</title><link href="https://sushrutaproject2.github.io/blog/2026/meeting-at-Gyan-Bharatam/" rel="alternate" type="text/html" title="A Visit to Gyan Bharatam and the Ministry of Culture, New Delhi" /><published>2026-10-09T03:30:00+00:00</published><updated>2026-10-09T03:30:00+00:00</updated><id>https://sushrutaproject2.github.io/blog/2026/meeting-at-Gyan-Bharatam</id><content type="html" xml:base="https://sushrutaproject2.github.io/blog/2026/meeting-at-Gyan-Bharatam/"><![CDATA[<p>On 8 October 2026, three members of the Suśruta Project, Dominik Wujastyk, Jason Birch and Kenneth Zysk, spent an afternoon in New Delhi as guests of <a href="https://gyanbharatam.gov.in/">Gyan Bharatam</a>, the Government of India’s national mission for the survey, conservation and digitisation of manuscripts.</p>
-
-<p>Gyan Bharatam (<em>Jñānabhāratam</em>) was announced in the Union Budget for 2025–26 as a flagship programme of the Ministry of Culture. It builds on the work of the National Mission for Manuscripts, founded in 2003, and aims to document, conserve and make available more than ten million manuscripts held in libraries, institutions and private collections across India. The mission’s emblem carries the motto <em>na hi jñānena sadṛśaṃ pavitram iha vidyate</em>, “for nothing in this world purifies like knowledge” (<em>Bhagavadgītā</em> 4.38ab).</p>
-
-<figure class="figure"><a href="/assets/img/2026-10-08-gyan-bharatam-entrance.jpeg" class="zoom"><img src="/assets/img/2026-10-08-gyan-bharatam-entrance.jpeg" class="img-fluid rounded z-depth-1" alt="Jason Birch and Dominik Wujastyk beside the Gyan Bharatam emblem and motto" loading="eager" /></a>
-  <figcaption class="caption">Jason Birch (left) and Dominik Wujastyk at the entrance to the Gyan Bharatam offices, beneath the mission's emblem and motto.</figcaption>
-</figure>
-
-<h2 id="meeting-with-the-secretary-of-the-ministry-of-culture">Meeting with the Secretary of the Ministry of Culture</h2>
-
-<p>Gyan Bharatam’s director, Dr Anirban Dash, first took us to the Ministry of Culture at Kartavya Bhavan. There we had an hour-long meeting with Shri Vivek Agarwal, Secretary of the Ministry of Culture, who has overall charge of the Gyan Bharatam mission.</p>
-
-<p>The Secretary outlined the ambitious goals of the Government of India’s drive to digitise manuscripts across the country. He then listened carefully to our ideas and suggestions, drawn from our experience of working with Sanskrit medical manuscripts in Indian and international collections. He generously offered the support of Gyan Bharatam for projects that we might propose for action. We are very grateful for his time and his openness to collaboration.</p>
-
-<div class="row justify-content-center">
-  <div class="col-sm-6 mt-3 mt-md-0">
-    <figure class="figure"><a href="/assets/img/2026-10-08-secretary-meeting-1.jpeg" class="zoom"><img src="/assets/img/2026-10-08-secretary-meeting-1.jpeg" class="img-fluid rounded z-depth-1" alt="Dominik Wujastyk speaking at the meeting with the Secretary, Ministry of Culture" loading="eager" /></a>
-  <figcaption class="caption">Dominik Wujastyk speaking at the meeting with the Secretary.</figcaption>
-</figure>
-
-  </div>
-  <div class="col-sm-6 mt-3 mt-md-0">
-    <figure class="figure"><a href="/assets/img/2026-10-08-secretary-meeting-2.jpeg" class="zoom"><img src="/assets/img/2026-10-08-secretary-meeting-2.jpeg" class="img-fluid rounded z-depth-1" alt="Jason Birch and Kenneth Zysk with Secretary Vivek Agarwal" loading="eager" /></a>
-  <figcaption class="caption">Jason Birch and Kenneth Zysk (centre) with Shri Vivek Agarwal (right).</figcaption>
-</figure>
-
-  </div>
-</div>
-
-<figure class="figure"><a href="/assets/img/2026-10-08-secretary-meeting-3.jpeg" class="zoom"><img src="/assets/img/2026-10-08-secretary-meeting-3.jpeg" class="img-fluid rounded z-depth-1" alt="The meeting in the Secretary&#39;s office at Kartavya Bhavan" loading="lazy" /></a>
-  <figcaption class="caption">The meeting at the Ministry of Culture, Kartavya Bhavan.</figcaption>
-</figure>
-
-<h2 id="round-table-at-gyan-bharatam-the-future-of-manuscript-research">Round table at Gyan Bharatam: “The Future of Manuscript Research”</h2>
-
-<p>After the meeting with the Secretary, we moved to the offices of Gyan Bharatam for an hour-long consultative round table on “The Future of Manuscript Research.” The session was chaired by Dr Anirban Dash, with members of the Gyan Bharatam team, and was live-streamed online.</p>
-
-<p>The discussion ranged over the goals and meaning of Gyan Bharatam’s work and the importance and value of manuscript studies. Manuscripts are the primary evidence for almost everything we know about India’s intellectual history, including its medicine. The texts we read in printed editions are reconstructions from these witnesses, and their quality depends on the range and accuracy of the manuscripts consulted. A national effort to locate, catalogue and digitise manuscripts therefore directly benefits work such as ours on the <em>Suśrutasaṃhitā</em> and its commentaries. The session closed with questions from participants both in the room and online.</p>
-
-<!-- If a recording of the live-stream is available, add the link here, e.g.:
-A recording of the round table is available [here](URL).
--->
-
-<figure class="figure"><a href="/assets/img/2026-10-08-gyan-bharatam-round-table.jpeg" class="zoom"><img src="/assets/img/2026-10-08-gyan-bharatam-round-table.jpeg" class="img-fluid rounded z-depth-1" alt="The round table in the Gyan Bharatam conference room, with online participants on screen" loading="lazy" /></a>
-  <figcaption class="caption">The round table at Gyan Bharatam, with online participants on the screens.</figcaption>
-</figure>
-
-<div class="row justify-content-center">
-  <div class="col-sm-9 mt-3 mt-md-0">
-    <figure class="figure"><a href="/assets/img/2026-10-08-gyan-bharatam-birch.jpeg" class="zoom"><img src="/assets/img/2026-10-08-gyan-bharatam-birch.jpeg" class="img-fluid rounded z-depth-1" alt="Jason Birch speaking at the round table; Dr Anirban Dash on the left." loading="lazy" /></a>
-  <figcaption class="caption">Jason Birch speaking at the round table; Dr Anirban Dash on the left.</figcaption>
-</figure>
-
-  </div>
-</div>
-
-<p>At Gyan Bharatam we were welcomed in the traditional manner with shawls and gifts of books.</p>
-
-<div class="row justify-content-center">
-  <div class="col-sm-7 mt-3 mt-md-0">
-    <figure class="figure"><a href="/assets/img/2026-10-08-gyan-bharatam-zysk-honoured.jpeg" class="zoom"><img src="/assets/img/2026-10-08-gyan-bharatam-zysk-honoured.jpeg" class="img-fluid rounded z-depth-1" alt="Dr Anirban Dash presenting a shawl to Kenneth Zysk" loading="lazy" /></a>
-  <figcaption class="caption">Dr Anirban Dash presenting a shawl to Kenneth Zysk.</figcaption>
-</figure>
-
-  </div>
-  <div class="col-sm-5 mt-3 mt-md-0">
-    <figure class="figure"><a href="/assets/img/2026-10-08-gyan-bharatam-wujastyk-honoured.jpeg" class="zoom"><img src="/assets/img/2026-10-08-gyan-bharatam-wujastyk-honoured.jpeg" class="img-fluid rounded z-depth-1" alt="Dominik Wujastyk receiving a shawl and books from Gyan Bharatam" loading="lazy" /></a>
-  <figcaption class="caption">Dominik Wujastyk receiving a shawl and books, with Kenneth Zysk looking on.</figcaption>
-</figure>
-
-  </div>
-</div>
-
-<div class="row justify-content-center">
-  <div class="col-sm-6 mt-3 mt-md-0">
-    <figure class="figure"><a href="/assets/img/2026-10-08-gyan-bharatam-poster.jpeg" class="zoom"><img src="/assets/img/2026-10-08-gyan-bharatam-poster.jpeg" class="img-fluid rounded z-depth-1" alt="Poster for the Gyan Bharatam panel discussion on The Future of Manuscript Research, 8 October 2026" loading="lazy" /></a>
-  <figcaption class="caption">Gyan Bharatam's announcement of the round table.</figcaption>
-</figure>
-
-  </div>
-</div>
-
-<figure class="figure"><a href="/assets/img/2026-10-08-gyan-bharatam-group.jpeg" class="zoom"><img src="/assets/img/2026-10-08-gyan-bharatam-group.jpeg" class="img-fluid rounded z-depth-1" alt="Suśruta Project members with the Gyan Bharatam team beside a display of manuscripts" loading="lazy" /></a>
-  <figcaption class="caption">Kenneth Zysk, Dominik Wujastyk, Anirban Dash and Jason Birch (centre) with members of the Gyan Bharatam team, beside a display of manuscripts.</figcaption>
-</figure>
-
-<p>We thank Dr Anirban Dash and the Gyan Bharatam team for their warm hospitality and for organising both meetings, and Shri Vivek Agarwal for his interest and encouragement. We look forward to developing proposals for collaboration in the coming months.</p>]]></content><author><name>Dominik Wujastyk</name></author><category term="manuscripts" /><category term="digitisation" /><category term="Gyan-Bharatam" /><category term="Ministry-of-Culture" /><category term="Delhi" /><summary type="html"><![CDATA[Meetings with the Secretary of the Ministry of Culture and a round table at Gyan Bharatam on the future of manuscript research]]></summary></entry></feed>
+</ul>]]></content><author><name>Jason Birch</name></author><category term="Kathmandu" /><category term="Suśrutasaṃhitā" /><category term="Carakasaṃhitā" /><category term="Ayurveda" /><category term="manuscripts" /><summary type="html"><![CDATA[Jason Birch visited the manuscript collection of the ayurvedic doctor Madhu Bajra Bajracharya]]></summary></entry></feed>

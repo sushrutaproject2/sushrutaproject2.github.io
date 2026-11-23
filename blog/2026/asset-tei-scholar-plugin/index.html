@@ -1,0 +1,192 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Begin Jekyll SEO tag v2.9.1 -->
+<title>TEI Scholar: A Plugin for Editing the Project’s XML Files | The Compendium of Suśruta in Time and Space</title>
+<meta name="generator" content="Jekyll v4.4.1" />
+<meta property="og:title" content="TEI Scholar: A Plugin for Editing the Project’s XML Files" />
+<meta name="author" content="Dominik Wujastyk" />
+<meta property="og:locale" content="en" />
+<meta name="description" content="A VS Code and VSCodium extension that handles Saktumiva footnotes, TEI help, and fonts for Indian scripts" />
+<meta name="twitter:description" property="og:description" content="A VS Code and VSCodium extension that handles Saktumiva footnotes, TEI help, and fonts for Indian scripts" />
+<link rel="canonical" href="https://sushrutaproject2.github.io/blog/2026/asset-tei-scholar-plugin/" />
+<meta property="og:url" content="https://sushrutaproject2.github.io/blog/2026/asset-tei-scholar-plugin/" />
+<meta property="og:site_name" content="The Compendium of Suśruta in Time and Space" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2026-11-23T09:04:00+00:00" />
+<meta property="article:modified_time" content="2026-11-23T09:04:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="TEI Scholar: A Plugin for Editing the Project’s XML Files" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Dominik Wujastyk"},"dateModified":"2026-11-23T09:04:00+00:00","datePublished":"2026-11-23T09:04:00+00:00","description":"A VS Code and VSCodium extension that handles Saktumiva footnotes, TEI help, and fonts for Indian scripts","headline":"TEI Scholar: A Plugin for Editing the Project’s XML Files","mainEntityOfPage":{"@type":"WebPage","@id":"https://sushrutaproject2.github.io/blog/2026/asset-tei-scholar-plugin/"},"url":"https://sushrutaproject2.github.io/blog/2026/asset-tei-scholar-plugin/"}</script>
+<!-- End Jekyll SEO tag -->
+
+  <link type="application/atom+xml" rel="alternate" href="https://sushrutaproject2.github.io/feed.xml" title="The Compendium of Suśruta in Time and Space" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><circle cx=%2250%22 cy=%2250%22 r=%2250%22 fill=%22%23E0A43A%22/><text x=%2250%22 y=%2270%22 font-size=%2258%22 text-anchor=%22middle%22 fill=%22%231E2A44%22>सु</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&family=Noto+Serif+Devanagari:wght@400;500&family=Spectral:ital,wght@0,400;0,500;1,400&display=swap">
+  <link rel="stylesheet" href="/assets/css/style.css">
+      <!-- Other head elements -->
+    
+    <script async src="https://www.googletagmanager.com/gtm.js?id=GTM-5LPR6WVH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+</script>
+
+  </head>
+<body>
+  <header class="site-header">
+  <div class="umbrella">
+    <nav class="wrap umbrella-inner" aria-label="Suśruta Project websites">
+      <a class="umbrella-home" href="https://sushrutaproject.github.io/"><span lang="sa">सुश्रुत</span> The Suśruta Project</a>
+      <ul>
+        <li><a href="https://github.com/sushrutaproject1/Sushrutasamhita_Saktumiva1/raw/main/translation/incremental_SS_Translation.pdf?raw=true">Translation</a></li>
+        <li><a href="https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva2/">Edition</a></li>
+        <li><a href="https://sushrutaproject1.github.io/">Project 1</a></li>
+        <li><a href="https://sushrutaproject2.github.io/" aria-current="true">Project 2</a></li>
+      </ul>
+    </nav>
+  </div>
+  <nav class="nav wrap" aria-label="Project 2">
+    <a class="brand" href="/">
+      <span class="brand-mark" lang="sa" aria-hidden="true">सु</span>
+      <span class="brand-text">
+        <span class="brand-name">Project 2</span>
+        <span class="brand-dates">2025–2029 · current</span>
+      </span>
+    </a>
+    <ul class="nav-links">
+      <li><a href="/">Home</a></li>
+      <li><a href="/projects/">project components</a></li>
+      <li class="dropdown">
+        <details>
+          <summary>participants</summary>
+          <ul class="dropdown-menu">
+            <li><a href="/pi/">Principal Investigator</a></li>
+            <li><a href="/rf/">Research Fellow</a></li>
+            <li><a href="/collaborators/">Collaborators</a></li>
+            <li><a href="/consultants/">Consultants</a></li>
+            <li><a href="/ras/">Research Associates</a></li>
+          </ul>
+        </details>
+      </li>
+      <li><a href="/blog/" aria-current="page">blog</a></li>
+      <li class="dropdown">
+        <details>
+          <summary>assets</summary>
+          <ul class="dropdown-menu">
+            <li><a href="https://sushrutaproject.github.io/eTexts/">Search medical eTexts from published editions</a></li>
+            <li><a href="https://wujastyk.github.io/bibliographies">Indexes of materia medica and more bibliography</a></li>
+            <li><a href="https://wujastyk.github.io/SARIT-corpus/">SARIT and GRETIL corpus search</a></li>
+            <li><a href="https://sushrutaproject.github.io/glossaries/singh-chunekar-1972/">Index to Singh & Chunekar's Glossary of ... Bṛhattrayī</a></li>
+            <li class="divider" role="separator"></li>
+            <li><a href="https://sushrutaproject.github.io/TEI-scholar-Codium-plugin/">TEI Scholar plugin for editing XML Suśruta Project files</a></li>
+            <li><a href="https://sushrutaproject.github.io/saktumiva2-editor/">Dedicated editing interface for Saktumiva 2</a></li>
+            <li><a href="https://wujastyk.github.io/suci/">Sūcī: A bibliography manager with Indic characteristics</a></li>
+            <li class="divider" role="separator"></li>
+            <li><a href="/bibliography/">Website bibliography</a></li>
+            <li><a href="/sushrutaproject1/">Legacy Resources from Suśruta Project 1.0</a></li>
+          </ul>
+        </details>
+      </li>
+      <li><a href="/search/">Search</a></li>
+    </ul>
+  </nav>
+</header>
+
+  <main id="content">
+    <section class="page-hero">
+  <div class="wrap article-wrap">
+    <p class="kicker"><a href="/blog/">Blog</a> · <a href="/blog/2026/">2026</a></p>
+    <h1>TEI Scholar: A Plugin for Editing the Project’s XML Files</h1>
+    <p class="post-meta">23 November 2026 · Dominik Wujastyk</p>
+    <ul class="tag-list">
+      <li><a href="/blog/tag/su%C5%9Brutaproject/">SuśrutaProject</a></li>
+      <li><a href="/blog/tag/assets/">assets</a></li>
+      <li><a href="/blog/tag/tei/">TEI</a></li>
+      <li><a href="/blog/tag/saktumiva/">Saktumiva</a></li>
+      <li><a href="/blog/tag/software/">software</a></li>
+      <li><a href="/blog/tag/claude/">Claude</a></li>
+    </ul>
+  </div>
+</section>
+<article class="wrap article-wrap">
+  <div class="sheet prose" data-pagefind-body>
+    <p>This post is one of a series on the items in the <a href="https://sushrutaproject2.github.io/resources/">Assets</a> menu of this website, which I have written over the last two months together with Claude.</p>
+
+<h2 id="the-problem">The problem</h2>
+
+<p>The Suśruta Project’s transcriptions and editions are TEI XML files. They are collated and published with Charles Li’s <a href="https://chchch.github.io/saktumiva/docs/">Saktumiva</a>. In a Saktumiva edition, an editor’s note on a passage is not typed at the place where it applies. A small <code>&lt;anchor&gt;</code> element is put in the text, and the note itself goes into a <code>&lt;standOff&gt;</code> element at the end of the file, connected to the anchor by matching identifiers:</p>
+
+<pre><code class="language-xml">&lt;anchor xml:id="SS.3.1.4-n1"/&gt;
+  ...
+&lt;standOff corresp="#SS.3.1.4" type="Note"&gt;
+    &lt;note xml:lang="en" target="#SS.3.1.4-n1"&gt;Text of the note.&lt;/note&gt;
+&lt;/standOff&gt;
+</code></pre>
+
+<p>This is a sound design, but it is laborious to do by hand. The editor has to invent an identifier, type it twice without a slip, and scroll to the end of a long file and back, perhaps hundreds of times in a chapter. Mistakes are inevitable. When we recently checked the provisional edition files of the <em>Suśrutasaṃhitā</em> we found about 110 problems of this kind: anchors without notes, notes without anchors, and duplicated identifiers.</p>
+
+<h2 id="what-the-plugin-does">What the plugin does</h2>
+
+<p><a href="https://sushrutaproject.github.io/TEI-scholar-Codium-plugin/">TEI Scholar</a> is an extension for the free editors VS Code and VSCodium. Its main purpose is to make a Saktumiva note behave like a footnote in a word processor. One presses a key at the point in the text where the note belongs, types the note in a pane at the bottom of the window, and saves it. The plugin creates the anchor and the note together, numbers them, and puts the note in the right place at the end of the file. Hovering over an anchor shows its note, and one can jump from an anchor to its note and back. Deleting the anchor deletes the note. Notes can be of different types, such as Note, Emendation and Testimonia, which Saktumiva displays separately.</p>
+
+<p>It does several other things that we found we wanted:</p>
+
+<ul>
+  <li>Hovering over any TEI element shows what it means, which attributes it takes and where it may be used, with a link to the TEI Guidelines.</li>
+  <li>Files are validated as one types, against the TEI schema or the project’s own. The validation is done by Red Hat’s XML extension, using the same validator as oXygen.</li>
+  <li>It warns about duplicate identifiers and about pointers to identifiers that do not exist.</li>
+  <li>A menu switches between font settings suited to markup, to IAST, to Devanāgarī, and to Tibetan and South Indian scripts.</li>
+  <li>Selected text can be converted between IAST, Devanāgarī, Harvard-Kyoto and Velthuis.</li>
+</ul>
+
+<h2 id="background">Background</h2>
+
+<p>For many years most of us have used the oXygen XML Editor, which is excellent, but it is a commercial program and its licence is a real cost for students and for colleagues without institutional support. VS Code and VSCodium are free and run on every system. What they lacked was a knowledge of the conventions of our files. The first version of the plugin was written in October 2026.</p>
+
+<p>The plugin is not specific to the <em>Suśrutasaṃhitā</em>. It should be useful to anybody editing TEI transcriptions of Sanskrit manuscripts, and especially to other users of Saktumiva. It can be downloaded from <a href="https://github.com/sushrutaproject/TEI-scholar-Codium-plugin">github.com/sushrutaproject/TEI-scholar-Codium-plugin</a>, where there are instructions for installing it.  Please post bugs or corrections to <a href="https://github.com/sushrutaproject/TEI-scholar-Codium-plugin/issues">Issues</a>.</p>
+
+<p>For those who would prefer not to see the XML at all, the next post in this series describes a different approach.</p>
+
+  </div>
+  
+<aside class="related">
+  <h2>More from the blog</h2>
+  <ul class="post-list compact">
+    <li><span class="post-date">23 Nov 2026</span> <a href="/blog/2026/asset-suci-bibliography-manager/">Sūcī: A Bibliography Manager with Indic Characteristics</a></li>
+    <li><span class="post-date">23 Nov 2026</span> <a href="/blog/2026/asset-saktumiva2-editor/">An Editing Screen for Saktumiva 2</a></li>
+    <li><span class="post-date">23 Nov 2026</span> <a href="/blog/2026/asset-sarit-and-gretil-search/">Searching the SARIT and GRETIL Corpora</a></li>
+    <li><span class="post-date">23 Nov 2026</span> <a href="/blog/2026/asset-etexts-search/">eTexts: Searching the Printed Editions of the Medical Classics</a></li>
+    <li><span class="post-date">23 Nov 2026</span> <a href="/blog/2026/asset-singh-and-chunekar-glossary/">An Index to Singh and Chunekar’s Glossary of Vegetable Drugs in Bṛhattrayī</a></li>
+  </ul>
+</aside>
+
+</article>
+
+  </main>
+  <footer class="site-footer">
+  <div class="wrap footer-grid">
+    <div>
+      <p class="footer-label">Cite this website</p>
+      <p>Dominik Wujastyk et al., 2025. “The Compendium of Suśruta in Time and Space: Mapping a Medical Tradition.”
+        <a href="https://doi.org/10.5281/zenodo.20737614">doi:10.5281/zenodo.20737614</a></p>
+    </div>
+    <div>
+      <p class="footer-label">About this site</p>
+      <p>© 2026 Dominik Wujastyk. A project at the <a href="https://ualberta.ca/">University of Alberta</a>, funded by <a href="https://www.sshrc-crsh.gc.ca/">SSHRC</a> Insight Grant 435-2025-0604.
+        Published with <a href="https://pages.github.com">GitHub Pages</a>.
+        <a href="/feed.xml">RSS feed</a>.
+        Last updated 23 November 2026.</p>
+    </div>
+  </div>
+</footer>
+
+  <script src="/assets/js/site.js" defer></script>
+</body>
+</html>
